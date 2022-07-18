@@ -16,16 +16,20 @@
             <div class="order-details">
                 <div class="input-box">
                     <span class="details">Order ID</span>
-                    <input type="text" value="{{ Ord_Id }}" name="Ord_Id" readonly>
+                    {% if submitted %}
+                        {% set Id = Ord_Id + 1 %}
+                    {% else %}
+                        {% set Id = Ord_Id %}
+                    {% endif %}
+                    <input type="text" value="{{ Id }}" name="Ord_Id" readonly>
                 </div>
                 <div class="input-box">
                     <span class="details">Product Category</span>
-                    <select required="required" name="Category_Id">
+                    <select required="required" name="Category_Name">
                         <option disabled selected value="">Select an option</option >
-                        <option value="YRN">YARN</option>
-                        <option value="EQP">EQUIPMENT AND MACHINE</option>
-                        <option value="SPR">SPARE PARTS</option>
-                        <option value="CAP">CAPITAL ITEMS</option>
+                        {% for category in categories %}
+                            <option>{{ category }}</option>
+                        {% endfor %}
                     </select>
                 </div>
                 <div class="input-box">
@@ -73,19 +77,15 @@
                         <th>Status</th>
                     </tr>
                     <tr id="order_values">
-                        <td id="Ord_Id">{{ table_values[0] }}</td>
+                        <td id="Ord_Id">{{ Ord_Id }}</td>
                         {% for value in table_values[1:] %}
                         <td>{{ value }}</td>
                         {% endfor %}
                         <td>
-                            <a href="{{ url_for('edit', record_id= table_values[0]) }}">
-                                <input formaction="/edit" formmethod="post" type="submit" value="Edit">
-                                    <i class="material-icons"></i>
-                                </input>
-                            </a><br>
+                            <input formaction="/edit/{{ table_values[0] }}" formmethod="post" type="submit" value="Edit">
+                            </input><br>
                             <input formaction="/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
-                                    <i class="material-icons"></i>
-                                </input>    
+                            </input>    
                         </td>
                     </tr>
                 </table>

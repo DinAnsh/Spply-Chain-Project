@@ -8,8 +8,11 @@ global submitted
 @app.route('/', methods=['GET','POST'])
 def home_page():
     cur, con = db.get_db()
-    data = cur.execute("select Product_Name from Mproduct").fetchall()
-    products = [product[0] for product in data]
+    product_data = cur.execute("select Product_Name from Mproduct").fetchall()
+    products = [product[0] for product in product_data]
+
+    category_data = cur.execute("select Category_Name from Mcategory").fetchall()
+    categories = [category[0] for category in category_data]
 
     Ord_Id = cur.execute("select Ord_Id from MOrder").fetchval()
     Ord_Id = int(Ord_Id) + cur.execute("select count(*) from Morder").fetchval()
@@ -19,7 +22,7 @@ def home_page():
     if request.method=='GET':
         submitted = False
         log.put_log(2, "Open Home page")
-        return render_template('home.html', submitted=submitted, products=products, Ord_Id=Ord_Id)
+        return render_template('home.html', submitted=submitted, products=products, categories=categories, Ord_Id=Ord_Id)
     
     else:
         submitted = True
@@ -32,6 +35,9 @@ def home_page():
 
             Product_Name = request.form.get("Product_Name")
             ProductId = cur.execute("select ProductId from Mproduct where Product_Name=(?)",Product_Name).fetchval()
+
+            Categoryt_Name = request.form.get("Category_Name")
+            Category_Id = cur.execute("select Category_Id from Mcategory where Category_Name=(?)",Category_Name).fetchval()
             
             ProductQty = request.form.get("ProductQty")
             ProductRate = request.form.get("ProductRate")
@@ -60,7 +66,13 @@ def home_page():
 @app.route('/edit/<string:record_id>', methods=['POST'])
 def edit(record_id):
     log.put_log(2, "edit section")
-    
+    '''
+    try:
+        
+    except:
+        log.put_log(3, " There is some error in the query!!")
+        return f"There is an ERROR - {record_id}"
+'''
     return [request.form.get("Ord_Id"),
     request.form.get("ProductQty"),
     request.form.get("ProductRate"),
@@ -69,13 +81,13 @@ def edit(record_id):
 
     #return render_template('home.html')
 
-@app.route('/delete', defaults={'record_id':'/'}, methods=['POST'])
+
 @app.route('/delete/<string:record_id>', methods=['POST'])
 def delete(record_id):
     log.put_log(2, "delete section")
-    cur, con = db.get_db()
-    submitted = False
+    
     try:
+        cur, con = db.get_db()
         cur.execute("delete from Morder where Ord_Id=(?)",record_id)
         log.put_log(2, f"{record_id} database is saved!")
     except:
@@ -87,6 +99,7 @@ def delete(record_id):
     db.close_db(con)
     log.put_log(2, "database is closed!")
     return redirect('/')
+
 
 if __name__ == "__main__":
     app.run(debug=True)
