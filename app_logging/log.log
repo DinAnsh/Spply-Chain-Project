@@ -1,0 +1,2043 @@
+14-07-2022, 19:56:59	WARNING- func called
+14-07-2022, 19:56:59	WARNING- Got values from user
+14-07-2022, 19:56:59	WARNING- operation is performed!
+14-07-2022, 19:56:59	WARNING- database is saved!
+14-07-2022, 19:56:59	WARNING- database is closed!
+14-07-2022, 19:56:59	INFO- 127.0.0.1 - - [14/Jul/2022 19:56:59] "POST /result HTTP/1.1" 200 -
+14-07-2022, 19:56:59	INFO- 127.0.0.1 - - [14/Jul/2022 19:56:59] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 22:55:35	WARNING- Open Home page
+14-07-2022, 22:55:35	INFO- 127.0.0.1 - - [14/Jul/2022 22:55:35] "GET / HTTP/1.1" 200 -
+14-07-2022, 22:55:36	INFO- 127.0.0.1 - - [14/Jul/2022 22:55:36] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:06:50	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+14-07-2022, 23:11:53	WARNING- Open Home page
+14-07-2022, 23:11:53	INFO- 127.0.0.1 - - [14/Jul/2022 23:11:53] "[35m[1mGET / HTTP/1.1[0m" 500 -
+14-07-2022, 23:11:54	INFO- 127.0.0.1 - - [14/Jul/2022 23:11:54] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+14-07-2022, 23:11:54	INFO- 127.0.0.1 - - [14/Jul/2022 23:11:54] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+14-07-2022, 23:11:54	INFO- 127.0.0.1 - - [14/Jul/2022 23:11:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+14-07-2022, 23:11:54	INFO- 127.0.0.1 - - [14/Jul/2022 23:11:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+14-07-2022, 23:12:18	WARNING- Open Home page
+14-07-2022, 23:12:18	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:18] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:12:19	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:19] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:12:26	WARNING- Open Home page
+14-07-2022, 23:12:26	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:26] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:12:26	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:26] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:12:28	WARNING- Open Home page
+14-07-2022, 23:12:28	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:28] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:12:28	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:28] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:12:29	WARNING- Open Home page
+14-07-2022, 23:12:29	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:29] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:12:29	INFO- 127.0.0.1 - - [14/Jul/2022 23:12:29] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:13:11	WARNING- Open Home page
+14-07-2022, 23:13:11	INFO- 127.0.0.1 - - [14/Jul/2022 23:13:11] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:13:11	INFO- 127.0.0.1 - - [14/Jul/2022 23:13:11] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:15:13	WARNING- Open Home page
+14-07-2022, 23:15:13	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:13] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:15:13	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:13] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:15:14	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+14-07-2022, 23:15:48	WARNING- Open Home page
+14-07-2022, 23:15:48	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:48] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:15:48	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:48] "[33mGET /templates/styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:15:49	WARNING- Open Home page
+14-07-2022, 23:15:49	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:49] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:15:49	INFO- 127.0.0.1 - - [14/Jul/2022 23:15:49] "[33mGET /templates/styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:19:37	WARNING- Open Home page
+14-07-2022, 23:19:37	INFO- 127.0.0.1 - - [14/Jul/2022 23:19:37] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:19:37	INFO- 127.0.0.1 - - [14/Jul/2022 23:19:37] "[33mGET /templates/styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:19:38	WARNING- Open Home page
+14-07-2022, 23:19:38	INFO- 127.0.0.1 - - [14/Jul/2022 23:19:38] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:19:38	INFO- 127.0.0.1 - - [14/Jul/2022 23:19:38] "[33mGET /templates/styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:19:47	WARNING- Open Home page
+14-07-2022, 23:19:47	INFO- 127.0.0.1 - - [14/Jul/2022 23:19:47] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:19:47	INFO- 127.0.0.1 - - [14/Jul/2022 23:19:47] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:21:40	WARNING- Open Home page
+14-07-2022, 23:21:40	INFO- 127.0.0.1 - - [14/Jul/2022 23:21:40] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:21:40	INFO- 127.0.0.1 - - [14/Jul/2022 23:21:40] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:22:28	WARNING- Open Home page
+14-07-2022, 23:22:29	INFO- 127.0.0.1 - - [14/Jul/2022 23:22:29] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:22:29	INFO- 127.0.0.1 - - [14/Jul/2022 23:22:29] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:22:36	WARNING- Open Home page
+14-07-2022, 23:22:36	INFO- 127.0.0.1 - - [14/Jul/2022 23:22:36] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:22:36	INFO- 127.0.0.1 - - [14/Jul/2022 23:22:36] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:23:03	WARNING- Open Home page
+14-07-2022, 23:23:03	INFO- 127.0.0.1 - - [14/Jul/2022 23:23:03] "GET / HTTP/1.1" 200 -
+14-07-2022, 23:23:03	INFO- 127.0.0.1 - - [14/Jul/2022 23:23:03] "GET /static/styles.css HTTP/1.1" 200 -
+14-07-2022, 23:23:21	WARNING- func called
+14-07-2022, 23:23:22	WARNING- Got values from user
+14-07-2022, 23:23:22	WARNING- operation is performed!
+14-07-2022, 23:23:22	WARNING- database is saved!
+14-07-2022, 23:23:22	WARNING- database is closed!
+14-07-2022, 23:23:22	ERROR-  There is an exception!!
+14-07-2022, 23:23:22	INFO- 127.0.0.1 - - [14/Jul/2022 23:23:22] "POST /result HTTP/1.1" 200 -
+14-07-2022, 23:23:45	WARNING- func called
+14-07-2022, 23:23:45	WARNING- Got values from user
+14-07-2022, 23:23:45	WARNING- operation is performed!
+14-07-2022, 23:23:45	WARNING- database is saved!
+14-07-2022, 23:23:45	WARNING- database is closed!
+14-07-2022, 23:23:45	INFO- 127.0.0.1 - - [14/Jul/2022 23:23:45] "POST /result HTTP/1.1" 200 -
+14-07-2022, 23:23:46	INFO- 127.0.0.1 - - [14/Jul/2022 23:23:46] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+14-07-2022, 23:42:56	WARNING- func called
+14-07-2022, 23:42:56	WARNING- Got values from user
+14-07-2022, 23:42:56	WARNING- operation is performed!
+14-07-2022, 23:42:56	WARNING- database is saved!
+14-07-2022, 23:42:56	WARNING- database is closed!
+14-07-2022, 23:42:56	INFO- 127.0.0.1 - - [14/Jul/2022 23:42:56] "POST /result HTTP/1.1" 200 -
+14-07-2022, 23:42:56	INFO- 127.0.0.1 - - [14/Jul/2022 23:42:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-07-2022, 23:54:50	WARNING- func called
+14-07-2022, 23:54:50	WARNING- Got values from user
+14-07-2022, 23:54:50	WARNING- operation is performed!
+14-07-2022, 23:54:50	WARNING- database is saved!
+14-07-2022, 23:54:50	WARNING- database is closed!
+14-07-2022, 23:54:50	INFO- 127.0.0.1 - - [14/Jul/2022 23:54:50] "POST /result HTTP/1.1" 200 -
+14-07-2022, 23:54:50	INFO- 127.0.0.1 - - [14/Jul/2022 23:54:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:36:33	WARNING- Open Home page
+15-07-2022, 11:36:33	INFO- 127.0.0.1 - - [15/Jul/2022 11:36:33] "GET / HTTP/1.1" 200 -
+15-07-2022, 11:36:34	INFO- 127.0.0.1 - - [15/Jul/2022 11:36:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:36:34	INFO- 127.0.0.1 - - [15/Jul/2022 11:36:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+15-07-2022, 11:36:49	INFO- 127.0.0.1 - - [15/Jul/2022 11:36:49] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+15-07-2022, 11:37:30	INFO- 127.0.0.1 - - [15/Jul/2022 11:37:30] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+15-07-2022, 11:38:16	WARNING- Open Home page
+15-07-2022, 11:38:16	INFO- 127.0.0.1 - - [15/Jul/2022 11:38:16] "GET / HTTP/1.1" 200 -
+15-07-2022, 11:38:16	INFO- 127.0.0.1 - - [15/Jul/2022 11:38:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:38:29	WARNING- Open Home page
+15-07-2022, 11:38:29	INFO- 127.0.0.1 - - [15/Jul/2022 11:38:29] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 11:38:29	INFO- 127.0.0.1 - - [15/Jul/2022 11:38:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:42:35	WARNING- Open Home page
+15-07-2022, 11:42:35	INFO- 127.0.0.1 - - [15/Jul/2022 11:42:35] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 11:42:35	INFO- 127.0.0.1 - - [15/Jul/2022 11:42:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:42:45	WARNING- Open Home page
+15-07-2022, 11:42:45	INFO- 127.0.0.1 - - [15/Jul/2022 11:42:45] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 11:42:45	INFO- 127.0.0.1 - - [15/Jul/2022 11:42:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:44:02	WARNING- Open Home page
+15-07-2022, 11:44:02	INFO- 127.0.0.1 - - [15/Jul/2022 11:44:02] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 11:44:02	INFO- 127.0.0.1 - - [15/Jul/2022 11:44:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:45:15	WARNING- Open Home page
+15-07-2022, 11:45:15	INFO- 127.0.0.1 - - [15/Jul/2022 11:45:15] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 11:45:15	INFO- 127.0.0.1 - - [15/Jul/2022 11:45:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 11:47:09	WARNING- Open Home page
+15-07-2022, 11:47:09	INFO- 127.0.0.1 - - [15/Jul/2022 11:47:09] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 11:47:09	INFO- 127.0.0.1 - - [15/Jul/2022 11:47:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:07:51	WARNING- Open Home page
+15-07-2022, 12:07:51	INFO- 127.0.0.1 - - [15/Jul/2022 12:07:51] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:07:51	INFO- 127.0.0.1 - - [15/Jul/2022 12:07:51] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 12:08:27	WARNING- Open Home page
+15-07-2022, 12:08:27	INFO- 127.0.0.1 - - [15/Jul/2022 12:08:27] "GET /?Ord_Id=456&Category_Id=SPR&Product_Name=jh&ProductQty=74&ProductRate=85210&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:08:27	INFO- 127.0.0.1 - - [15/Jul/2022 12:08:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:08:40	WARNING- Open Home page
+15-07-2022, 12:08:40	INFO- 127.0.0.1 - - [15/Jul/2022 12:08:40] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:08:40	INFO- 127.0.0.1 - - [15/Jul/2022 12:08:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:09:55	WARNING- Open Home page
+15-07-2022, 12:09:55	INFO- 127.0.0.1 - - [15/Jul/2022 12:09:55] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:09:55	INFO- 127.0.0.1 - - [15/Jul/2022 12:09:55] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 12:10:06	WARNING- Open Home page
+15-07-2022, 12:10:06	INFO- 127.0.0.1 - - [15/Jul/2022 12:10:06] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:10:06	INFO- 127.0.0.1 - - [15/Jul/2022 12:10:06] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 12:11:26	WARNING- Open Home page
+15-07-2022, 12:11:26	INFO- 127.0.0.1 - - [15/Jul/2022 12:11:26] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:11:26	INFO- 127.0.0.1 - - [15/Jul/2022 12:11:26] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 12:11:53	WARNING- Open Home page
+15-07-2022, 12:11:53	INFO- 127.0.0.1 - - [15/Jul/2022 12:11:53] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:11:53	INFO- 127.0.0.1 - - [15/Jul/2022 12:11:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:12:19	WARNING- Open Home page
+15-07-2022, 12:12:19	INFO- 127.0.0.1 - - [15/Jul/2022 12:12:19] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:12:19	INFO- 127.0.0.1 - - [15/Jul/2022 12:12:19] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 12:12:29	WARNING- Open Home page
+15-07-2022, 12:12:29	INFO- 127.0.0.1 - - [15/Jul/2022 12:12:29] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:12:29	INFO- 127.0.0.1 - - [15/Jul/2022 12:12:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:15:10	WARNING- Open Home page
+15-07-2022, 12:15:10	INFO- 127.0.0.1 - - [15/Jul/2022 12:15:10] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:15:10	INFO- 127.0.0.1 - - [15/Jul/2022 12:15:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:18:54	WARNING- Open Home page
+15-07-2022, 12:18:54	INFO- 127.0.0.1 - - [15/Jul/2022 12:18:54] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:18:54	INFO- 127.0.0.1 - - [15/Jul/2022 12:18:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:19:53	WARNING- Open Home page
+15-07-2022, 12:19:53	INFO- 127.0.0.1 - - [15/Jul/2022 12:19:53] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:19:53	INFO- 127.0.0.1 - - [15/Jul/2022 12:19:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:20:06	WARNING- Open Home page
+15-07-2022, 12:20:06	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:06] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:20:06	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:20:18	WARNING- Open Home page
+15-07-2022, 12:20:18	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:18] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:20:18	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:20:32	WARNING- Open Home page
+15-07-2022, 12:20:32	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:32] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:20:32	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:20:53	WARNING- func called
+15-07-2022, 12:20:53	WARNING- Got values from user
+15-07-2022, 12:20:53	WARNING- operation is performed!
+15-07-2022, 12:20:53	WARNING- database is saved!
+15-07-2022, 12:20:53	WARNING- database is closed!
+15-07-2022, 12:20:53	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:53] "POST /result HTTP/1.1" 200 -
+15-07-2022, 12:20:53	INFO- 127.0.0.1 - - [15/Jul/2022 12:20:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:21:22	WARNING- Open Home page
+15-07-2022, 12:21:22	INFO- 127.0.0.1 - - [15/Jul/2022 12:21:22] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:21:22	INFO- 127.0.0.1 - - [15/Jul/2022 12:21:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:22:06	WARNING- Open Home page
+15-07-2022, 12:22:06	INFO- 127.0.0.1 - - [15/Jul/2022 12:22:06] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:22:06	INFO- 127.0.0.1 - - [15/Jul/2022 12:22:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:22:12	WARNING- Open Home page
+15-07-2022, 12:22:12	INFO- 127.0.0.1 - - [15/Jul/2022 12:22:12] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:22:12	INFO- 127.0.0.1 - - [15/Jul/2022 12:22:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:27:24	WARNING- Open Home page
+15-07-2022, 12:27:24	INFO- 127.0.0.1 - - [15/Jul/2022 12:27:24] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:27:24	INFO- 127.0.0.1 - - [15/Jul/2022 12:27:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:28:07	INFO- 127.0.0.1 - - [15/Jul/2022 12:28:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 12:33:48	WARNING- Open Home page
+15-07-2022, 12:33:48	INFO- 127.0.0.1 - - [15/Jul/2022 12:33:48] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 12:33:49	INFO- 127.0.0.1 - - [15/Jul/2022 12:33:49] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:12:40	WARNING- Open Home page
+15-07-2022, 13:12:40	INFO- 127.0.0.1 - - [15/Jul/2022 13:12:40] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:12:40	INFO- 127.0.0.1 - - [15/Jul/2022 13:12:40] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:13:13	WARNING- Open Home page
+15-07-2022, 13:13:13	INFO- 127.0.0.1 - - [15/Jul/2022 13:13:13] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:13:13	INFO- 127.0.0.1 - - [15/Jul/2022 13:13:13] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:13:40	WARNING- Open Home page
+15-07-2022, 13:13:40	INFO- 127.0.0.1 - - [15/Jul/2022 13:13:40] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:13:40	INFO- 127.0.0.1 - - [15/Jul/2022 13:13:40] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:13:58	WARNING- Open Home page
+15-07-2022, 13:13:58	INFO- 127.0.0.1 - - [15/Jul/2022 13:13:58] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:13:58	INFO- 127.0.0.1 - - [15/Jul/2022 13:13:58] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:15:12	WARNING- Open Home page
+15-07-2022, 13:15:12	INFO- 127.0.0.1 - - [15/Jul/2022 13:15:12] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:15:12	INFO- 127.0.0.1 - - [15/Jul/2022 13:15:12] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:15:25	WARNING- Open Home page
+15-07-2022, 13:15:25	INFO- 127.0.0.1 - - [15/Jul/2022 13:15:25] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:15:25	INFO- 127.0.0.1 - - [15/Jul/2022 13:15:25] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 13:15:40	WARNING- Open Home page
+15-07-2022, 13:15:40	INFO- 127.0.0.1 - - [15/Jul/2022 13:15:40] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 13:15:40	INFO- 127.0.0.1 - - [15/Jul/2022 13:15:40] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:15:31	WARNING- Open Home page
+15-07-2022, 16:15:31	INFO- 127.0.0.1 - - [15/Jul/2022 16:15:31] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:15:31	INFO- 127.0.0.1 - - [15/Jul/2022 16:15:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:15:36	WARNING- Open Home page
+15-07-2022, 16:15:36	INFO- 127.0.0.1 - - [15/Jul/2022 16:15:36] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:15:36	INFO- 127.0.0.1 - - [15/Jul/2022 16:15:36] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:16:41	WARNING- Open Home page
+15-07-2022, 16:16:41	INFO- 127.0.0.1 - - [15/Jul/2022 16:16:41] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:16:41	INFO- 127.0.0.1 - - [15/Jul/2022 16:16:41] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:16:49	WARNING- Open Home page
+15-07-2022, 16:16:49	INFO- 127.0.0.1 - - [15/Jul/2022 16:16:49] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:16:49	INFO- 127.0.0.1 - - [15/Jul/2022 16:16:49] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:17:18	WARNING- Open Home page
+15-07-2022, 16:17:18	INFO- 127.0.0.1 - - [15/Jul/2022 16:17:18] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:17:18	INFO- 127.0.0.1 - - [15/Jul/2022 16:17:18] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:18:17	WARNING- Open Home page
+15-07-2022, 16:18:17	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:17] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:18:17	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:17] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:18:28	WARNING- Open Home page
+15-07-2022, 16:18:28	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:28] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:18:28	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:28] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:18:38	WARNING- Open Home page
+15-07-2022, 16:18:38	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:38] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:18:38	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:38] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:18:55	WARNING- Open Home page
+15-07-2022, 16:18:55	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:55] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:18:55	INFO- 127.0.0.1 - - [15/Jul/2022 16:18:55] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:19:04	WARNING- Open Home page
+15-07-2022, 16:19:04	INFO- 127.0.0.1 - - [15/Jul/2022 16:19:04] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:19:04	INFO- 127.0.0.1 - - [15/Jul/2022 16:19:04] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:19:32	INFO- 127.0.0.1 - - [15/Jul/2022 16:19:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:20:15	WARNING- Open Home page
+15-07-2022, 16:20:15	INFO- 127.0.0.1 - - [15/Jul/2022 16:20:15] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:20:15	INFO- 127.0.0.1 - - [15/Jul/2022 16:20:15] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:20:24	WARNING- Open Home page
+15-07-2022, 16:20:24	INFO- 127.0.0.1 - - [15/Jul/2022 16:20:24] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:20:24	INFO- 127.0.0.1 - - [15/Jul/2022 16:20:24] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:20:38	WARNING- Open Home page
+15-07-2022, 16:20:38	INFO- 127.0.0.1 - - [15/Jul/2022 16:20:38] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:20:38	INFO- 127.0.0.1 - - [15/Jul/2022 16:20:38] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:21:04	WARNING- Open Home page
+15-07-2022, 16:21:04	INFO- 127.0.0.1 - - [15/Jul/2022 16:21:04] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:21:04	INFO- 127.0.0.1 - - [15/Jul/2022 16:21:04] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:21:14	WARNING- Open Home page
+15-07-2022, 16:21:14	INFO- 127.0.0.1 - - [15/Jul/2022 16:21:14] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:21:14	INFO- 127.0.0.1 - - [15/Jul/2022 16:21:14] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:27:55	WARNING- Open Home page
+15-07-2022, 16:27:56	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:56] "[35m[1mGET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1[0m" 500 -
+15-07-2022, 16:27:56	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+15-07-2022, 16:27:56	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+15-07-2022, 16:27:57	WARNING- Open Home page
+15-07-2022, 16:27:57	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:57] "[35m[1mGET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1[0m" 500 -
+15-07-2022, 16:27:57	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:57] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+15-07-2022, 16:27:57	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:57] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+15-07-2022, 16:27:57	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 16:27:57	INFO- 127.0.0.1 - - [15/Jul/2022 16:27:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 16:28:16	WARNING- Open Home page
+15-07-2022, 16:28:16	INFO- 127.0.0.1 - - [15/Jul/2022 16:28:16] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:28:16	INFO- 127.0.0.1 - - [15/Jul/2022 16:28:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:28:48	WARNING- Open Home page
+15-07-2022, 16:28:48	INFO- 127.0.0.1 - - [15/Jul/2022 16:28:48] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:28:49	INFO- 127.0.0.1 - - [15/Jul/2022 16:28:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:30:09	WARNING- Open Home page
+15-07-2022, 16:30:09	INFO- 127.0.0.1 - - [15/Jul/2022 16:30:09] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:30:09	INFO- 127.0.0.1 - - [15/Jul/2022 16:30:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:30:54	WARNING- Open Home page
+15-07-2022, 16:30:54	INFO- 127.0.0.1 - - [15/Jul/2022 16:30:54] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:30:54	INFO- 127.0.0.1 - - [15/Jul/2022 16:30:54] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:32:01	WARNING- Open Home page
+15-07-2022, 16:32:01	INFO- 127.0.0.1 - - [15/Jul/2022 16:32:01] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:32:01	INFO- 127.0.0.1 - - [15/Jul/2022 16:32:01] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:33:38	WARNING- Open Home page
+15-07-2022, 16:33:38	INFO- 127.0.0.1 - - [15/Jul/2022 16:33:38] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:33:38	INFO- 127.0.0.1 - - [15/Jul/2022 16:33:38] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:34:09	WARNING- Open Home page
+15-07-2022, 16:34:09	INFO- 127.0.0.1 - - [15/Jul/2022 16:34:09] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:34:10	INFO- 127.0.0.1 - - [15/Jul/2022 16:34:10] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:34:49	WARNING- Open Home page
+15-07-2022, 16:34:49	INFO- 127.0.0.1 - - [15/Jul/2022 16:34:49] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:34:49	INFO- 127.0.0.1 - - [15/Jul/2022 16:34:49] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:40:57	WARNING- Open Home page
+15-07-2022, 16:40:57	INFO- 127.0.0.1 - - [15/Jul/2022 16:40:57] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:40:58	INFO- 127.0.0.1 - - [15/Jul/2022 16:40:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:41:37	WARNING- Open Home page
+15-07-2022, 16:41:37	INFO- 127.0.0.1 - - [15/Jul/2022 16:41:37] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:41:37	INFO- 127.0.0.1 - - [15/Jul/2022 16:41:37] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:41:55	WARNING- Open Home page
+15-07-2022, 16:41:55	INFO- 127.0.0.1 - - [15/Jul/2022 16:41:55] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:41:55	INFO- 127.0.0.1 - - [15/Jul/2022 16:41:55] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 16:45:27	WARNING- Open Home page
+15-07-2022, 16:45:27	INFO- 127.0.0.1 - - [15/Jul/2022 16:45:27] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:45:27	INFO- 127.0.0.1 - - [15/Jul/2022 16:45:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:46:58	WARNING- Open Home page
+15-07-2022, 16:46:58	INFO- 127.0.0.1 - - [15/Jul/2022 16:46:58] "GET /?Ord_Id=324&Category_Id=YRN&Product_Name=reg&ProductQty=45&ProductRate=14324&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 16:46:58	INFO- 127.0.0.1 - - [15/Jul/2022 16:46:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:47:22	WARNING- Open Home page
+15-07-2022, 16:47:22	INFO- 127.0.0.1 - - [15/Jul/2022 16:47:22] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:47:22	INFO- 127.0.0.1 - - [15/Jul/2022 16:47:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:52:26	WARNING- Open Home page
+15-07-2022, 16:52:26	INFO- 127.0.0.1 - - [15/Jul/2022 16:52:26] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:52:26	INFO- 127.0.0.1 - - [15/Jul/2022 16:52:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:53:19	WARNING- Open Home page
+15-07-2022, 16:53:19	INFO- 127.0.0.1 - - [15/Jul/2022 16:53:19] "[35m[1mGET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1[0m" 500 -
+15-07-2022, 16:53:19	INFO- 127.0.0.1 - - [15/Jul/2022 16:53:19] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:53:19	INFO- 127.0.0.1 - - [15/Jul/2022 16:53:19] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+15-07-2022, 16:53:19	INFO- 127.0.0.1 - - [15/Jul/2022 16:53:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 16:53:19	INFO- 127.0.0.1 - - [15/Jul/2022 16:53:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 16:54:36	WARNING- Open Home page
+15-07-2022, 16:54:37	INFO- 127.0.0.1 - - [15/Jul/2022 16:54:37] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:54:37	INFO- 127.0.0.1 - - [15/Jul/2022 16:54:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:55:08	WARNING- Open Home page
+15-07-2022, 16:55:08	INFO- 127.0.0.1 - - [15/Jul/2022 16:55:08] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:55:08	INFO- 127.0.0.1 - - [15/Jul/2022 16:55:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:10	WARNING- Open Home page
+15-07-2022, 16:56:10	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:10] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:56:10	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:30	WARNING- Open Home page
+15-07-2022, 16:56:30	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:30] "[35m[1mGET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1[0m" 500 -
+15-07-2022, 16:56:30	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:30	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:31	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:31	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:40	WARNING- Open Home page
+15-07-2022, 16:56:40	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:40] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:56:40	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 16:56:50	WARNING- Open Home page
+15-07-2022, 16:56:50	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:50] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 16:56:50	INFO- 127.0.0.1 - - [15/Jul/2022 16:56:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:04:29	WARNING- Open Home page
+15-07-2022, 17:04:29	INFO- 127.0.0.1 - - [15/Jul/2022 17:04:29] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:04:29	INFO- 127.0.0.1 - - [15/Jul/2022 17:04:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:04:47	WARNING- Open Home page
+15-07-2022, 17:04:47	INFO- 127.0.0.1 - - [15/Jul/2022 17:04:47] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:04:47	INFO- 127.0.0.1 - - [15/Jul/2022 17:04:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:08:35	WARNING- Open Home page
+15-07-2022, 17:08:35	INFO- 127.0.0.1 - - [15/Jul/2022 17:08:35] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:08:36	INFO- 127.0.0.1 - - [15/Jul/2022 17:08:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:08:57	WARNING- Open Home page
+15-07-2022, 17:08:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:08:57] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:08:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:08:57] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 17:09:13	WARNING- Open Home page
+15-07-2022, 17:09:13	INFO- 127.0.0.1 - - [15/Jul/2022 17:09:13] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:09:13	INFO- 127.0.0.1 - - [15/Jul/2022 17:09:13] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 17:10:18	WARNING- Open Home page
+15-07-2022, 17:10:18	INFO- 127.0.0.1 - - [15/Jul/2022 17:10:18] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:10:18	INFO- 127.0.0.1 - - [15/Jul/2022 17:10:18] "GET /static/styles.css HTTP/1.1" 200 -
+15-07-2022, 17:16:51	WARNING- Open Home page
+15-07-2022, 17:16:51	INFO- 127.0.0.1 - - [15/Jul/2022 17:16:51] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:16:51	INFO- 127.0.0.1 - - [15/Jul/2022 17:16:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:17:02	WARNING- Open Home page
+15-07-2022, 17:17:02	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:02] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:17:02	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:17:08	WARNING- Open Home page
+15-07-2022, 17:17:08	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:08] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:17:08	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:17:40	WARNING- Open Home page
+15-07-2022, 17:17:40	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:40] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:17:40	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:17:42	WARNING- Open Home page
+15-07-2022, 17:17:42	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:42] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:17:42	INFO- 127.0.0.1 - - [15/Jul/2022 17:17:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:18:57	WARNING- Open Home page
+15-07-2022, 17:18:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:18:57] "[35m[1mGET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1[0m" 500 -
+15-07-2022, 17:18:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:18:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:18:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:18:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+15-07-2022, 17:18:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:18:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 17:18:57	INFO- 127.0.0.1 - - [15/Jul/2022 17:18:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+15-07-2022, 17:21:27	WARNING- Open Home page
+15-07-2022, 17:21:27	INFO- 127.0.0.1 - - [15/Jul/2022 17:21:27] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:21:27	INFO- 127.0.0.1 - - [15/Jul/2022 17:21:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:22:07	WARNING- Open Home page
+15-07-2022, 17:22:07	INFO- 127.0.0.1 - - [15/Jul/2022 17:22:07] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:22:07	INFO- 127.0.0.1 - - [15/Jul/2022 17:22:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:22:13	WARNING- Open Home page
+15-07-2022, 17:22:13	INFO- 127.0.0.1 - - [15/Jul/2022 17:22:13] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:22:13	INFO- 127.0.0.1 - - [15/Jul/2022 17:22:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:54:22	WARNING- Open Home page
+15-07-2022, 17:54:22	INFO- 127.0.0.1 - - [15/Jul/2022 17:54:22] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=qwerty&ProductQty=852&ProductRate=741258&Ord_Status=C HTTP/1.1" 200 -
+15-07-2022, 17:54:22	INFO- 127.0.0.1 - - [15/Jul/2022 17:54:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:54:44	WARNING- Open Home page
+15-07-2022, 17:54:44	INFO- 127.0.0.1 - - [15/Jul/2022 17:54:44] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=werty&ProductQty=345&ProductRate=8520&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:54:44	INFO- 127.0.0.1 - - [15/Jul/2022 17:54:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:55:02	WARNING- Open Home page
+15-07-2022, 17:55:02	INFO- 127.0.0.1 - - [15/Jul/2022 17:55:02] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=werty&ProductQty=345&ProductRate=8520&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:55:02	INFO- 127.0.0.1 - - [15/Jul/2022 17:55:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:55:24	WARNING- Open Home page
+15-07-2022, 17:55:24	INFO- 127.0.0.1 - - [15/Jul/2022 17:55:24] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=werty&ProductQty=345&ProductRate=8520&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:55:24	INFO- 127.0.0.1 - - [15/Jul/2022 17:55:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:57:36	WARNING- Open Home page
+15-07-2022, 17:57:36	INFO- 127.0.0.1 - - [15/Jul/2022 17:57:36] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=werty&ProductQty=345&ProductRate=8520&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:57:36	INFO- 127.0.0.1 - - [15/Jul/2022 17:57:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:57:44	WARNING- Open Home page
+15-07-2022, 17:57:44	INFO- 127.0.0.1 - - [15/Jul/2022 17:57:44] "GET /?Ord_Id=444&Category_Id=EQP&Product_Name=werty&ProductQty=345&ProductRate=8520&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:57:44	INFO- 127.0.0.1 - - [15/Jul/2022 17:57:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:57:58	WARNING- Open Home page
+15-07-2022, 17:57:58	INFO- 127.0.0.1 - - [15/Jul/2022 17:57:58] "GET /?Ord_Id=321&Category_Id=EQP&Product_Name=qqew&ProductQty=23&ProductRate=435&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:57:58	INFO- 127.0.0.1 - - [15/Jul/2022 17:57:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:58:28	WARNING- Open Home page
+15-07-2022, 17:58:28	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:28] "GET /?Ord_Id=321&Category_Id=EQP&Product_Name=qqew&ProductQty=23&ProductRate=435&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:58:28	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:58:29	WARNING- Open Home page
+15-07-2022, 17:58:29	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:29] "GET /?Ord_Id=321&Category_Id=EQP&Product_Name=qqew&ProductQty=23&ProductRate=435&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:58:29	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:58:39	WARNING- Open Home page
+15-07-2022, 17:58:39	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:39] "GET /?Ord_Id=321&Category_Id=EQP&Product_Name=qqew&ProductQty=23&ProductRate=435&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:58:39	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:58:48	WARNING- Open Home page
+15-07-2022, 17:58:48	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:48] "GET /?Ord_Id=23&Category_Id=YRN&Product_Name=efg&ProductQty=43&ProductRate=45467&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:58:48	INFO- 127.0.0.1 - - [15/Jul/2022 17:58:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 17:59:03	WARNING- Open Home page
+15-07-2022, 17:59:03	INFO- 127.0.0.1 - - [15/Jul/2022 17:59:03] "GET /?Ord_Id=23&Category_Id=YRN&Product_Name=efg&ProductQty=43&ProductRate=45467&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 17:59:03	INFO- 127.0.0.1 - - [15/Jul/2022 17:59:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 18:46:30	WARNING- Open Home page
+15-07-2022, 18:46:30	INFO- 127.0.0.1 - - [15/Jul/2022 18:46:30] "GET /?Ord_Id=23&Category_Id=YRN&Product_Name=efg&ProductQty=43&ProductRate=45467&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 18:46:30	INFO- 127.0.0.1 - - [15/Jul/2022 18:46:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 18:50:28	WARNING- Open Home page
+15-07-2022, 18:50:28	INFO- 127.0.0.1 - - [15/Jul/2022 18:50:28] "GET /?Ord_Id=23&Category_Id=YRN&Product_Name=efg&ProductQty=43&ProductRate=45467&Ord_Status=O HTTP/1.1" 200 -
+15-07-2022, 18:50:28	INFO- 127.0.0.1 - - [15/Jul/2022 18:50:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 18:50:37	WARNING- Open Home page
+15-07-2022, 18:50:37	INFO- 127.0.0.1 - - [15/Jul/2022 18:50:37] "GET / HTTP/1.1" 200 -
+15-07-2022, 18:50:37	INFO- 127.0.0.1 - - [15/Jul/2022 18:50:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+15-07-2022, 21:45:22	WARNING- Open Home page
+15-07-2022, 21:45:22	INFO- 127.0.0.1 - - [15/Jul/2022 21:45:22] "GET / HTTP/1.1" 200 -
+15-07-2022, 21:45:23	INFO- 127.0.0.1 - - [15/Jul/2022 21:45:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:55:32	WARNING- Open Home page
+16-07-2022, 10:55:32	INFO- 127.0.0.1 - - [16/Jul/2022 10:55:32] "GET / HTTP/1.1" 200 -
+16-07-2022, 10:55:33	INFO- 127.0.0.1 - - [16/Jul/2022 10:55:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:55:33	INFO- 127.0.0.1 - - [16/Jul/2022 10:55:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+16-07-2022, 10:55:35	INFO- 127.0.0.1 - - [16/Jul/2022 10:55:35] "[33mGET /edit HTTP/1.1[0m" 404 -
+16-07-2022, 10:57:26	WARNING- Open Home page
+16-07-2022, 10:57:26	INFO- 127.0.0.1 - - [16/Jul/2022 10:57:26] "GET /?Ord_Id=132&Category_Id=SPR&Product_Name=wqert&ProductQty=213&ProductRate=32000&Ord_Status=C HTTP/1.1" 200 -
+16-07-2022, 10:57:26	INFO- 127.0.0.1 - - [16/Jul/2022 10:57:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:57:57	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 10:58:00	WARNING- Open Home page
+16-07-2022, 10:58:00	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:00] "GET /?Ord_Id=132&Category_Id=SPR&Product_Name=wqert&ProductQty=213&ProductRate=32000&Ord_Status=C HTTP/1.1" 200 -
+16-07-2022, 10:58:01	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:58:11	WARNING- Open Home page
+16-07-2022, 10:58:11	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:11] "GET /?Ord_Id=132&Category_Id=SPR&Product_Name=wqert&ProductQty=213&ProductRate=32000&Ord_Status=C HTTP/1.1" 200 -
+16-07-2022, 10:58:11	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:58:16	WARNING- Open Home page
+16-07-2022, 10:58:16	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:16] "GET /?Ord_Id=132&Category_Id=SPR&Product_Name=wqert&ProductQty=213&ProductRate=32000&Ord_Status=C HTTP/1.1" 200 -
+16-07-2022, 10:58:16	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:58:22	WARNING- Open Home page
+16-07-2022, 10:58:22	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:22] "GET / HTTP/1.1" 200 -
+16-07-2022, 10:58:22	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:58:40	WARNING- Open Home page
+16-07-2022, 10:58:40	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:40] "GET /?Ord_Id=321&Category_Id=CAP&Product_Name=qwer&ProductQty=32&ProductRate=32000&Ord_Status=C HTTP/1.1" 200 -
+16-07-2022, 10:58:40	INFO- 127.0.0.1 - - [16/Jul/2022 10:58:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 10:59:28	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 10:59:37	WARNING- Open Home page
+16-07-2022, 10:59:37	INFO- 127.0.0.1 - - [16/Jul/2022 10:59:37] "GET /?Ord_Id=321&Category_Id=CAP&Product_Name=qwer&ProductQty=32&ProductRate=32000&Ord_Status=C HTTP/1.1" 200 -
+16-07-2022, 10:59:37	INFO- 127.0.0.1 - - [16/Jul/2022 10:59:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:00:06	INFO- 127.0.0.1 - - [16/Jul/2022 11:00:06] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+16-07-2022, 11:02:48	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:06:56	WARNING- Open Home page
+16-07-2022, 11:06:56	WARNING- Got values from user
+16-07-2022, 11:06:56	INFO- 127.0.0.1 - - [16/Jul/2022 11:06:56] "[35m[1mGET /?Ord_Id=321&Category_Id=CAP&Product_Name=qwer&ProductQty=32&ProductRate=32000&Ord_Status=C HTTP/1.1[0m" 500 -
+16-07-2022, 11:06:57	INFO- 127.0.0.1 - - [16/Jul/2022 11:06:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:06:57	INFO- 127.0.0.1 - - [16/Jul/2022 11:06:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 11:06:57	INFO- 127.0.0.1 - - [16/Jul/2022 11:06:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 11:06:57	INFO- 127.0.0.1 - - [16/Jul/2022 11:06:57] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 11:14:13	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:16:09	WARNING- Open Home page
+16-07-2022, 11:16:09	WARNING- func called
+16-07-2022, 11:16:09	WARNING- Got values from user
+16-07-2022, 11:16:09	WARNING- operation is performed!
+16-07-2022, 11:16:09	WARNING- database is saved!
+16-07-2022, 11:16:09	WARNING- database is closed!
+16-07-2022, 11:16:09	INFO- 127.0.0.1 - - [16/Jul/2022 11:16:09] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:16:09	INFO- 127.0.0.1 - - [16/Jul/2022 11:16:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:18:36	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:18:40	WARNING- Open Home page
+16-07-2022, 11:18:40	WARNING- func called
+16-07-2022, 11:18:40	WARNING- Got values from user
+16-07-2022, 11:18:40	WARNING- operation is performed!
+16-07-2022, 11:18:40	WARNING- database is saved!
+16-07-2022, 11:18:40	WARNING- database is closed!
+16-07-2022, 11:18:40	ERROR-  There is an exception!!
+16-07-2022, 11:18:40	INFO- 127.0.0.1 - - [16/Jul/2022 11:18:40] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:20:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:20:19	WARNING- Open Home page
+16-07-2022, 11:20:19	WARNING- func called
+16-07-2022, 11:20:19	WARNING- Got values from user
+16-07-2022, 11:20:19	WARNING- operation is performed!
+16-07-2022, 11:20:19	WARNING- database is saved!
+16-07-2022, 11:20:19	WARNING- database is closed!
+16-07-2022, 11:20:19	ERROR-  There is an exception!!
+16-07-2022, 11:20:19	INFO- 127.0.0.1 - - [16/Jul/2022 11:20:19] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:20:23	WARNING- Open Home page
+16-07-2022, 11:20:23	WARNING- func called
+16-07-2022, 11:20:23	WARNING- Got values from user
+16-07-2022, 11:20:23	WARNING- operation is performed!
+16-07-2022, 11:20:23	WARNING- database is saved!
+16-07-2022, 11:20:23	WARNING- database is closed!
+16-07-2022, 11:20:23	ERROR-  There is an exception!!
+16-07-2022, 11:20:23	INFO- 127.0.0.1 - - [16/Jul/2022 11:20:23] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:22:39	WARNING- Open Home page
+16-07-2022, 11:22:39	WARNING- func called
+16-07-2022, 11:22:39	WARNING- Got values from user
+16-07-2022, 11:22:39	WARNING- operation is performed!
+16-07-2022, 11:22:39	WARNING- database is saved!
+16-07-2022, 11:22:39	WARNING- database is closed!
+16-07-2022, 11:22:39	ERROR-  There is an exception!!
+16-07-2022, 11:22:39	INFO- 127.0.0.1 - - [16/Jul/2022 11:22:39] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:27:20	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:27:23	WARNING- Open Home page
+16-07-2022, 11:27:23	INFO- 127.0.0.1 - - [16/Jul/2022 11:27:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+16-07-2022, 11:27:24	INFO- 127.0.0.1 - - [16/Jul/2022 11:27:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:27:24	INFO- 127.0.0.1 - - [16/Jul/2022 11:27:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 11:27:24	INFO- 127.0.0.1 - - [16/Jul/2022 11:27:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 11:27:39	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:27:40	WARNING- Open Home page
+16-07-2022, 11:27:40	INFO- 127.0.0.1 - - [16/Jul/2022 11:27:40] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:27:41	INFO- 127.0.0.1 - - [16/Jul/2022 11:27:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:28:04	WARNING- Open Home page
+16-07-2022, 11:28:04	INFO- 127.0.0.1 - - [16/Jul/2022 11:28:04] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:28:04	INFO- 127.0.0.1 - - [16/Jul/2022 11:28:04] "GET /static/styles.css HTTP/1.1" 200 -
+16-07-2022, 11:29:14	WARNING- Open Home page
+16-07-2022, 11:29:14	INFO- 127.0.0.1 - - [16/Jul/2022 11:29:14] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:29:14	INFO- 127.0.0.1 - - [16/Jul/2022 11:29:14] "GET /static/styles.css HTTP/1.1" 200 -
+16-07-2022, 11:29:18	WARNING- Open Home page
+16-07-2022, 11:29:18	INFO- 127.0.0.1 - - [16/Jul/2022 11:29:18] "GET / HTTP/1.1" 200 -
+16-07-2022, 11:29:18	INFO- 127.0.0.1 - - [16/Jul/2022 11:29:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:29:42	WARNING- func called
+16-07-2022, 11:29:42	WARNING- Got values from user
+16-07-2022, 11:29:42	WARNING- operation is performed!
+16-07-2022, 11:29:42	WARNING- database is saved!
+16-07-2022, 11:29:42	WARNING- database is closed!
+16-07-2022, 11:29:42	ERROR-  There is an exception!!
+16-07-2022, 11:29:42	INFO- 127.0.0.1 - - [16/Jul/2022 11:29:42] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:32:22	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:32:27	WARNING- func called
+16-07-2022, 11:32:27	WARNING- Got values from user
+16-07-2022, 11:32:27	WARNING- operation is performed!
+16-07-2022, 11:32:27	WARNING- database is saved!
+16-07-2022, 11:32:27	WARNING- database is closed!
+16-07-2022, 11:32:27	INFO- 127.0.0.1 - - [16/Jul/2022 11:32:27] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:32:27	INFO- 127.0.0.1 - - [16/Jul/2022 11:32:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:32:40	WARNING- func called
+16-07-2022, 11:32:40	WARNING- Got values from user
+16-07-2022, 11:32:41	ERROR-  There is some error in nested try block!!
+16-07-2022, 11:32:41	INFO- 127.0.0.1 - - [16/Jul/2022 11:32:41] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:34:08	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:34:11	WARNING- POST
+16-07-2022, 11:34:11	WARNING- Got values from user
+16-07-2022, 11:34:11	ERROR-  There is some error in nested try block!!
+16-07-2022, 11:34:11	INFO- 127.0.0.1 - - [16/Jul/2022 11:34:11] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:36:43	WARNING- POST
+16-07-2022, 11:36:43	WARNING- Got values from user
+16-07-2022, 11:36:43	ERROR-  There is some error in nested try block!!
+16-07-2022, 11:36:43	INFO- 127.0.0.1 - - [16/Jul/2022 11:36:43] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:40:40	WARNING- POST
+16-07-2022, 11:40:40	WARNING- Got values from user
+16-07-2022, 11:40:40	ERROR-  There is some error in nested try block!!
+16-07-2022, 11:40:40	INFO- 127.0.0.1 - - [16/Jul/2022 11:40:40] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:40:56	INFO- 127.0.0.1 - - [16/Jul/2022 11:40:56] "[31m[1mGET /edit HTTP/1.1[0m" 405 -
+16-07-2022, 11:41:51	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:41:52	WARNING- edit section
+16-07-2022, 11:41:52	INFO- 127.0.0.1 - - [16/Jul/2022 11:41:52] "GET /edit HTTP/1.1" 200 -
+16-07-2022, 11:43:58	INFO- 127.0.0.1 - - [16/Jul/2022 11:43:58] "[33mGET /delete HTTP/1.1[0m" 404 -
+16-07-2022, 11:49:12	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 11:53:28	WARNING- POST
+16-07-2022, 11:53:28	WARNING- Got values from user
+16-07-2022, 11:53:28	WARNING- operation is performed!
+16-07-2022, 11:53:28	WARNING- database is saved!
+16-07-2022, 11:53:28	WARNING- database is closed!
+16-07-2022, 11:53:28	INFO- 127.0.0.1 - - [16/Jul/2022 11:53:28] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:53:28	INFO- 127.0.0.1 - - [16/Jul/2022 11:53:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:53:34	INFO- 127.0.0.1 - - [16/Jul/2022 11:53:34] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 11:56:50	WARNING- POST
+16-07-2022, 11:56:50	WARNING- Got values from user
+16-07-2022, 11:56:50	WARNING- operation is performed!
+16-07-2022, 11:56:50	WARNING- database is saved!
+16-07-2022, 11:56:50	WARNING- database is closed!
+16-07-2022, 11:56:50	INFO- 127.0.0.1 - - [16/Jul/2022 11:56:50] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:56:50	INFO- 127.0.0.1 - - [16/Jul/2022 11:56:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:57:35	WARNING- POST
+16-07-2022, 11:57:35	WARNING- Got values from user
+16-07-2022, 11:57:35	WARNING- operation is performed!
+16-07-2022, 11:57:35	WARNING- database is saved!
+16-07-2022, 11:57:35	WARNING- database is closed!
+16-07-2022, 11:57:35	INFO- 127.0.0.1 - - [16/Jul/2022 11:57:35] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:57:35	INFO- 127.0.0.1 - - [16/Jul/2022 11:57:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:57:45	WARNING- POST
+16-07-2022, 11:57:45	WARNING- Got values from user
+16-07-2022, 11:57:45	WARNING- operation is performed!
+16-07-2022, 11:57:45	WARNING- database is saved!
+16-07-2022, 11:57:45	WARNING- database is closed!
+16-07-2022, 11:57:45	INFO- 127.0.0.1 - - [16/Jul/2022 11:57:45] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:57:45	INFO- 127.0.0.1 - - [16/Jul/2022 11:57:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:58:03	WARNING- POST
+16-07-2022, 11:58:03	WARNING- Got values from user
+16-07-2022, 11:58:03	WARNING- operation is performed!
+16-07-2022, 11:58:03	WARNING- database is saved!
+16-07-2022, 11:58:03	WARNING- database is closed!
+16-07-2022, 11:58:03	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:03] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:58:03	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:58:17	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:17] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 11:58:29	WARNING- edit section
+16-07-2022, 11:58:29	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:29] "[35m[1mGET /edit HTTP/1.1[0m" 500 -
+16-07-2022, 11:58:29	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:29] "GET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+16-07-2022, 11:58:29	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:29] "GET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+16-07-2022, 11:58:29	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:29] "GET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+16-07-2022, 11:58:29	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:29] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 11:58:35	WARNING- edit section
+16-07-2022, 11:58:35	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:35] "[35m[1mGET /edit HTTP/1.1[0m" 500 -
+16-07-2022, 11:58:35	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:35] "[36mGET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:58:35	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:35] "[36mGET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 11:58:35	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:35] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 11:58:39	INFO- 127.0.0.1 - - [16/Jul/2022 11:58:39] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 11:59:13	WARNING- POST
+16-07-2022, 11:59:13	WARNING- Got values from user
+16-07-2022, 11:59:13	WARNING- operation is performed!
+16-07-2022, 11:59:13	WARNING- database is saved!
+16-07-2022, 11:59:13	WARNING- database is closed!
+16-07-2022, 11:59:13	INFO- 127.0.0.1 - - [16/Jul/2022 11:59:13] "POST / HTTP/1.1" 200 -
+16-07-2022, 11:59:13	INFO- 127.0.0.1 - - [16/Jul/2022 11:59:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 11:59:14	INFO- 127.0.0.1 - - [16/Jul/2022 11:59:14] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 12:02:12	WARNING- POST
+16-07-2022, 12:02:12	WARNING- Got values from user
+16-07-2022, 12:02:12	WARNING- operation is performed!
+16-07-2022, 12:02:12	WARNING- database is saved!
+16-07-2022, 12:02:12	WARNING- database is closed!
+16-07-2022, 12:02:12	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:12] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:02:12	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:02:15	WARNING- edit section
+16-07-2022, 12:02:15	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:15] "[35m[1mGET /edit HTTP/1.1[0m" 500 -
+16-07-2022, 12:02:15	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:15] "[36mGET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:02:15	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:15] "[36mGET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 12:02:15	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:15] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 12:02:19	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:19] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 12:02:51	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:51] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 12:02:56	WARNING- POST
+16-07-2022, 12:02:56	WARNING- Got values from user
+16-07-2022, 12:02:56	WARNING- operation is performed!
+16-07-2022, 12:02:56	WARNING- database is saved!
+16-07-2022, 12:02:56	WARNING- database is closed!
+16-07-2022, 12:02:56	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:56] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:02:56	INFO- 127.0.0.1 - - [16/Jul/2022 12:02:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:03:28	WARNING- POST
+16-07-2022, 12:03:28	WARNING- Got values from user
+16-07-2022, 12:03:28	WARNING- operation is performed!
+16-07-2022, 12:03:28	WARNING- database is saved!
+16-07-2022, 12:03:28	WARNING- database is closed!
+16-07-2022, 12:03:28	INFO- 127.0.0.1 - - [16/Jul/2022 12:03:28] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:03:28	INFO- 127.0.0.1 - - [16/Jul/2022 12:03:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:32:55	WARNING- POST
+16-07-2022, 12:32:55	WARNING- Got values from user
+16-07-2022, 12:32:55	WARNING- operation is performed!
+16-07-2022, 12:32:55	WARNING- database is saved!
+16-07-2022, 12:32:55	WARNING- database is closed!
+16-07-2022, 12:32:55	INFO- 127.0.0.1 - - [16/Jul/2022 12:32:55] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:32:55	INFO- 127.0.0.1 - - [16/Jul/2022 12:32:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:40:54	WARNING- POST
+16-07-2022, 12:40:54	WARNING- Got values from user
+16-07-2022, 12:40:54	WARNING- operation is performed!
+16-07-2022, 12:40:54	WARNING- database is saved!
+16-07-2022, 12:40:54	WARNING- database is closed!
+16-07-2022, 12:40:54	INFO- 127.0.0.1 - - [16/Jul/2022 12:40:54] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:40:54	INFO- 127.0.0.1 - - [16/Jul/2022 12:40:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:41:22	WARNING- POST
+16-07-2022, 12:41:22	WARNING- Got values from user
+16-07-2022, 12:41:22	WARNING- operation is performed!
+16-07-2022, 12:41:22	WARNING- database is saved!
+16-07-2022, 12:41:22	WARNING- database is closed!
+16-07-2022, 12:41:22	INFO- 127.0.0.1 - - [16/Jul/2022 12:41:22] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:41:22	INFO- 127.0.0.1 - - [16/Jul/2022 12:41:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:43:02	WARNING- POST
+16-07-2022, 12:43:02	WARNING- Got values from user
+16-07-2022, 12:43:02	WARNING- operation is performed!
+16-07-2022, 12:43:02	WARNING- database is saved!
+16-07-2022, 12:43:02	WARNING- database is closed!
+16-07-2022, 12:43:02	INFO- 127.0.0.1 - - [16/Jul/2022 12:43:02] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:43:03	INFO- 127.0.0.1 - - [16/Jul/2022 12:43:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:52:11	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 12:52:29	WARNING- POST
+16-07-2022, 12:52:29	WARNING- Got values from user
+16-07-2022, 12:52:29	WARNING- operation is performed!
+16-07-2022, 12:52:29	WARNING- database is saved!
+16-07-2022, 12:52:29	WARNING- database is closed!
+16-07-2022, 12:52:29	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+16-07-2022, 12:52:29	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:52:29	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 12:52:29	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 12:52:29	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 12:52:53	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 12:52:56	WARNING- POST
+16-07-2022, 12:52:56	WARNING- Got values from user
+16-07-2022, 12:52:56	WARNING- operation is performed!
+16-07-2022, 12:52:56	WARNING- database is saved!
+16-07-2022, 12:52:56	WARNING- database is closed!
+16-07-2022, 12:52:56	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:56] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:52:56	INFO- 127.0.0.1 - - [16/Jul/2022 12:52:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:53:13	WARNING- POST
+16-07-2022, 12:53:13	WARNING- Got values from user
+16-07-2022, 12:53:13	WARNING- operation is performed!
+16-07-2022, 12:53:13	WARNING- database is saved!
+16-07-2022, 12:53:13	WARNING- database is closed!
+16-07-2022, 12:53:13	INFO- 127.0.0.1 - - [16/Jul/2022 12:53:13] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:53:13	INFO- 127.0.0.1 - - [16/Jul/2022 12:53:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 12:54:31	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 12:55:04	WARNING- POST
+16-07-2022, 12:55:04	WARNING- Got values from user
+16-07-2022, 12:55:04	WARNING- operation is performed!
+16-07-2022, 12:55:04	WARNING- database is saved!
+16-07-2022, 12:55:04	WARNING- database is closed!
+16-07-2022, 12:55:04	INFO- 127.0.0.1 - - [16/Jul/2022 12:55:04] "POST / HTTP/1.1" 200 -
+16-07-2022, 12:55:05	INFO- 127.0.0.1 - - [16/Jul/2022 12:55:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 13:00:03	WARNING- POST
+16-07-2022, 13:00:03	WARNING- Got values from user
+16-07-2022, 13:00:03	WARNING- operation is performed!
+16-07-2022, 13:00:03	WARNING- database is saved!
+16-07-2022, 13:00:03	WARNING- database is closed!
+16-07-2022, 13:00:03	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:03] "POST / HTTP/1.1" 200 -
+16-07-2022, 13:00:03	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 13:00:06	WARNING- edit section
+16-07-2022, 13:00:06	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:06] "[35m[1mGET /edit HTTP/1.1[0m" 500 -
+16-07-2022, 13:00:06	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:06] "[36mGET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 13:00:06	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:06] "[36mGET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 13:00:06	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:06] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 13:00:10	INFO- 127.0.0.1 - - [16/Jul/2022 13:00:10] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 13:03:14	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 13:21:14	WARNING- POST
+16-07-2022, 13:21:14	ERROR-  There is some error in nested try block!!
+16-07-2022, 13:21:14	INFO- 127.0.0.1 - - [16/Jul/2022 13:21:14] "POST / HTTP/1.1" 200 -
+16-07-2022, 13:21:29	WARNING- POST
+16-07-2022, 13:21:29	ERROR-  There is some error in nested try block!!
+16-07-2022, 13:21:29	INFO- 127.0.0.1 - - [16/Jul/2022 13:21:29] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:13:49	WARNING- POST
+16-07-2022, 15:13:49	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:13:49	INFO- 127.0.0.1 - - [16/Jul/2022 15:13:49] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:35:46	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+16-07-2022, 15:41:20	WARNING- POST
+16-07-2022, 15:41:20	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:41:20	INFO- 127.0.0.1 - - [16/Jul/2022 15:41:20] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:44:25	WARNING- Open Home page
+16-07-2022, 15:44:25	INFO- 127.0.0.1 - - [16/Jul/2022 15:44:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+16-07-2022, 15:44:26	INFO- 127.0.0.1 - - [16/Jul/2022 15:44:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:44:26	INFO- 127.0.0.1 - - [16/Jul/2022 15:44:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 15:44:26	INFO- 127.0.0.1 - - [16/Jul/2022 15:44:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:44:26	INFO- 127.0.0.1 - - [16/Jul/2022 15:44:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:11	WARNING- Open Home page
+16-07-2022, 15:47:11	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+16-07-2022, 15:47:11	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:11	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:11	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:11	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:32	WARNING- Open Home page
+16-07-2022, 15:47:32	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:32] "[35m[1mGET / HTTP/1.1[0m" 500 -
+16-07-2022, 15:47:32	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:32	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:32	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:47:32	INFO- 127.0.0.1 - - [16/Jul/2022 15:47:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:48:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 15:48:51	WARNING- Open Home page
+16-07-2022, 15:48:51	INFO- 127.0.0.1 - - [16/Jul/2022 15:48:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+16-07-2022, 15:48:52	INFO- 127.0.0.1 - - [16/Jul/2022 15:48:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:48:52	INFO- 127.0.0.1 - - [16/Jul/2022 15:48:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 15:48:52	INFO- 127.0.0.1 - - [16/Jul/2022 15:48:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:48:52	INFO- 127.0.0.1 - - [16/Jul/2022 15:48:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:49:56	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 15:49:59	WARNING- Open Home page
+16-07-2022, 15:49:59	INFO- 127.0.0.1 - - [16/Jul/2022 15:49:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+16-07-2022, 15:49:59	INFO- 127.0.0.1 - - [16/Jul/2022 15:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:49:59	INFO- 127.0.0.1 - - [16/Jul/2022 15:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 15:49:59	INFO- 127.0.0.1 - - [16/Jul/2022 15:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:49:59	INFO- 127.0.0.1 - - [16/Jul/2022 15:49:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 15:50:20	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 15:50:23	WARNING- Open Home page
+16-07-2022, 15:50:23	INFO- 127.0.0.1 - - [16/Jul/2022 15:50:23] "GET / HTTP/1.1" 200 -
+16-07-2022, 15:50:24	INFO- 127.0.0.1 - - [16/Jul/2022 15:50:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:51:14	WARNING- Open Home page
+16-07-2022, 15:51:14	INFO- 127.0.0.1 - - [16/Jul/2022 15:51:14] "GET / HTTP/1.1" 200 -
+16-07-2022, 15:51:14	INFO- 127.0.0.1 - - [16/Jul/2022 15:51:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:51:31	WARNING- POST
+16-07-2022, 15:51:31	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:51:31	INFO- 127.0.0.1 - - [16/Jul/2022 15:51:31] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:53:34	WARNING- POST
+16-07-2022, 15:53:34	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:53:34	INFO- 127.0.0.1 - - [16/Jul/2022 15:53:34] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:53:36	WARNING- Open Home page
+16-07-2022, 15:53:36	INFO- 127.0.0.1 - - [16/Jul/2022 15:53:36] "GET / HTTP/1.1" 200 -
+16-07-2022, 15:55:30	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 15:55:33	WARNING- Open Home page
+16-07-2022, 15:55:33	INFO- 127.0.0.1 - - [16/Jul/2022 15:55:33] "GET / HTTP/1.1" 200 -
+16-07-2022, 15:55:33	INFO- 127.0.0.1 - - [16/Jul/2022 15:55:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:55:45	WARNING- POST
+16-07-2022, 15:55:45	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:55:45	INFO- 127.0.0.1 - - [16/Jul/2022 15:55:45] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:56:26	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 15:56:32	WARNING- POST
+16-07-2022, 15:56:32	WARNING- all good till here0
+16-07-2022, 15:56:32	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:56:32	INFO- 127.0.0.1 - - [16/Jul/2022 15:56:32] "POST / HTTP/1.1" 200 -
+16-07-2022, 15:56:37	WARNING- Open Home page
+16-07-2022, 15:56:37	INFO- 127.0.0.1 - - [16/Jul/2022 15:56:37] "GET / HTTP/1.1" 200 -
+16-07-2022, 15:56:39	WARNING- Open Home page
+16-07-2022, 15:56:39	INFO- 127.0.0.1 - - [16/Jul/2022 15:56:39] "GET / HTTP/1.1" 200 -
+16-07-2022, 15:56:39	INFO- 127.0.0.1 - - [16/Jul/2022 15:56:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 15:56:51	WARNING- POST
+16-07-2022, 15:56:51	WARNING- all good till here0
+16-07-2022, 15:56:51	ERROR-  There is some error in nested try block!!
+16-07-2022, 15:56:51	INFO- 127.0.0.1 - - [16/Jul/2022 15:56:51] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:04:31	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:04:36	WARNING- POST
+16-07-2022, 16:04:36	WARNING- all good till here0
+16-07-2022, 16:04:36	ERROR-  There is some error in nested try block!!
+16-07-2022, 16:04:36	INFO- 127.0.0.1 - - [16/Jul/2022 16:04:36] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:04:37	WARNING- Open Home page
+16-07-2022, 16:04:37	INFO- 127.0.0.1 - - [16/Jul/2022 16:04:37] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:04:38	WARNING- Open Home page
+16-07-2022, 16:04:38	INFO- 127.0.0.1 - - [16/Jul/2022 16:04:38] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:04:39	INFO- 127.0.0.1 - - [16/Jul/2022 16:04:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:04:57	WARNING- POST
+16-07-2022, 16:04:57	WARNING- all good till here0
+16-07-2022, 16:04:57	ERROR-  There is some error in nested try block!!
+16-07-2022, 16:04:57	INFO- 127.0.0.1 - - [16/Jul/2022 16:04:57] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:08:56	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:09:04	WARNING- Open Home page
+16-07-2022, 16:09:04	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:04] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:09:05	WARNING- Open Home page
+16-07-2022, 16:09:05	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:05] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:09:05	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:09:15	WARNING- POST
+16-07-2022, 16:09:15	WARNING- all good till here0
+16-07-2022, 16:09:15	WARNING- all good till here1
+16-07-2022, 16:09:15	WARNING- Got values from user
+16-07-2022, 16:09:15	WARNING- operation is performed!
+16-07-2022, 16:09:15	WARNING- database is saved!
+16-07-2022, 16:09:15	WARNING- database is closed!
+16-07-2022, 16:09:15	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:15] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:09:16	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:09:24	WARNING- edit section
+16-07-2022, 16:09:24	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:24] "[35m[1mGET /edit HTTP/1.1[0m" 500 -
+16-07-2022, 16:09:24	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:24] "[36mGET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:09:24	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:24] "[36mGET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 16:09:24	INFO- 127.0.0.1 - - [16/Jul/2022 16:09:24] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 16:10:11	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:16:08	WARNING- edit section
+16-07-2022, 16:16:08	INFO- 127.0.0.1 - - [16/Jul/2022 16:16:08] "[35m[1mGET /edit HTTP/1.1[0m" 500 -
+16-07-2022, 16:16:08	INFO- 127.0.0.1 - - [16/Jul/2022 16:16:08] "[36mGET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 16:16:08	INFO- 127.0.0.1 - - [16/Jul/2022 16:16:08] "[36mGET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:16:08	INFO- 127.0.0.1 - - [16/Jul/2022 16:16:08] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 16:16:08	INFO- 127.0.0.1 - - [16/Jul/2022 16:16:08] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 16:16:13	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:20:11	WARNING- POST
+16-07-2022, 16:20:11	WARNING- Got values from user
+16-07-2022, 16:20:11	WARNING- operation is performed!
+16-07-2022, 16:20:11	WARNING- database is saved!
+16-07-2022, 16:20:11	WARNING- database is closed!
+16-07-2022, 16:20:11	INFO- 127.0.0.1 - - [16/Jul/2022 16:20:11] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:20:12	INFO- 127.0.0.1 - - [16/Jul/2022 16:20:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:22:35	WARNING- POST
+16-07-2022, 16:22:35	WARNING- Got values from user
+16-07-2022, 16:22:35	WARNING- operation is performed!
+16-07-2022, 16:22:35	WARNING- database is saved!
+16-07-2022, 16:22:35	WARNING- database is closed!
+16-07-2022, 16:22:35	INFO- 127.0.0.1 - - [16/Jul/2022 16:22:35] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:22:35	INFO- 127.0.0.1 - - [16/Jul/2022 16:22:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:23:01	WARNING- POST
+16-07-2022, 16:23:01	WARNING- Got values from user
+16-07-2022, 16:23:01	WARNING- operation is performed!
+16-07-2022, 16:23:01	WARNING- database is saved!
+16-07-2022, 16:23:01	WARNING- database is closed!
+16-07-2022, 16:23:01	INFO- 127.0.0.1 - - [16/Jul/2022 16:23:01] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:23:01	INFO- 127.0.0.1 - - [16/Jul/2022 16:23:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:23:33	WARNING- POST
+16-07-2022, 16:23:33	WARNING- Got values from user
+16-07-2022, 16:23:33	WARNING- operation is performed!
+16-07-2022, 16:23:33	WARNING- database is saved!
+16-07-2022, 16:23:33	WARNING- database is closed!
+16-07-2022, 16:23:33	INFO- 127.0.0.1 - - [16/Jul/2022 16:23:33] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:23:33	INFO- 127.0.0.1 - - [16/Jul/2022 16:23:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:23:53	WARNING- POST
+16-07-2022, 16:23:53	WARNING- Got values from user
+16-07-2022, 16:23:53	WARNING- operation is performed!
+16-07-2022, 16:23:53	WARNING- database is saved!
+16-07-2022, 16:23:53	WARNING- database is closed!
+16-07-2022, 16:23:53	INFO- 127.0.0.1 - - [16/Jul/2022 16:23:53] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:23:53	INFO- 127.0.0.1 - - [16/Jul/2022 16:23:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:31:19	WARNING- POST
+16-07-2022, 16:31:19	WARNING- Got values from user
+16-07-2022, 16:31:19	WARNING- operation is performed!
+16-07-2022, 16:31:19	WARNING- database is saved!
+16-07-2022, 16:31:19	WARNING- database is closed!
+16-07-2022, 16:31:19	INFO- 127.0.0.1 - - [16/Jul/2022 16:31:19] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:31:19	INFO- 127.0.0.1 - - [16/Jul/2022 16:31:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:31:23	WARNING- POST
+16-07-2022, 16:31:23	WARNING- Got values from user
+16-07-2022, 16:31:23	WARNING- operation is performed!
+16-07-2022, 16:31:23	WARNING- database is saved!
+16-07-2022, 16:31:23	WARNING- database is closed!
+16-07-2022, 16:31:23	INFO- 127.0.0.1 - - [16/Jul/2022 16:31:23] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:31:23	INFO- 127.0.0.1 - - [16/Jul/2022 16:31:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:33:47	WARNING- POST
+16-07-2022, 16:33:47	WARNING- Got values from user
+16-07-2022, 16:33:47	WARNING- operation is performed!
+16-07-2022, 16:33:47	WARNING- database is saved!
+16-07-2022, 16:33:47	WARNING- database is closed!
+16-07-2022, 16:33:47	INFO- 127.0.0.1 - - [16/Jul/2022 16:33:47] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:33:47	INFO- 127.0.0.1 - - [16/Jul/2022 16:33:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:35:14	WARNING- Open Home page
+16-07-2022, 16:35:14	INFO- 127.0.0.1 - - [16/Jul/2022 16:35:14] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:35:14	INFO- 127.0.0.1 - - [16/Jul/2022 16:35:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:35:33	WARNING- POST
+16-07-2022, 16:35:33	WARNING- Got values from user
+16-07-2022, 16:35:33	WARNING- operation is performed!
+16-07-2022, 16:35:33	WARNING- database is saved!
+16-07-2022, 16:35:33	WARNING- database is closed!
+16-07-2022, 16:35:33	INFO- 127.0.0.1 - - [16/Jul/2022 16:35:33] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:35:33	INFO- 127.0.0.1 - - [16/Jul/2022 16:35:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:52:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:52:22	WARNING- POST
+16-07-2022, 16:52:22	WARNING- Got values from user
+16-07-2022, 16:52:22	WARNING- operation is performed!
+16-07-2022, 16:52:22	WARNING- database is saved!
+16-07-2022, 16:52:22	WARNING- database is closed!
+16-07-2022, 16:52:22	INFO- 127.0.0.1 - - [16/Jul/2022 16:52:22] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:52:22	INFO- 127.0.0.1 - - [16/Jul/2022 16:52:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:54:55	WARNING- POST
+16-07-2022, 16:54:55	WARNING- Got values from user
+16-07-2022, 16:54:55	WARNING- operation is performed!
+16-07-2022, 16:54:55	WARNING- database is saved!
+16-07-2022, 16:54:55	WARNING- database is closed!
+16-07-2022, 16:54:55	INFO- 127.0.0.1 - - [16/Jul/2022 16:54:55] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:54:55	INFO- 127.0.0.1 - - [16/Jul/2022 16:54:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:55:52	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:55:57	WARNING- POST
+16-07-2022, 16:55:57	WARNING- Got values from user
+16-07-2022, 16:55:57	ERROR-  There is some error in nested try block!!
+16-07-2022, 16:55:57	INFO- 127.0.0.1 - - [16/Jul/2022 16:55:57] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:56:27	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 16:56:28	WARNING- POST
+16-07-2022, 16:56:28	WARNING- Got values from user
+16-07-2022, 16:56:28	WARNING- operation is performed!
+16-07-2022, 16:56:28	WARNING- database is saved!
+16-07-2022, 16:56:28	WARNING- database is closed!
+16-07-2022, 16:56:28	INFO- 127.0.0.1 - - [16/Jul/2022 16:56:28] "POST / HTTP/1.1" 200 -
+16-07-2022, 16:56:29	INFO- 127.0.0.1 - - [16/Jul/2022 16:56:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:56:32	INFO- 127.0.0.1 - - [16/Jul/2022 16:56:32] "[31m[1mGET /edit HTTP/1.1[0m" 405 -
+16-07-2022, 16:57:35	INFO- 127.0.0.1 - - [16/Jul/2022 16:57:35] "[31m[1mGET /edit HTTP/1.1[0m" 405 -
+16-07-2022, 16:57:58	WARNING- Open Home page
+16-07-2022, 16:57:58	INFO- 127.0.0.1 - - [16/Jul/2022 16:57:58] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:57:58	INFO- 127.0.0.1 - - [16/Jul/2022 16:57:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:59:42	WARNING- Open Home page
+16-07-2022, 16:59:42	INFO- 127.0.0.1 - - [16/Jul/2022 16:59:42] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:59:42	INFO- 127.0.0.1 - - [16/Jul/2022 16:59:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 16:59:44	WARNING- Open Home page
+16-07-2022, 16:59:44	INFO- 127.0.0.1 - - [16/Jul/2022 16:59:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 16:59:44	INFO- 127.0.0.1 - - [16/Jul/2022 16:59:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:00:07	WARNING- POST
+16-07-2022, 17:00:07	WARNING- Got values from user
+16-07-2022, 17:00:07	WARNING- operation is performed!
+16-07-2022, 17:00:07	WARNING- database is saved!
+16-07-2022, 17:00:07	WARNING- database is closed!
+16-07-2022, 17:00:07	INFO- 127.0.0.1 - - [16/Jul/2022 17:00:07] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:00:07	INFO- 127.0.0.1 - - [16/Jul/2022 17:00:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:01:02	WARNING- POST
+16-07-2022, 17:01:02	WARNING- Got values from user
+16-07-2022, 17:01:02	WARNING- operation is performed!
+16-07-2022, 17:01:02	WARNING- database is saved!
+16-07-2022, 17:01:02	WARNING- database is closed!
+16-07-2022, 17:01:02	INFO- 127.0.0.1 - - [16/Jul/2022 17:01:02] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:01:02	INFO- 127.0.0.1 - - [16/Jul/2022 17:01:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:06:01	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 17:06:03	WARNING- POST
+16-07-2022, 17:06:03	WARNING- Got values from user
+16-07-2022, 17:06:03	WARNING- operation is performed!
+16-07-2022, 17:06:04	WARNING- database is saved!
+16-07-2022, 17:06:04	WARNING- database is closed!
+16-07-2022, 17:06:04	INFO- 127.0.0.1 - - [16/Jul/2022 17:06:04] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:06:04	INFO- 127.0.0.1 - - [16/Jul/2022 17:06:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:08:51	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 17:08:54	WARNING- POST
+16-07-2022, 17:08:54	WARNING- Got values from user
+16-07-2022, 17:08:55	ERROR-  There is some error in nested try block!!
+16-07-2022, 17:08:55	INFO- 127.0.0.1 - - [16/Jul/2022 17:08:55] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:10:00	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 17:10:02	WARNING- POST
+16-07-2022, 17:10:02	WARNING- Got values from user
+16-07-2022, 17:10:02	WARNING- operation is performed!
+16-07-2022, 17:10:02	WARNING- database is saved!
+16-07-2022, 17:10:02	WARNING- database is closed!
+16-07-2022, 17:10:02	INFO- 127.0.0.1 - - [16/Jul/2022 17:10:02] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:10:03	INFO- 127.0.0.1 - - [16/Jul/2022 17:10:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:10:08	WARNING- POST
+16-07-2022, 17:10:08	WARNING- Got values from user
+16-07-2022, 17:10:08	WARNING- operation is performed!
+16-07-2022, 17:10:08	WARNING- database is saved!
+16-07-2022, 17:10:08	WARNING- database is closed!
+16-07-2022, 17:10:08	INFO- 127.0.0.1 - - [16/Jul/2022 17:10:08] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:10:08	INFO- 127.0.0.1 - - [16/Jul/2022 17:10:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:10:43	WARNING- POST
+16-07-2022, 17:10:43	WARNING- Got values from user
+16-07-2022, 17:10:43	WARNING- operation is performed!
+16-07-2022, 17:10:43	WARNING- database is saved!
+16-07-2022, 17:10:43	WARNING- database is closed!
+16-07-2022, 17:10:43	INFO- 127.0.0.1 - - [16/Jul/2022 17:10:43] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:10:43	INFO- 127.0.0.1 - - [16/Jul/2022 17:10:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:11:22	WARNING- POST
+16-07-2022, 17:11:22	WARNING- Got values from user
+16-07-2022, 17:11:22	WARNING- operation is performed!
+16-07-2022, 17:11:22	WARNING- database is saved!
+16-07-2022, 17:11:22	WARNING- database is closed!
+16-07-2022, 17:11:22	INFO- 127.0.0.1 - - [16/Jul/2022 17:11:22] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:11:23	INFO- 127.0.0.1 - - [16/Jul/2022 17:11:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:12:15	WARNING- Open Home page
+16-07-2022, 17:12:15	INFO- 127.0.0.1 - - [16/Jul/2022 17:12:15] "GET / HTTP/1.1" 200 -
+16-07-2022, 17:12:16	INFO- 127.0.0.1 - - [16/Jul/2022 17:12:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:12:31	WARNING- POST
+16-07-2022, 17:12:31	WARNING- Got values from user
+16-07-2022, 17:12:31	WARNING- operation is performed!
+16-07-2022, 17:12:31	WARNING- database is saved!
+16-07-2022, 17:12:31	WARNING- database is closed!
+16-07-2022, 17:12:31	INFO- 127.0.0.1 - - [16/Jul/2022 17:12:31] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:12:32	INFO- 127.0.0.1 - - [16/Jul/2022 17:12:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:13:41	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 17:15:53	WARNING- POST
+16-07-2022, 17:15:53	WARNING- Got values from user
+16-07-2022, 17:15:53	WARNING- operation is performed!
+16-07-2022, 17:15:53	WARNING- database is saved!
+16-07-2022, 17:15:53	WARNING- database is closed!
+16-07-2022, 17:15:53	INFO- 127.0.0.1 - - [16/Jul/2022 17:15:53] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:15:54	INFO- 127.0.0.1 - - [16/Jul/2022 17:15:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:15:59	INFO- 127.0.0.1 - - [16/Jul/2022 17:15:59] "[31m[1mGET /edit HTTP/1.1[0m" 405 -
+16-07-2022, 17:19:15	WARNING- POST
+16-07-2022, 17:19:15	WARNING- Got values from user
+16-07-2022, 17:19:15	WARNING- operation is performed!
+16-07-2022, 17:19:15	WARNING- database is saved!
+16-07-2022, 17:19:15	WARNING- database is closed!
+16-07-2022, 17:19:16	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:16] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+16-07-2022, 17:19:16	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:16] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:16	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:16] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:16	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:16	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:38	WARNING- POST
+16-07-2022, 17:19:38	WARNING- Got values from user
+16-07-2022, 17:19:38	WARNING- operation is performed!
+16-07-2022, 17:19:38	WARNING- database is saved!
+16-07-2022, 17:19:38	WARNING- database is closed!
+16-07-2022, 17:19:38	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:38] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+16-07-2022, 17:19:39	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:39] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:39	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:39] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:39	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:39	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:39] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 17:19:51	WARNING- POST
+16-07-2022, 17:19:51	WARNING- Got values from user
+16-07-2022, 17:19:51	WARNING- operation is performed!
+16-07-2022, 17:19:51	WARNING- database is saved!
+16-07-2022, 17:19:51	WARNING- database is closed!
+16-07-2022, 17:19:51	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:51] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:19:51	INFO- 127.0.0.1 - - [16/Jul/2022 17:19:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:20:53	WARNING- POST
+16-07-2022, 17:20:53	WARNING- Got values from user
+16-07-2022, 17:20:53	WARNING- operation is performed!
+16-07-2022, 17:20:53	WARNING- database is saved!
+16-07-2022, 17:20:53	WARNING- database is closed!
+16-07-2022, 17:20:53	INFO- 127.0.0.1 - - [16/Jul/2022 17:20:53] "POST / HTTP/1.1" 200 -
+16-07-2022, 17:20:53	INFO- 127.0.0.1 - - [16/Jul/2022 17:20:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 17:23:55	INFO- 127.0.0.1 - - [16/Jul/2022 17:23:55] "[31m[1mGET /edit HTTP/1.1[0m" 405 -
+16-07-2022, 18:04:59	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:17:53	WARNING- POST
+16-07-2022, 18:17:53	WARNING- Got values from user
+16-07-2022, 18:17:53	WARNING- operation is performed!
+16-07-2022, 18:17:53	WARNING- database is saved!
+16-07-2022, 18:17:53	WARNING- database is closed!
+16-07-2022, 18:17:53	INFO- 127.0.0.1 - - [16/Jul/2022 18:17:53] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:17:54	INFO- 127.0.0.1 - - [16/Jul/2022 18:17:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:18:44	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:18:49	WARNING- POST
+16-07-2022, 18:18:49	WARNING- Got values from user
+16-07-2022, 18:18:49	WARNING- operation is performed!
+16-07-2022, 18:18:49	WARNING- database is saved!
+16-07-2022, 18:18:49	WARNING- database is closed!
+16-07-2022, 18:18:49	INFO- 127.0.0.1 - - [16/Jul/2022 18:18:49] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:18:50	INFO- 127.0.0.1 - - [16/Jul/2022 18:18:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:18:52	WARNING- Open Home page
+16-07-2022, 18:18:52	INFO- 127.0.0.1 - - [16/Jul/2022 18:18:52] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:18:52	INFO- 127.0.0.1 - - [16/Jul/2022 18:18:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:19:22	WARNING- POST
+16-07-2022, 18:19:22	WARNING- Got values from user
+16-07-2022, 18:19:22	WARNING- operation is performed!
+16-07-2022, 18:19:22	WARNING- database is saved!
+16-07-2022, 18:19:22	WARNING- database is closed!
+16-07-2022, 18:19:22	INFO- 127.0.0.1 - - [16/Jul/2022 18:19:22] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:19:22	INFO- 127.0.0.1 - - [16/Jul/2022 18:19:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:19:36	WARNING- Open Home page
+16-07-2022, 18:19:36	INFO- 127.0.0.1 - - [16/Jul/2022 18:19:36] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:19:36	INFO- 127.0.0.1 - - [16/Jul/2022 18:19:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:21:18	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:21:21	WARNING- Open Home page
+16-07-2022, 18:21:21	INFO- 127.0.0.1 - - [16/Jul/2022 18:21:21] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:21:21	INFO- 127.0.0.1 - - [16/Jul/2022 18:21:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:21:41	WARNING- POST
+16-07-2022, 18:21:41	WARNING- Got values from user
+16-07-2022, 18:21:42	WARNING- operation is performed!
+16-07-2022, 18:21:42	WARNING- database is saved!
+16-07-2022, 18:21:42	WARNING- database is closed!
+16-07-2022, 18:21:42	INFO- 127.0.0.1 - - [16/Jul/2022 18:21:42] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:21:42	INFO- 127.0.0.1 - - [16/Jul/2022 18:21:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:21:53	WARNING- Open Home page
+16-07-2022, 18:21:53	INFO- 127.0.0.1 - - [16/Jul/2022 18:21:53] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:21:53	INFO- 127.0.0.1 - - [16/Jul/2022 18:21:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:23:13	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:23:15	WARNING- Open Home page
+16-07-2022, 18:23:15	INFO- 127.0.0.1 - - [16/Jul/2022 18:23:15] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:23:15	INFO- 127.0.0.1 - - [16/Jul/2022 18:23:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:23:38	WARNING- POST
+16-07-2022, 18:23:38	WARNING- Got values from user
+16-07-2022, 18:23:38	WARNING- operation is performed!
+16-07-2022, 18:23:38	WARNING- database is saved!
+16-07-2022, 18:23:38	WARNING- database is closed!
+16-07-2022, 18:23:38	INFO- 127.0.0.1 - - [16/Jul/2022 18:23:38] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:23:38	INFO- 127.0.0.1 - - [16/Jul/2022 18:23:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:24:02	WARNING- Open Home page
+16-07-2022, 18:24:02	INFO- 127.0.0.1 - - [16/Jul/2022 18:24:02] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:24:02	INFO- 127.0.0.1 - - [16/Jul/2022 18:24:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:25:17	WARNING- Open Home page
+16-07-2022, 18:25:17	INFO- 127.0.0.1 - - [16/Jul/2022 18:25:17] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:25:17	INFO- 127.0.0.1 - - [16/Jul/2022 18:25:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:25:39	WARNING- POST
+16-07-2022, 18:25:39	WARNING- Got values from user
+16-07-2022, 18:25:39	WARNING- operation is performed!
+16-07-2022, 18:25:39	WARNING- database is saved!
+16-07-2022, 18:25:39	WARNING- database is closed!
+16-07-2022, 18:25:39	INFO- 127.0.0.1 - - [16/Jul/2022 18:25:39] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:25:39	INFO- 127.0.0.1 - - [16/Jul/2022 18:25:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:25:57	INFO- 127.0.0.1 - - [16/Jul/2022 18:25:57] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 18:26:25	INFO- 127.0.0.1 - - [16/Jul/2022 18:26:25] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 18:26:28	INFO- 127.0.0.1 - - [16/Jul/2022 18:26:28] "[31m[1mGET /delete HTTP/1.1[0m" 405 -
+16-07-2022, 18:26:53	WARNING- POST
+16-07-2022, 18:26:53	WARNING- Got values from user
+16-07-2022, 18:26:53	WARNING- operation is performed!
+16-07-2022, 18:26:53	WARNING- database is saved!
+16-07-2022, 18:26:53	WARNING- database is closed!
+16-07-2022, 18:26:53	INFO- 127.0.0.1 - - [16/Jul/2022 18:26:53] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:26:53	INFO- 127.0.0.1 - - [16/Jul/2022 18:26:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:27:04	WARNING- delete section
+16-07-2022, 18:27:04	WARNING- database is saved!
+16-07-2022, 18:27:04	WARNING- database is closed!
+16-07-2022, 18:27:04	INFO- 127.0.0.1 - - [16/Jul/2022 18:27:04] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 18:27:04	INFO- 127.0.0.1 - - [16/Jul/2022 18:27:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:27:49	WARNING- POST
+16-07-2022, 18:27:49	WARNING- Got values from user
+16-07-2022, 18:27:49	WARNING- operation is performed!
+16-07-2022, 18:27:49	WARNING- database is saved!
+16-07-2022, 18:27:49	WARNING- database is closed!
+16-07-2022, 18:27:49	INFO- 127.0.0.1 - - [16/Jul/2022 18:27:49] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:27:49	INFO- 127.0.0.1 - - [16/Jul/2022 18:27:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:28:08	WARNING- delete section
+16-07-2022, 18:28:08	WARNING- database is saved!
+16-07-2022, 18:28:08	WARNING- database is closed!
+16-07-2022, 18:28:08	INFO- 127.0.0.1 - - [16/Jul/2022 18:28:08] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 18:28:08	INFO- 127.0.0.1 - - [16/Jul/2022 18:28:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:31:51	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:31:59	WARNING- delete section
+16-07-2022, 18:31:59	WARNING- None database is saved!
+16-07-2022, 18:31:59	WARNING- database is saved!
+16-07-2022, 18:31:59	WARNING- database is closed!
+16-07-2022, 18:31:59	INFO- 127.0.0.1 - - [16/Jul/2022 18:31:59] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 18:31:59	INFO- 127.0.0.1 - - [16/Jul/2022 18:31:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:32:20	WARNING- Open Home page
+16-07-2022, 18:32:20	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:20] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:32:20	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:32:22	WARNING- Open Home page
+16-07-2022, 18:32:22	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:22] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:32:22	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:32:36	WARNING- POST
+16-07-2022, 18:32:36	WARNING- Got values from user
+16-07-2022, 18:32:36	WARNING- operation is performed!
+16-07-2022, 18:32:36	WARNING- database is saved!
+16-07-2022, 18:32:36	WARNING- database is closed!
+16-07-2022, 18:32:36	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:36] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:32:36	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:32:45	WARNING- delete section
+16-07-2022, 18:32:45	WARNING- None database is saved!
+16-07-2022, 18:32:45	WARNING- database is saved!
+16-07-2022, 18:32:45	WARNING- database is closed!
+16-07-2022, 18:32:45	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:45] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 18:32:45	INFO- 127.0.0.1 - - [16/Jul/2022 18:32:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:34:11	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:34:18	WARNING- Open Home page
+16-07-2022, 18:34:18	INFO- 127.0.0.1 - - [16/Jul/2022 18:34:18] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:34:19	INFO- 127.0.0.1 - - [16/Jul/2022 18:34:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:34:40	WARNING- POST
+16-07-2022, 18:34:40	WARNING- Got values from user
+16-07-2022, 18:34:40	WARNING- operation is performed!
+16-07-2022, 18:34:40	WARNING- database is saved!
+16-07-2022, 18:34:40	WARNING- database is closed!
+16-07-2022, 18:34:40	INFO- 127.0.0.1 - - [16/Jul/2022 18:34:40] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:34:40	INFO- 127.0.0.1 - - [16/Jul/2022 18:34:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:34:47	WARNING- delete section
+16-07-2022, 18:34:47	ERROR-  There is some error in the query!!
+16-07-2022, 18:34:47	INFO- 127.0.0.1 - - [16/Jul/2022 18:34:47] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 18:47:20	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:47:27	WARNING- Open Home page
+16-07-2022, 18:47:27	INFO- 127.0.0.1 - - [16/Jul/2022 18:47:27] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:47:27	INFO- 127.0.0.1 - - [16/Jul/2022 18:47:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:47:41	WARNING- POST
+16-07-2022, 18:47:41	WARNING- Got values from user
+16-07-2022, 18:47:42	WARNING- operation is performed!
+16-07-2022, 18:47:42	WARNING- database is saved!
+16-07-2022, 18:47:42	WARNING- database is closed!
+16-07-2022, 18:47:42	INFO- 127.0.0.1 - - [16/Jul/2022 18:47:42] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:47:42	INFO- 127.0.0.1 - - [16/Jul/2022 18:47:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:48:09	WARNING- delete section
+16-07-2022, 18:48:09	WARNING- None database is saved!
+16-07-2022, 18:48:09	WARNING- database is saved!
+16-07-2022, 18:48:09	WARNING- database is closed!
+16-07-2022, 18:48:09	INFO- 127.0.0.1 - - [16/Jul/2022 18:48:09] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 18:48:09	INFO- 127.0.0.1 - - [16/Jul/2022 18:48:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:50:45	WARNING- Open Home page
+16-07-2022, 18:50:45	INFO- 127.0.0.1 - - [16/Jul/2022 18:50:45] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:50:45	INFO- 127.0.0.1 - - [16/Jul/2022 18:50:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:51:08	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 18:51:43	WARNING- POST
+16-07-2022, 18:51:43	WARNING- Got values from user
+16-07-2022, 18:51:43	WARNING- operation is performed!
+16-07-2022, 18:51:43	WARNING- database is saved!
+16-07-2022, 18:51:43	WARNING- database is closed!
+16-07-2022, 18:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 18:51:43] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 18:51:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:52:45	WARNING- POST
+16-07-2022, 18:52:45	WARNING- Got values from user
+16-07-2022, 18:52:45	WARNING- operation is performed!
+16-07-2022, 18:52:45	WARNING- database is saved!
+16-07-2022, 18:52:45	WARNING- database is closed!
+16-07-2022, 18:52:45	INFO- 127.0.0.1 - - [16/Jul/2022 18:52:45] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:52:45	INFO- 127.0.0.1 - - [16/Jul/2022 18:52:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:53:49	WARNING- Open Home page
+16-07-2022, 18:53:49	INFO- 127.0.0.1 - - [16/Jul/2022 18:53:49] "GET / HTTP/1.1" 200 -
+16-07-2022, 18:53:49	INFO- 127.0.0.1 - - [16/Jul/2022 18:53:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 18:54:05	WARNING- POST
+16-07-2022, 18:54:05	WARNING- Got values from user
+16-07-2022, 18:54:05	WARNING- operation is performed!
+16-07-2022, 18:54:05	WARNING- database is saved!
+16-07-2022, 18:54:05	WARNING- database is closed!
+16-07-2022, 18:54:05	INFO- 127.0.0.1 - - [16/Jul/2022 18:54:05] "POST / HTTP/1.1" 200 -
+16-07-2022, 18:54:05	INFO- 127.0.0.1 - - [16/Jul/2022 18:54:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 21:44:06	WARNING- POST
+16-07-2022, 21:44:06	WARNING- Got values from user
+16-07-2022, 21:44:06	WARNING- operation is performed!
+16-07-2022, 21:44:06	WARNING- database is saved!
+16-07-2022, 21:44:06	WARNING- database is closed!
+16-07-2022, 21:44:06	INFO- 127.0.0.1 - - [16/Jul/2022 21:44:06] "POST / HTTP/1.1" 200 -
+16-07-2022, 21:44:06	INFO- 127.0.0.1 - - [16/Jul/2022 21:44:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 21:44:10	WARNING- Open Home page
+16-07-2022, 21:44:10	INFO- 127.0.0.1 - - [16/Jul/2022 21:44:10] "GET / HTTP/1.1" 200 -
+16-07-2022, 21:44:10	INFO- 127.0.0.1 - - [16/Jul/2022 21:44:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 21:44:28	WARNING- POST
+16-07-2022, 21:44:28	WARNING- Got values from user
+16-07-2022, 21:44:28	WARNING- operation is performed!
+16-07-2022, 21:44:28	WARNING- database is saved!
+16-07-2022, 21:44:28	WARNING- database is closed!
+16-07-2022, 21:44:28	INFO- 127.0.0.1 - - [16/Jul/2022 21:44:28] "POST / HTTP/1.1" 200 -
+16-07-2022, 21:44:28	INFO- 127.0.0.1 - - [16/Jul/2022 21:44:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 21:54:42	WARNING- POST
+16-07-2022, 21:54:42	WARNING- Got values from user
+16-07-2022, 21:54:42	WARNING- operation is performed!
+16-07-2022, 21:54:42	WARNING- database is saved!
+16-07-2022, 21:54:42	WARNING- database is closed!
+16-07-2022, 21:54:42	INFO- 127.0.0.1 - - [16/Jul/2022 21:54:42] "POST / HTTP/1.1" 200 -
+16-07-2022, 21:54:42	INFO- 127.0.0.1 - - [16/Jul/2022 21:54:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 21:54:44	WARNING- delete section
+16-07-2022, 21:54:44	WARNING- None database is saved!
+16-07-2022, 21:54:44	WARNING- database is saved!
+16-07-2022, 21:54:44	WARNING- database is closed!
+16-07-2022, 21:54:44	INFO- 127.0.0.1 - - [16/Jul/2022 21:54:44] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 21:54:44	INFO- 127.0.0.1 - - [16/Jul/2022 21:54:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 21:58:44	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 21:59:57	WARNING- Open Home page
+16-07-2022, 21:59:57	INFO- 127.0.0.1 - - [16/Jul/2022 21:59:57] "GET / HTTP/1.1" 200 -
+16-07-2022, 21:59:57	INFO- 127.0.0.1 - - [16/Jul/2022 21:59:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:00:01	WARNING- Open Home page
+16-07-2022, 22:00:01	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:01] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:00:01	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:00:20	WARNING- POST
+16-07-2022, 22:00:20	WARNING- Got values from user
+16-07-2022, 22:00:20	WARNING- operation is performed!
+16-07-2022, 22:00:20	WARNING- database is saved!
+16-07-2022, 22:00:20	WARNING- database is closed!
+16-07-2022, 22:00:20	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:20] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+16-07-2022, 22:00:20	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:20] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+16-07-2022, 22:00:20	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:20] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:00:20	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 22:00:20	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:20] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+16-07-2022, 22:00:53	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 22:00:57	WARNING- POST
+16-07-2022, 22:00:57	WARNING- Got values from user
+16-07-2022, 22:00:58	WARNING- operation is performed!
+16-07-2022, 22:00:58	WARNING- database is saved!
+16-07-2022, 22:00:58	WARNING- database is closed!
+16-07-2022, 22:00:58	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:58] "POST / HTTP/1.1" 200 -
+16-07-2022, 22:00:58	INFO- 127.0.0.1 - - [16/Jul/2022 22:00:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:02:06	WARNING- POST
+16-07-2022, 22:02:06	WARNING- Got values from user
+16-07-2022, 22:02:06	WARNING- operation is performed!
+16-07-2022, 22:02:06	WARNING- database is saved!
+16-07-2022, 22:02:06	WARNING- database is closed!
+16-07-2022, 22:02:06	INFO- 127.0.0.1 - - [16/Jul/2022 22:02:06] "POST / HTTP/1.1" 200 -
+16-07-2022, 22:02:06	INFO- 127.0.0.1 - - [16/Jul/2022 22:02:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:09:26	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+16-07-2022, 22:25:18	WARNING- POST
+16-07-2022, 22:25:18	ERROR-  There is some error in nested try block!!
+16-07-2022, 22:25:18	INFO- 127.0.0.1 - - [16/Jul/2022 22:25:18] "POST / HTTP/1.1" 200 -
+16-07-2022, 22:25:22	WARNING- Open Home page
+16-07-2022, 22:25:22	INFO- 127.0.0.1 - - [16/Jul/2022 22:25:22] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:25:23	INFO- 127.0.0.1 - - [16/Jul/2022 22:25:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:28:46	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 22:29:18	WARNING- Open Home page
+16-07-2022, 22:29:18	INFO- 127.0.0.1 - - [16/Jul/2022 22:29:18] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:29:18	INFO- 127.0.0.1 - - [16/Jul/2022 22:29:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:29:39	WARNING- Open Home page
+16-07-2022, 22:29:39	INFO- 127.0.0.1 - - [16/Jul/2022 22:29:39] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:29:39	INFO- 127.0.0.1 - - [16/Jul/2022 22:29:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:31:28	WARNING- Open Home page
+16-07-2022, 22:31:28	INFO- 127.0.0.1 - - [16/Jul/2022 22:31:28] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:31:28	INFO- 127.0.0.1 - - [16/Jul/2022 22:31:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:31:53	WARNING- Open Home page
+16-07-2022, 22:31:53	INFO- 127.0.0.1 - - [16/Jul/2022 22:31:53] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:31:53	INFO- 127.0.0.1 - - [16/Jul/2022 22:31:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:38:44	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+16-07-2022, 22:47:39	WARNING- Open Home page
+16-07-2022, 22:47:39	INFO- 127.0.0.1 - - [16/Jul/2022 22:47:39] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:47:39	INFO- 127.0.0.1 - - [16/Jul/2022 22:47:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:40	WARNING- Open Home page
+16-07-2022, 22:51:40	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:40] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:40	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:42	WARNING- Open Home page
+16-07-2022, 22:51:42	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:42] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:42	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:43	WARNING- Open Home page
+16-07-2022, 22:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:43] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:43	WARNING- Open Home page
+16-07-2022, 22:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:43] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:43	WARNING- Open Home page
+16-07-2022, 22:51:43	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:43] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:44	WARNING- Open Home page
+16-07-2022, 22:51:45	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:45] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:45	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:51:45	WARNING- Open Home page
+16-07-2022, 22:51:45	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:45] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:51:45	INFO- 127.0.0.1 - - [16/Jul/2022 22:51:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:53:04	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 22:56:28	WARNING- Open Home page
+16-07-2022, 22:56:28	INFO- 127.0.0.1 - - [16/Jul/2022 22:56:28] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:56:28	INFO- 127.0.0.1 - - [16/Jul/2022 22:56:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 22:57:50	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+16-07-2022, 22:58:43	WARNING- Open Home page
+16-07-2022, 22:58:43	INFO- 127.0.0.1 - - [16/Jul/2022 22:58:43] "GET / HTTP/1.1" 200 -
+16-07-2022, 22:58:44	INFO- 127.0.0.1 - - [16/Jul/2022 22:58:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:01:35	WARNING- POST
+16-07-2022, 23:01:35	WARNING- Got values from user
+16-07-2022, 23:01:35	WARNING- operation is performed!
+16-07-2022, 23:01:35	WARNING- database is saved!
+16-07-2022, 23:01:35	WARNING- database is closed!
+16-07-2022, 23:01:35	INFO- 127.0.0.1 - - [16/Jul/2022 23:01:35] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:01:35	INFO- 127.0.0.1 - - [16/Jul/2022 23:01:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:07:16	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+16-07-2022, 23:13:35	WARNING- POST
+16-07-2022, 23:13:35	WARNING- Got values from user
+16-07-2022, 23:13:35	ERROR-  There is some error in nested try block!!
+16-07-2022, 23:13:35	INFO- 127.0.0.1 - - [16/Jul/2022 23:13:35] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:16:06	WARNING- Open Home page
+16-07-2022, 23:16:06	INFO- 127.0.0.1 - - [16/Jul/2022 23:16:06] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:16:06	INFO- 127.0.0.1 - - [16/Jul/2022 23:16:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:16:25	WARNING- POST
+16-07-2022, 23:16:25	WARNING- Got values from user
+16-07-2022, 23:16:25	ERROR-  There is some error in nested try block!!
+16-07-2022, 23:16:25	INFO- 127.0.0.1 - - [16/Jul/2022 23:16:25] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:19:44	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:19:50	WARNING- POST
+16-07-2022, 23:19:50	WARNING- Got values from user
+16-07-2022, 23:19:50	WARNING- operation is performed!
+16-07-2022, 23:19:50	WARNING- database is saved!
+16-07-2022, 23:19:50	WARNING- database is closed!
+16-07-2022, 23:19:50	INFO- 127.0.0.1 - - [16/Jul/2022 23:19:50] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:19:51	INFO- 127.0.0.1 - - [16/Jul/2022 23:19:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:20:08	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:20:10	WARNING- POST
+16-07-2022, 23:20:10	WARNING- Got values from user
+16-07-2022, 23:20:10	WARNING- operation is performed!
+16-07-2022, 23:20:10	WARNING- database is saved!
+16-07-2022, 23:20:10	WARNING- database is closed!
+16-07-2022, 23:20:10	INFO- 127.0.0.1 - - [16/Jul/2022 23:20:10] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:20:11	INFO- 127.0.0.1 - - [16/Jul/2022 23:20:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:21:01	WARNING- Open Home page
+16-07-2022, 23:21:01	INFO- 127.0.0.1 - - [16/Jul/2022 23:21:01] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:21:02	INFO- 127.0.0.1 - - [16/Jul/2022 23:21:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:21:48	WARNING- POST
+16-07-2022, 23:21:48	WARNING- Got values from user
+16-07-2022, 23:21:48	WARNING- operation is performed!
+16-07-2022, 23:21:48	WARNING- database is saved!
+16-07-2022, 23:21:48	WARNING- database is closed!
+16-07-2022, 23:21:48	INFO- 127.0.0.1 - - [16/Jul/2022 23:21:48] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:21:48	INFO- 127.0.0.1 - - [16/Jul/2022 23:21:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:22:08	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:22:26	WARNING- Open Home page
+16-07-2022, 23:22:26	INFO- 127.0.0.1 - - [16/Jul/2022 23:22:26] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:22:27	INFO- 127.0.0.1 - - [16/Jul/2022 23:22:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:24:07	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:40:05	WARNING- POST
+16-07-2022, 23:40:05	WARNING- Got values from user
+16-07-2022, 23:40:05	WARNING- operation is performed!
+16-07-2022, 23:40:05	WARNING- database is saved!
+16-07-2022, 23:40:05	WARNING- database is closed!
+16-07-2022, 23:40:05	INFO- 127.0.0.1 - - [16/Jul/2022 23:40:05] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:40:05	INFO- 127.0.0.1 - - [16/Jul/2022 23:40:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:40:45	WARNING- Open Home page
+16-07-2022, 23:40:45	INFO- 127.0.0.1 - - [16/Jul/2022 23:40:45] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:40:46	INFO- 127.0.0.1 - - [16/Jul/2022 23:40:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:41:03	WARNING- POST
+16-07-2022, 23:41:03	WARNING- Got values from user
+16-07-2022, 23:41:03	WARNING- operation is performed!
+16-07-2022, 23:41:03	WARNING- database is saved!
+16-07-2022, 23:41:03	WARNING- database is closed!
+16-07-2022, 23:41:03	INFO- 127.0.0.1 - - [16/Jul/2022 23:41:03] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:41:03	INFO- 127.0.0.1 - - [16/Jul/2022 23:41:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:41:41	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:41:53	WARNING- Open Home page
+16-07-2022, 23:41:53	INFO- 127.0.0.1 - - [16/Jul/2022 23:41:53] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:41:53	INFO- 127.0.0.1 - - [16/Jul/2022 23:41:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:42:15	WARNING- POST
+16-07-2022, 23:42:15	WARNING- Got values from user
+16-07-2022, 23:42:15	WARNING- operation is performed!
+16-07-2022, 23:42:15	WARNING- database is saved!
+16-07-2022, 23:42:15	WARNING- database is closed!
+16-07-2022, 23:42:15	INFO- 127.0.0.1 - - [16/Jul/2022 23:42:15] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:42:15	INFO- 127.0.0.1 - - [16/Jul/2022 23:42:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:47:52	WARNING- delete section
+16-07-2022, 23:47:52	WARNING- None database is saved!
+16-07-2022, 23:47:52	WARNING- database is saved!
+16-07-2022, 23:47:52	WARNING- database is closed!
+16-07-2022, 23:47:52	INFO- 127.0.0.1 - - [16/Jul/2022 23:47:52] "POST /delete HTTP/1.1" 200 -
+16-07-2022, 23:47:53	INFO- 127.0.0.1 - - [16/Jul/2022 23:47:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:56:52	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:57:07	WARNING- delete section
+16-07-2022, 23:57:08	WARNING- None database is saved!
+16-07-2022, 23:57:08	WARNING- database is saved!
+16-07-2022, 23:57:08	WARNING- database is closed!
+16-07-2022, 23:57:08	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:08] "[32mPOST /delete HTTP/1.1[0m" 302 -
+16-07-2022, 23:57:08	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:08] "[33mGET /home.html HTTP/1.1[0m" 404 -
+16-07-2022, 23:57:18	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+16-07-2022, 23:57:25	WARNING- Open Home page
+16-07-2022, 23:57:25	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:25] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:57:25	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:57:47	WARNING- POST
+16-07-2022, 23:57:47	WARNING- Got values from user
+16-07-2022, 23:57:48	WARNING- operation is performed!
+16-07-2022, 23:57:48	WARNING- database is saved!
+16-07-2022, 23:57:48	WARNING- database is closed!
+16-07-2022, 23:57:48	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:48] "POST / HTTP/1.1" 200 -
+16-07-2022, 23:57:48	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+16-07-2022, 23:57:59	WARNING- delete section
+16-07-2022, 23:57:59	WARNING- None database is saved!
+16-07-2022, 23:57:59	WARNING- database is saved!
+16-07-2022, 23:57:59	WARNING- database is closed!
+16-07-2022, 23:57:59	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:59] "[32mPOST /delete HTTP/1.1[0m" 302 -
+16-07-2022, 23:57:59	WARNING- Open Home page
+16-07-2022, 23:57:59	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:59] "GET / HTTP/1.1" 200 -
+16-07-2022, 23:57:59	INFO- 127.0.0.1 - - [16/Jul/2022 23:57:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:05:28	WARNING- Open Home page
+17-07-2022, 15:05:28	INFO- 127.0.0.1 - - [17/Jul/2022 15:05:28] "GET / HTTP/1.1" 200 -
+17-07-2022, 15:05:28	INFO- 127.0.0.1 - - [17/Jul/2022 15:05:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:05:28	INFO- 127.0.0.1 - - [17/Jul/2022 15:05:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+17-07-2022, 15:06:15	WARNING- POST
+17-07-2022, 15:06:15	WARNING- Got values from user
+17-07-2022, 15:06:15	WARNING- operation is performed!
+17-07-2022, 15:06:15	WARNING- database is saved!
+17-07-2022, 15:06:15	WARNING- database is closed!
+17-07-2022, 15:06:15	INFO- 127.0.0.1 - - [17/Jul/2022 15:06:15] "POST / HTTP/1.1" 200 -
+17-07-2022, 15:06:15	INFO- 127.0.0.1 - - [17/Jul/2022 15:06:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:09:47	WARNING- POST
+17-07-2022, 15:09:47	WARNING- Got values from user
+17-07-2022, 15:09:47	WARNING- operation is performed!
+17-07-2022, 15:09:47	WARNING- database is saved!
+17-07-2022, 15:09:47	WARNING- database is closed!
+17-07-2022, 15:09:47	INFO- 127.0.0.1 - - [17/Jul/2022 15:09:47] "POST / HTTP/1.1" 200 -
+17-07-2022, 15:09:47	INFO- 127.0.0.1 - - [17/Jul/2022 15:09:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:23:10	WARNING- POST
+17-07-2022, 15:23:10	WARNING- Got values from user
+17-07-2022, 15:23:10	WARNING- operation is performed!
+17-07-2022, 15:23:10	WARNING- database is saved!
+17-07-2022, 15:23:10	WARNING- database is closed!
+17-07-2022, 15:23:10	INFO- 127.0.0.1 - - [17/Jul/2022 15:23:10] "POST / HTTP/1.1" 200 -
+17-07-2022, 15:23:10	INFO- 127.0.0.1 - - [17/Jul/2022 15:23:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:29:28	WARNING- POST
+17-07-2022, 15:29:28	WARNING- Got values from user
+17-07-2022, 15:29:28	WARNING- operation is performed!
+17-07-2022, 15:29:28	WARNING- database is saved!
+17-07-2022, 15:29:28	WARNING- database is closed!
+17-07-2022, 15:29:28	INFO- 127.0.0.1 - - [17/Jul/2022 15:29:28] "POST / HTTP/1.1" 200 -
+17-07-2022, 15:29:28	INFO- 127.0.0.1 - - [17/Jul/2022 15:29:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:29:30	WARNING- delete section
+17-07-2022, 15:29:30	WARNING- None database is saved!
+17-07-2022, 15:29:30	WARNING- database is saved!
+17-07-2022, 15:29:30	WARNING- database is closed!
+17-07-2022, 15:29:30	INFO- 127.0.0.1 - - [17/Jul/2022 15:29:30] "[32mPOST /delete HTTP/1.1[0m" 302 -
+17-07-2022, 15:29:30	WARNING- Open Home page
+17-07-2022, 15:29:30	INFO- 127.0.0.1 - - [17/Jul/2022 15:29:30] "GET / HTTP/1.1" 200 -
+17-07-2022, 15:29:30	INFO- 127.0.0.1 - - [17/Jul/2022 15:29:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:32:36	WARNING- Open Home page
+17-07-2022, 15:32:36	INFO- 127.0.0.1 - - [17/Jul/2022 15:32:36] "GET / HTTP/1.1" 200 -
+17-07-2022, 15:32:36	INFO- 127.0.0.1 - - [17/Jul/2022 15:32:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:32:47	WARNING- POST
+17-07-2022, 15:32:47	WARNING- Got values from user
+17-07-2022, 15:32:47	WARNING- operation is performed!
+17-07-2022, 15:32:47	WARNING- database is saved!
+17-07-2022, 15:32:47	WARNING- database is closed!
+17-07-2022, 15:32:47	INFO- 127.0.0.1 - - [17/Jul/2022 15:32:47] "POST / HTTP/1.1" 200 -
+17-07-2022, 15:32:47	INFO- 127.0.0.1 - - [17/Jul/2022 15:32:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 15:37:50	WARNING- POST
+17-07-2022, 15:37:50	WARNING- Got values from user
+17-07-2022, 15:37:50	WARNING- operation is performed!
+17-07-2022, 15:37:50	WARNING- database is saved!
+17-07-2022, 15:37:50	WARNING- database is closed!
+17-07-2022, 15:37:50	INFO- 127.0.0.1 - - [17/Jul/2022 15:37:50] "POST / HTTP/1.1" 200 -
+17-07-2022, 15:37:50	INFO- 127.0.0.1 - - [17/Jul/2022 15:37:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 16:00:31	WARNING- edit section
+17-07-2022, 16:00:31	INFO- 127.0.0.1 - - [17/Jul/2022 16:00:31] "[35m[1mPOST /edit HTTP/1.1[0m" 500 -
+17-07-2022, 16:00:31	INFO- 127.0.0.1 - - [17/Jul/2022 16:00:31] "[36mGET /edit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+17-07-2022, 16:00:32	INFO- 127.0.0.1 - - [17/Jul/2022 16:00:32] "[36mGET /edit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+17-07-2022, 16:00:33	INFO- 127.0.0.1 - - [17/Jul/2022 16:00:33] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+17-07-2022, 16:00:33	INFO- 127.0.0.1 - - [17/Jul/2022 16:00:33] "[36mGET /edit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+17-07-2022, 16:08:18	WARNING- POST
+17-07-2022, 16:08:18	WARNING- Got values from user
+17-07-2022, 16:08:18	WARNING- operation is performed!
+17-07-2022, 16:08:18	WARNING- database is saved!
+17-07-2022, 16:08:18	WARNING- database is closed!
+17-07-2022, 16:08:18	INFO- 127.0.0.1 - - [17/Jul/2022 16:08:18] "POST / HTTP/1.1" 200 -
+17-07-2022, 16:08:18	INFO- 127.0.0.1 - - [17/Jul/2022 16:08:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 16:08:20	WARNING- Open Home page
+17-07-2022, 16:08:20	INFO- 127.0.0.1 - - [17/Jul/2022 16:08:20] "GET / HTTP/1.1" 200 -
+17-07-2022, 16:08:20	INFO- 127.0.0.1 - - [17/Jul/2022 16:08:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 16:08:26	WARNING- Open Home page
+17-07-2022, 16:08:26	INFO- 127.0.0.1 - - [17/Jul/2022 16:08:26] "GET / HTTP/1.1" 200 -
+17-07-2022, 16:08:26	INFO- 127.0.0.1 - - [17/Jul/2022 16:08:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 17:09:02	WARNING- POST
+17-07-2022, 17:09:02	WARNING- Got values from user
+17-07-2022, 17:09:02	WARNING- operation is performed!
+17-07-2022, 17:09:02	WARNING- database is saved!
+17-07-2022, 17:09:02	WARNING- database is closed!
+17-07-2022, 17:09:02	INFO- 127.0.0.1 - - [17/Jul/2022 17:09:02] "POST / HTTP/1.1" 200 -
+17-07-2022, 17:09:02	INFO- 127.0.0.1 - - [17/Jul/2022 17:09:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+17-07-2022, 17:10:00	WARNING- delete section
+17-07-2022, 17:10:00	WARNING- None database is saved!
+17-07-2022, 17:10:00	WARNING- database is saved!
+17-07-2022, 17:10:00	WARNING- database is closed!
+17-07-2022, 17:10:00	INFO- 127.0.0.1 - - [17/Jul/2022 17:10:00] "[32mPOST /delete HTTP/1.1[0m" 302 -
+17-07-2022, 17:10:00	WARNING- Open Home page
+17-07-2022, 17:10:00	INFO- 127.0.0.1 - - [17/Jul/2022 17:10:00] "GET / HTTP/1.1" 200 -
+17-07-2022, 17:10:00	INFO- 127.0.0.1 - - [17/Jul/2022 17:10:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:01:08	WARNING- Open Home page
+18-07-2022, 12:01:08	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:08] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:01:09	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:01:09	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+18-07-2022, 12:01:18	WARNING- POST
+18-07-2022, 12:01:18	WARNING- Got values from user
+18-07-2022, 12:01:18	WARNING- operation is performed!
+18-07-2022, 12:01:18	WARNING- database is saved!
+18-07-2022, 12:01:18	WARNING- database is closed!
+18-07-2022, 12:01:18	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:18] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+18-07-2022, 12:01:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:19] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:01:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:19] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:01:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:01:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:01:19] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:03:51	WARNING- POST
+18-07-2022, 12:03:51	WARNING- Got values from user
+18-07-2022, 12:03:51	WARNING- operation is performed!
+18-07-2022, 12:03:51	WARNING- database is saved!
+18-07-2022, 12:03:51	WARNING- database is closed!
+18-07-2022, 12:03:51	INFO- 127.0.0.1 - - [18/Jul/2022 12:03:51] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+18-07-2022, 12:03:51	INFO- 127.0.0.1 - - [18/Jul/2022 12:03:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:03:51	INFO- 127.0.0.1 - - [18/Jul/2022 12:03:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:03:51	INFO- 127.0.0.1 - - [18/Jul/2022 12:03:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:03:51	INFO- 127.0.0.1 - - [18/Jul/2022 12:03:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:05:52	WARNING- POST
+18-07-2022, 12:05:52	WARNING- Got values from user
+18-07-2022, 12:05:52	WARNING- operation is performed!
+18-07-2022, 12:05:52	WARNING- database is saved!
+18-07-2022, 12:05:52	WARNING- database is closed!
+18-07-2022, 12:05:52	INFO- 127.0.0.1 - - [18/Jul/2022 12:05:52] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+18-07-2022, 12:05:52	INFO- 127.0.0.1 - - [18/Jul/2022 12:05:52] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:05:52	INFO- 127.0.0.1 - - [18/Jul/2022 12:05:52] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:05:52	INFO- 127.0.0.1 - - [18/Jul/2022 12:05:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:05:52	INFO- 127.0.0.1 - - [18/Jul/2022 12:05:52] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:06:24	WARNING- POST
+18-07-2022, 12:06:24	WARNING- Got values from user
+18-07-2022, 12:06:24	WARNING- operation is performed!
+18-07-2022, 12:06:24	WARNING- database is saved!
+18-07-2022, 12:06:24	WARNING- database is closed!
+18-07-2022, 12:06:24	INFO- 127.0.0.1 - - [18/Jul/2022 12:06:24] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+18-07-2022, 12:06:24	INFO- 127.0.0.1 - - [18/Jul/2022 12:06:24] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:06:24	INFO- 127.0.0.1 - - [18/Jul/2022 12:06:24] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:06:24	INFO- 127.0.0.1 - - [18/Jul/2022 12:06:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:06:25	INFO- 127.0.0.1 - - [18/Jul/2022 12:06:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:09:41	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+18-07-2022, 12:11:12	WARNING- POST
+18-07-2022, 12:11:12	WARNING- Got values from user
+18-07-2022, 12:11:12	WARNING- operation is performed!
+18-07-2022, 12:11:12	WARNING- database is saved!
+18-07-2022, 12:11:12	WARNING- database is closed!
+18-07-2022, 12:11:12	INFO- 127.0.0.1 - - [18/Jul/2022 12:11:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+18-07-2022, 12:11:12	INFO- 127.0.0.1 - - [18/Jul/2022 12:11:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:11:12	INFO- 127.0.0.1 - - [18/Jul/2022 12:11:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:11:12	INFO- 127.0.0.1 - - [18/Jul/2022 12:11:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:11:12	INFO- 127.0.0.1 - - [18/Jul/2022 12:11:12] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:11:48	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 12:12:44	WARNING- POST
+18-07-2022, 12:12:44	WARNING- Got values from user
+18-07-2022, 12:12:44	WARNING- operation is performed!
+18-07-2022, 12:12:44	WARNING- database is saved!
+18-07-2022, 12:12:44	WARNING- database is closed!
+18-07-2022, 12:12:44	INFO- 127.0.0.1 - - [18/Jul/2022 12:12:44] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:12:44	INFO- 127.0.0.1 - - [18/Jul/2022 12:12:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:13:21	WARNING- POST
+18-07-2022, 12:13:21	WARNING- Got values from user
+18-07-2022, 12:13:21	WARNING- operation is performed!
+18-07-2022, 12:13:21	WARNING- database is saved!
+18-07-2022, 12:13:21	WARNING- database is closed!
+18-07-2022, 12:13:21	INFO- 127.0.0.1 - - [18/Jul/2022 12:13:21] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:13:21	INFO- 127.0.0.1 - - [18/Jul/2022 12:13:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:13:26	WARNING- POST
+18-07-2022, 12:13:26	WARNING- Got values from user
+18-07-2022, 12:13:26	WARNING- operation is performed!
+18-07-2022, 12:13:26	WARNING- database is saved!
+18-07-2022, 12:13:26	WARNING- database is closed!
+18-07-2022, 12:13:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:13:26] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:13:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:13:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:15:00	WARNING- Open Home page
+18-07-2022, 12:15:00	INFO- 127.0.0.1 - - [18/Jul/2022 12:15:00] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:15:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:15:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:15:19	WARNING- POST
+18-07-2022, 12:15:19	WARNING- Got values from user
+18-07-2022, 12:15:19	WARNING- operation is performed!
+18-07-2022, 12:15:19	WARNING- database is saved!
+18-07-2022, 12:15:19	WARNING- database is closed!
+18-07-2022, 12:15:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:15:19] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:15:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:15:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:15:33	WARNING- POST
+18-07-2022, 12:15:33	WARNING- Got values from user
+18-07-2022, 12:15:33	WARNING- operation is performed!
+18-07-2022, 12:15:33	WARNING- database is saved!
+18-07-2022, 12:15:33	WARNING- database is closed!
+18-07-2022, 12:15:33	INFO- 127.0.0.1 - - [18/Jul/2022 12:15:33] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:15:33	INFO- 127.0.0.1 - - [18/Jul/2022 12:15:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:17:25	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 12:18:10	WARNING- Open Home page
+18-07-2022, 12:18:10	INFO- 127.0.0.1 - - [18/Jul/2022 12:18:10] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:18:10	INFO- 127.0.0.1 - - [18/Jul/2022 12:18:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:18:22	WARNING- POST
+18-07-2022, 12:18:22	WARNING- Got values from user
+18-07-2022, 12:18:22	WARNING- operation is performed!
+18-07-2022, 12:18:22	WARNING- database is saved!
+18-07-2022, 12:18:22	WARNING- database is closed!
+18-07-2022, 12:18:22	INFO- 127.0.0.1 - - [18/Jul/2022 12:18:22] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:18:22	INFO- 127.0.0.1 - - [18/Jul/2022 12:18:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:18:31	WARNING- POST
+18-07-2022, 12:18:31	WARNING- Got values from user
+18-07-2022, 12:18:31	WARNING- operation is performed!
+18-07-2022, 12:18:31	WARNING- database is saved!
+18-07-2022, 12:18:31	WARNING- database is closed!
+18-07-2022, 12:18:31	INFO- 127.0.0.1 - - [18/Jul/2022 12:18:31] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:18:31	INFO- 127.0.0.1 - - [18/Jul/2022 12:18:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:19:21	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 12:19:28	WARNING- Open Home page
+18-07-2022, 12:19:28	INFO- 127.0.0.1 - - [18/Jul/2022 12:19:28] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:19:28	INFO- 127.0.0.1 - - [18/Jul/2022 12:19:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:19:37	WARNING- POST
+18-07-2022, 12:19:37	WARNING- Got values from user
+18-07-2022, 12:19:37	WARNING- operation is performed!
+18-07-2022, 12:19:37	WARNING- database is saved!
+18-07-2022, 12:19:37	WARNING- database is closed!
+18-07-2022, 12:19:37	INFO- 127.0.0.1 - - [18/Jul/2022 12:19:37] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:19:37	INFO- 127.0.0.1 - - [18/Jul/2022 12:19:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:19:39	WARNING- Open Home page
+18-07-2022, 12:19:39	INFO- 127.0.0.1 - - [18/Jul/2022 12:19:39] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:19:39	INFO- 127.0.0.1 - - [18/Jul/2022 12:19:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:22:24	WARNING- Open Home page
+18-07-2022, 12:22:24	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:24] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:22:24	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:22:34	WARNING- POST
+18-07-2022, 12:22:34	WARNING- Got values from user
+18-07-2022, 12:22:34	WARNING- operation is performed!
+18-07-2022, 12:22:34	WARNING- database is saved!
+18-07-2022, 12:22:34	WARNING- database is closed!
+18-07-2022, 12:22:34	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:34] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:22:34	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:22:42	WARNING- Open Home page
+18-07-2022, 12:22:42	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:42] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:22:42	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:22:55	WARNING- Open Home page
+18-07-2022, 12:22:55	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:55] "GET /?13 HTTP/1.1" 200 -
+18-07-2022, 12:22:55	INFO- 127.0.0.1 - - [18/Jul/2022 12:22:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:23:01	WARNING- Open Home page
+18-07-2022, 12:23:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:23:01] "GET /?1300 HTTP/1.1" 200 -
+18-07-2022, 12:23:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:23:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:23:03	WARNING- Open Home page
+18-07-2022, 12:23:04	INFO- 127.0.0.1 - - [18/Jul/2022 12:23:04] "GET /?1300 HTTP/1.1" 200 -
+18-07-2022, 12:23:04	INFO- 127.0.0.1 - - [18/Jul/2022 12:23:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:23:07	WARNING- Open Home page
+18-07-2022, 12:23:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:23:07] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:23:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:23:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:27:34	WARNING- Open Home page
+18-07-2022, 12:27:34	INFO- 127.0.0.1 - - [18/Jul/2022 12:27:34] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:27:34	INFO- 127.0.0.1 - - [18/Jul/2022 12:27:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:27:35	WARNING- Open Home page
+18-07-2022, 12:27:35	INFO- 127.0.0.1 - - [18/Jul/2022 12:27:35] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:27:35	INFO- 127.0.0.1 - - [18/Jul/2022 12:27:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:31:26	WARNING- Open Home page
+18-07-2022, 12:31:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:31:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:31:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:31:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:31:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:31:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:31:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:31:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:31:26	INFO- 127.0.0.1 - - [18/Jul/2022 12:31:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:07	WARNING- Open Home page
+18-07-2022, 12:32:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:32:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:07] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:07] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:07] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:07	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:07] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:30	WARNING- Open Home page
+18-07-2022, 12:32:30	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:32:30	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:30	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:30	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:30	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:41	WARNING- Open Home page
+18-07-2022, 12:32:41	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:32:41	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:41	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:41	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:32:41	INFO- 127.0.0.1 - - [18/Jul/2022 12:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:33:01	WARNING- Open Home page
+18-07-2022, 12:33:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:33:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:33:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:33:01	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:33:22	WARNING- Open Home page
+18-07-2022, 12:33:22	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:22] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:33:22	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:33:44	WARNING- POST
+18-07-2022, 12:33:44	WARNING- Got values from user
+18-07-2022, 12:33:44	WARNING- operation is performed!
+18-07-2022, 12:33:44	WARNING- database is saved!
+18-07-2022, 12:33:44	WARNING- database is closed!
+18-07-2022, 12:33:44	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:44] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:33:44	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:33:57	WARNING- Open Home page
+18-07-2022, 12:33:57	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:57] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:33:57	INFO- 127.0.0.1 - - [18/Jul/2022 12:33:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:35:15	WARNING- Open Home page
+18-07-2022, 12:35:15	INFO- 127.0.0.1 - - [18/Jul/2022 12:35:15] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:35:15	INFO- 127.0.0.1 - - [18/Jul/2022 12:35:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:35:22	WARNING- POST
+18-07-2022, 12:35:22	WARNING- Got values from user
+18-07-2022, 12:35:22	WARNING- operation is performed!
+18-07-2022, 12:35:22	WARNING- database is saved!
+18-07-2022, 12:35:22	WARNING- database is closed!
+18-07-2022, 12:35:22	INFO- 127.0.0.1 - - [18/Jul/2022 12:35:22] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:35:22	INFO- 127.0.0.1 - - [18/Jul/2022 12:35:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:40:19	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 12:42:19	WARNING- Open Home page
+18-07-2022, 12:42:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:42:19] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:42:19	INFO- 127.0.0.1 - - [18/Jul/2022 12:42:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:42:32	WARNING- Open Home page
+18-07-2022, 12:42:32	INFO- 127.0.0.1 - - [18/Jul/2022 12:42:32] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:42:32	INFO- 127.0.0.1 - - [18/Jul/2022 12:42:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:46:00	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 12:46:03	WARNING- Open Home page
+18-07-2022, 12:46:03	INFO- 127.0.0.1 - - [18/Jul/2022 12:46:03] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:46:03	INFO- 127.0.0.1 - - [18/Jul/2022 12:46:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:46:39	WARNING- POST
+18-07-2022, 12:46:39	WARNING- Got values from user
+18-07-2022, 12:46:39	WARNING- operation is performed!
+18-07-2022, 12:46:39	WARNING- database is saved!
+18-07-2022, 12:46:39	WARNING- database is closed!
+18-07-2022, 12:46:39	INFO- 127.0.0.1 - - [18/Jul/2022 12:46:39] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:46:39	INFO- 127.0.0.1 - - [18/Jul/2022 12:46:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:47:15	WARNING- POST
+18-07-2022, 12:47:15	WARNING- Got values from user
+18-07-2022, 12:47:15	WARNING- operation is performed!
+18-07-2022, 12:47:15	WARNING- database is saved!
+18-07-2022, 12:47:15	WARNING- database is closed!
+18-07-2022, 12:47:15	INFO- 127.0.0.1 - - [18/Jul/2022 12:47:15] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:47:15	INFO- 127.0.0.1 - - [18/Jul/2022 12:47:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:48:57	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 12:50:31	WARNING- Open Home page
+18-07-2022, 12:50:31	INFO- 127.0.0.1 - - [18/Jul/2022 12:50:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:50:32	INFO- 127.0.0.1 - - [18/Jul/2022 12:50:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:50:32	INFO- 127.0.0.1 - - [18/Jul/2022 12:50:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:50:32	INFO- 127.0.0.1 - - [18/Jul/2022 12:50:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:50:32	INFO- 127.0.0.1 - - [18/Jul/2022 12:50:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:00	WARNING- Open Home page
+18-07-2022, 12:51:00	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:51:00	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:00	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:00	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:00	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:25	WARNING- Open Home page
+18-07-2022, 12:51:25	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:25] "[35m[1mGET / HTTP/1.1[0m" 500 -
+18-07-2022, 12:51:25	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:25	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:25	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:25	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:36	WARNING- Open Home page
+18-07-2022, 12:51:36	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:36] "GET / HTTP/1.1" 200 -
+18-07-2022, 12:51:36	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:46	WARNING- POST
+18-07-2022, 12:51:46	WARNING- Got values from user
+18-07-2022, 12:51:46	WARNING- operation is performed!
+18-07-2022, 12:51:46	WARNING- database is saved!
+18-07-2022, 12:51:46	WARNING- database is closed!
+18-07-2022, 12:51:46	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:46] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:51:46	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:48	WARNING- POST
+18-07-2022, 12:51:48	WARNING- Got values from user
+18-07-2022, 12:51:48	WARNING- operation is performed!
+18-07-2022, 12:51:48	WARNING- database is saved!
+18-07-2022, 12:51:48	WARNING- database is closed!
+18-07-2022, 12:51:48	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:48] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:51:48	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:50	WARNING- POST
+18-07-2022, 12:51:50	WARNING- Got values from user
+18-07-2022, 12:51:50	WARNING- operation is performed!
+18-07-2022, 12:51:50	WARNING- database is saved!
+18-07-2022, 12:51:50	WARNING- database is closed!
+18-07-2022, 12:51:50	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:50] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:51:50	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 12:51:57	WARNING- POST
+18-07-2022, 12:51:57	WARNING- Got values from user
+18-07-2022, 12:51:57	WARNING- operation is performed!
+18-07-2022, 12:51:57	WARNING- database is saved!
+18-07-2022, 12:51:57	WARNING- database is closed!
+18-07-2022, 12:51:57	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:57] "POST / HTTP/1.1" 200 -
+18-07-2022, 12:51:57	INFO- 127.0.0.1 - - [18/Jul/2022 12:51:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:00:53	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 13:01:33	WARNING- POST
+18-07-2022, 13:01:33	WARNING- Got values from user
+18-07-2022, 13:01:33	WARNING- operation is performed!
+18-07-2022, 13:01:33	WARNING- database is saved!
+18-07-2022, 13:01:33	WARNING- database is closed!
+18-07-2022, 13:01:33	INFO- 127.0.0.1 - - [18/Jul/2022 13:01:33] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:01:33	INFO- 127.0.0.1 - - [18/Jul/2022 13:01:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:01:43	WARNING- Open Home page
+18-07-2022, 13:01:43	INFO- 127.0.0.1 - - [18/Jul/2022 13:01:43] "GET / HTTP/1.1" 200 -
+18-07-2022, 13:01:43	INFO- 127.0.0.1 - - [18/Jul/2022 13:01:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:02:07	WARNING- POST
+18-07-2022, 13:02:07	WARNING- Got values from user
+18-07-2022, 13:02:07	WARNING- operation is performed!
+18-07-2022, 13:02:07	WARNING- database is saved!
+18-07-2022, 13:02:07	WARNING- database is closed!
+18-07-2022, 13:02:07	INFO- 127.0.0.1 - - [18/Jul/2022 13:02:07] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:02:07	INFO- 127.0.0.1 - - [18/Jul/2022 13:02:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:02:09	WARNING- POST
+18-07-2022, 13:02:09	WARNING- Got values from user
+18-07-2022, 13:02:09	WARNING- operation is performed!
+18-07-2022, 13:02:09	WARNING- database is saved!
+18-07-2022, 13:02:09	WARNING- database is closed!
+18-07-2022, 13:02:09	INFO- 127.0.0.1 - - [18/Jul/2022 13:02:09] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:02:09	INFO- 127.0.0.1 - - [18/Jul/2022 13:02:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:02:25	WARNING- POST
+18-07-2022, 13:02:25	WARNING- Got values from user
+18-07-2022, 13:02:25	WARNING- operation is performed!
+18-07-2022, 13:02:25	WARNING- database is saved!
+18-07-2022, 13:02:25	WARNING- database is closed!
+18-07-2022, 13:02:25	INFO- 127.0.0.1 - - [18/Jul/2022 13:02:25] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:02:25	INFO- 127.0.0.1 - - [18/Jul/2022 13:02:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:03:18	WARNING- Open Home page
+18-07-2022, 13:03:18	INFO- 127.0.0.1 - - [18/Jul/2022 13:03:18] "GET / HTTP/1.1" 200 -
+18-07-2022, 13:03:18	INFO- 127.0.0.1 - - [18/Jul/2022 13:03:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:03:56	WARNING- POST
+18-07-2022, 13:03:56	WARNING- Got values from user
+18-07-2022, 13:03:56	WARNING- operation is performed!
+18-07-2022, 13:03:56	WARNING- database is saved!
+18-07-2022, 13:03:56	WARNING- database is closed!
+18-07-2022, 13:03:56	INFO- 127.0.0.1 - - [18/Jul/2022 13:03:56] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:03:56	INFO- 127.0.0.1 - - [18/Jul/2022 13:03:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:05:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 13:05:21	WARNING- POST
+18-07-2022, 13:05:21	WARNING- Got values from user
+18-07-2022, 13:05:21	WARNING- operation is performed!
+18-07-2022, 13:05:21	WARNING- database is saved!
+18-07-2022, 13:05:21	WARNING- database is closed!
+18-07-2022, 13:05:21	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:21] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:05:22	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:05:28	WARNING- Open Home page
+18-07-2022, 13:05:28	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:28] "GET / HTTP/1.1" 200 -
+18-07-2022, 13:05:28	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:05:35	WARNING- POST
+18-07-2022, 13:05:35	WARNING- Got values from user
+18-07-2022, 13:05:35	WARNING- operation is performed!
+18-07-2022, 13:05:35	WARNING- database is saved!
+18-07-2022, 13:05:35	WARNING- database is closed!
+18-07-2022, 13:05:35	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:35] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:05:35	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:05:37	WARNING- POST
+18-07-2022, 13:05:37	WARNING- Got values from user
+18-07-2022, 13:05:37	WARNING- operation is performed!
+18-07-2022, 13:05:37	WARNING- database is saved!
+18-07-2022, 13:05:37	WARNING- database is closed!
+18-07-2022, 13:05:37	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:37] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:05:37	INFO- 127.0.0.1 - - [18/Jul/2022 13:05:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:08:03	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 13:08:14	WARNING- Open Home page
+18-07-2022, 13:08:14	INFO- 127.0.0.1 - - [18/Jul/2022 13:08:14] "GET / HTTP/1.1" 200 -
+18-07-2022, 13:08:14	INFO- 127.0.0.1 - - [18/Jul/2022 13:08:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:08:33	WARNING- POST
+18-07-2022, 13:08:33	WARNING- Got values from user
+18-07-2022, 13:08:33	WARNING- operation is performed!
+18-07-2022, 13:08:33	WARNING- database is saved!
+18-07-2022, 13:08:33	WARNING- database is closed!
+18-07-2022, 13:08:33	INFO- 127.0.0.1 - - [18/Jul/2022 13:08:33] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:08:33	INFO- 127.0.0.1 - - [18/Jul/2022 13:08:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:08:35	WARNING- POST
+18-07-2022, 13:08:35	WARNING- Got values from user
+18-07-2022, 13:08:35	WARNING- operation is performed!
+18-07-2022, 13:08:35	WARNING- database is saved!
+18-07-2022, 13:08:35	WARNING- database is closed!
+18-07-2022, 13:08:35	INFO- 127.0.0.1 - - [18/Jul/2022 13:08:35] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:08:35	INFO- 127.0.0.1 - - [18/Jul/2022 13:08:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:10:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 13:11:04	WARNING- Open Home page
+18-07-2022, 13:11:04	INFO- 127.0.0.1 - - [18/Jul/2022 13:11:04] "GET / HTTP/1.1" 200 -
+18-07-2022, 13:11:05	INFO- 127.0.0.1 - - [18/Jul/2022 13:11:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:11:22	WARNING- POST
+18-07-2022, 13:11:22	WARNING- Got values from user
+18-07-2022, 13:11:22	WARNING- operation is performed!
+18-07-2022, 13:11:22	WARNING- database is saved!
+18-07-2022, 13:11:22	WARNING- database is closed!
+18-07-2022, 13:11:22	INFO- 127.0.0.1 - - [18/Jul/2022 13:11:22] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:11:22	INFO- 127.0.0.1 - - [18/Jul/2022 13:11:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:11:24	WARNING- POST
+18-07-2022, 13:11:24	WARNING- Got values from user
+18-07-2022, 13:11:24	WARNING- operation is performed!
+18-07-2022, 13:11:25	WARNING- database is saved!
+18-07-2022, 13:11:25	WARNING- database is closed!
+18-07-2022, 13:11:25	INFO- 127.0.0.1 - - [18/Jul/2022 13:11:25] "POST / HTTP/1.1" 200 -
+18-07-2022, 13:11:25	INFO- 127.0.0.1 - - [18/Jul/2022 13:11:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 13:12:10	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 13:12:16	WARNING- Open Home page
+18-07-2022, 13:12:16	INFO- 127.0.0.1 - - [18/Jul/2022 13:12:16] "GET / HTTP/1.1" 200 -
+18-07-2022, 13:12:16	INFO- 127.0.0.1 - - [18/Jul/2022 13:12:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:25:39	WARNING- Open Home page
+18-07-2022, 15:25:39	INFO- 127.0.0.1 - - [18/Jul/2022 15:25:39] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:25:40	INFO- 127.0.0.1 - - [18/Jul/2022 15:25:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:25:48	WARNING- POST
+18-07-2022, 15:25:48	WARNING- Got values from user
+18-07-2022, 15:25:48	WARNING- operation is performed!
+18-07-2022, 15:25:48	WARNING- database is saved!
+18-07-2022, 15:25:48	WARNING- database is closed!
+18-07-2022, 15:25:48	INFO- 127.0.0.1 - - [18/Jul/2022 15:25:48] "POST / HTTP/1.1" 200 -
+18-07-2022, 15:25:48	INFO- 127.0.0.1 - - [18/Jul/2022 15:25:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:25:50	INFO- 127.0.0.1 - - [18/Jul/2022 15:25:50] "[33mPOST /delete HTTP/1.1[0m" 404 -
+18-07-2022, 15:26:22	INFO- 127.0.0.1 - - [18/Jul/2022 15:26:22] "[33mPOST /delete HTTP/1.1[0m" 404 -
+18-07-2022, 15:28:09	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\script.py', reloading
+18-07-2022, 15:28:38	WARNING- delete section
+18-07-2022, 15:28:38	WARNING- / database is saved!
+18-07-2022, 15:28:38	WARNING- database is saved!
+18-07-2022, 15:28:38	WARNING- database is closed!
+18-07-2022, 15:28:38	INFO- 127.0.0.1 - - [18/Jul/2022 15:28:38] "[32mPOST /delete HTTP/1.1[0m" 302 -
+18-07-2022, 15:28:38	WARNING- Open Home page
+18-07-2022, 15:28:38	INFO- 127.0.0.1 - - [18/Jul/2022 15:28:38] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:28:39	INFO- 127.0.0.1 - - [18/Jul/2022 15:28:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:29:16	WARNING- POST
+18-07-2022, 15:29:16	WARNING- Got values from user
+18-07-2022, 15:29:16	WARNING- operation is performed!
+18-07-2022, 15:29:16	WARNING- database is saved!
+18-07-2022, 15:29:16	WARNING- database is closed!
+18-07-2022, 15:29:16	INFO- 127.0.0.1 - - [18/Jul/2022 15:29:16] "POST / HTTP/1.1" 200 -
+18-07-2022, 15:29:16	INFO- 127.0.0.1 - - [18/Jul/2022 15:29:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:29:18	WARNING- delete section
+18-07-2022, 15:29:18	WARNING- / database is saved!
+18-07-2022, 15:29:18	WARNING- database is saved!
+18-07-2022, 15:29:18	WARNING- database is closed!
+18-07-2022, 15:29:18	INFO- 127.0.0.1 - - [18/Jul/2022 15:29:18] "[32mPOST /delete HTTP/1.1[0m" 302 -
+18-07-2022, 15:29:18	WARNING- Open Home page
+18-07-2022, 15:29:18	INFO- 127.0.0.1 - - [18/Jul/2022 15:29:18] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:29:18	INFO- 127.0.0.1 - - [18/Jul/2022 15:29:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:31:31	WARNING- Open Home page
+18-07-2022, 15:31:31	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:31] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:31:31	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:31:46	WARNING- POST
+18-07-2022, 15:31:46	WARNING- Got values from user
+18-07-2022, 15:31:46	WARNING- operation is performed!
+18-07-2022, 15:31:46	WARNING- database is saved!
+18-07-2022, 15:31:46	WARNING- database is closed!
+18-07-2022, 15:31:46	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:46] "POST / HTTP/1.1" 200 -
+18-07-2022, 15:31:46	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:31:56	WARNING- delete section
+18-07-2022, 15:31:56	WARNING- table_values[0] database is saved!
+18-07-2022, 15:31:56	WARNING- database is saved!
+18-07-2022, 15:31:56	WARNING- database is closed!
+18-07-2022, 15:31:56	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:56] "[32mPOST /delete/table_values[0] HTTP/1.1[0m" 302 -
+18-07-2022, 15:31:56	WARNING- Open Home page
+18-07-2022, 15:31:56	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:56] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:31:56	INFO- 127.0.0.1 - - [18/Jul/2022 15:31:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:32:41	WARNING- Open Home page
+18-07-2022, 15:32:41	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:41] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:32:42	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:32:49	WARNING- POST
+18-07-2022, 15:32:49	WARNING- Got values from user
+18-07-2022, 15:32:49	WARNING- operation is performed!
+18-07-2022, 15:32:49	WARNING- database is saved!
+18-07-2022, 15:32:49	WARNING- database is closed!
+18-07-2022, 15:32:49	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:49] "POST / HTTP/1.1" 200 -
+18-07-2022, 15:32:49	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+18-07-2022, 15:32:55	WARNING- delete section
+18-07-2022, 15:32:55	WARNING- 2251 database is saved!
+18-07-2022, 15:32:55	WARNING- database is saved!
+18-07-2022, 15:32:55	WARNING- database is closed!
+18-07-2022, 15:32:55	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:55] "[32mPOST /delete/2251 HTTP/1.1[0m" 302 -
+18-07-2022, 15:32:55	WARNING- Open Home page
+18-07-2022, 15:32:55	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:55] "GET / HTTP/1.1" 200 -
+18-07-2022, 15:32:55	INFO- 127.0.0.1 - - [18/Jul/2022 15:32:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

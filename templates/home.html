@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        Html CRUD
+    </title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="container">
+        <div class="title">Create Order</div>
+        <form  action="/" method="post">
+            <div class="order-details">
+                <div class="input-box">
+                    <span class="details">Order ID</span>
+                    <input type="text" value="{{ Ord_Id }}" name="Ord_Id" readonly>
+                </div>
+                <div class="input-box">
+                    <span class="details">Product Category</span>
+                    <select required="required" name="Category_Id">
+                        <option disabled selected value="">Select an option</option >
+                        <option value="YRN">YARN</option>
+                        <option value="EQP">EQUIPMENT AND MACHINE</option>
+                        <option value="SPR">SPARE PARTS</option>
+                        <option value="CAP">CAPITAL ITEMS</option>
+                    </select>
+                </div>
+                <div class="input-box">
+                    <span class="details">Product Name</span>
+                    <select required="required" name="Product_Name">
+                        <option disabled selected value="">Select an option</option >
+                        {% for product in products %}
+                            <option>{{ product }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="input-box">
+                    <span class="details">Quantity</span>
+                    <input type="text" autocomplete="off" required="required" placeholder="Quantity" name="ProductQty">
+                </div>
+                <div class="input-box">
+                    <span class="details">Rate</span>
+                    <input type="text" required="required" placeholder="Rate" autocomplete="off" name="ProductRate">
+                </div>
+                <div class="input-box">
+                    <span class="details">Status</span>
+                    <select required="required" name="Ord_Status">
+                        <option disabled selected value="">Select an option</option >
+                        <option value="O">OPEN</option>
+                        <option value="C">CLOSE</option>
+                    </select>
+                </div>
+            </div>
+            <div class="button">
+                <input type="submit" value="Submit">           
+            </div>
+        </form>
+
+        {% if submitted %}
+        <form>
+            <div class="order-list">
+                <table class="myTable">
+                    <colgroup span="8"></colgroup>
+                    <tr>
+                        <th>Order ID</th>
+                        <th>Product Category</th>
+                        <th>Product Name</th>
+                        <th>Quantity</th>
+                        <th>Rate</th>
+                        <th>Status</th>
+                    </tr>
+                    <tr id="order_values">
+                        <td id="Ord_Id">{{ table_values[0] }}</td>
+                        {% for value in table_values[1:] %}
+                        <td>{{ value }}</td>
+                        {% endfor %}
+                        <td>
+                            <a href="{{ url_for('edit', record_id= table_values[0]) }}">
+                                <input formaction="/edit" formmethod="post" type="submit" value="Edit">
+                                    <i class="material-icons"></i>
+                                </input>
+                            </a><br>
+                            <input formaction="/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
+                                    <i class="material-icons"></i>
+                                </input>    
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </form>
+        
+        {% endif %}
+        
+    </div>
+
+</body>
+
+</html>
