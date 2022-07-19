@@ -1,9 +1,12 @@
 '''
 import db
+
 cur, con = db.get_db()
+data = cur.execute("select * from Morder where Ord_Id=2253").fetchall()[0]
+'''
 
-data = cur.execute("select ProductId from Mproduct where Product_Name='Wheels'").fetchval()
-print(data)'''
+from werkzeug.datastructures import MultiDict
+data = MultiDict([('a', 'b'), ('a', 'c')])
 
-l = [1,2,32,4]
-print(l[1:])
+print(data.setdefault('a'))
+print()
