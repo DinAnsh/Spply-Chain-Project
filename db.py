@@ -15,12 +15,3 @@ def save_db(connection):
 def close_db(connection):
     connection.close()
     return "Conection is closed!"
-'''
-cursor, connection = get_db()
-
-try:
-    cur.execute("")
-except pyodbc.DatabaseError as err:
-    conn.rollback()
-else:
-    save_db(connection)'''

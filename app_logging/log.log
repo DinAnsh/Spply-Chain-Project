@@ -41,3 +41,54 @@
 20-07-2022, 11:27:31	WARNING- database is closed!
 20-07-2022, 11:27:31	INFO- 127.0.0.1 - - [20/Jul/2022 11:27:31] "POST / HTTP/1.1" 200 -
 20-07-2022, 11:27:31	INFO- 127.0.0.1 - - [20/Jul/2022 11:27:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:27:52	WARNING- submit: True & edit: False
+20-07-2022, 11:27:52	WARNING- Got values from user
+20-07-2022, 11:27:52	WARNING- data is inserted!
+20-07-2022, 11:27:52	WARNING- database is saved!
+20-07-2022, 11:27:52	WARNING- database is closed!
+20-07-2022, 11:27:52	INFO- 127.0.0.1 - - [20/Jul/2022 11:27:52] "POST / HTTP/1.1" 200 -
+20-07-2022, 11:27:52	INFO- 127.0.0.1 - - [20/Jul/2022 11:27:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:28:02	WARNING- Open Home page
+20-07-2022, 11:28:02	INFO- 127.0.0.1 - - [20/Jul/2022 11:28:02] "GET / HTTP/1.1" 200 -
+20-07-2022, 11:28:02	INFO- 127.0.0.1 - - [20/Jul/2022 11:28:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:31:33	WARNING- submit: True & edit: False
+20-07-2022, 11:31:33	WARNING- Got values from user
+20-07-2022, 11:31:33	WARNING- data is inserted!
+20-07-2022, 11:31:33	WARNING- database is saved!
+20-07-2022, 11:31:33	WARNING- database is closed!
+20-07-2022, 11:31:33	INFO- 127.0.0.1 - - [20/Jul/2022 11:31:33] "POST / HTTP/1.1" 200 -
+20-07-2022, 11:31:33	INFO- 127.0.0.1 - - [20/Jul/2022 11:31:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:31:46	WARNING- submit: True & edit: False
+20-07-2022, 11:31:46	WARNING- Got values from user
+20-07-2022, 11:31:47	WARNING- data is inserted!
+20-07-2022, 11:31:47	WARNING- database is saved!
+20-07-2022, 11:31:47	WARNING- database is closed!
+20-07-2022, 11:31:47	INFO- 127.0.0.1 - - [20/Jul/2022 11:31:47] "POST / HTTP/1.1" 200 -
+20-07-2022, 11:31:47	INFO- 127.0.0.1 - - [20/Jul/2022 11:31:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:32:04	WARNING- edit section
+20-07-2022, 11:32:04	WARNING- values got successfully ['2257', ' EQUIPMENT AND MACHINE', ' Handles', ' 75', ' 523', ' C']!!
+20-07-2022, 11:32:04	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:04] "POST /edit/['2257',%20'EQUIPMENT%20AND%20MACHINE',%20'Handles',%20'75',%20'523',%20'C'] HTTP/1.1" 200 -
+20-07-2022, 11:32:04	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:32:15	WARNING- submit: True & edit: True
+20-07-2022, 11:32:15	WARNING- Got values from user
+20-07-2022, 11:32:15	WARNING- database is updated!
+20-07-2022, 11:32:15	WARNING- database is saved!
+20-07-2022, 11:32:15	WARNING- database is closed!
+20-07-2022, 11:32:15	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:15] "POST / HTTP/1.1" 200 -
+20-07-2022, 11:32:15	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:32:31	WARNING- submit: True & edit: False
+20-07-2022, 11:32:31	WARNING- Got values from user
+20-07-2022, 11:32:31	WARNING- data is inserted!
+20-07-2022, 11:32:31	WARNING- database is saved!
+20-07-2022, 11:32:31	WARNING- database is closed!
+20-07-2022, 11:32:31	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:31] "POST / HTTP/1.1" 200 -
+20-07-2022, 11:32:31	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 11:32:43	WARNING- delete section
+20-07-2022, 11:32:43	WARNING- 2258 data is deleted!
+20-07-2022, 11:32:43	WARNING- database is saved!
+20-07-2022, 11:32:43	WARNING- database is closed!
+20-07-2022, 11:32:43	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:43] "[32mPOST /delete/2258 HTTP/1.1[0m" 302 -
+20-07-2022, 11:32:43	WARNING- Open Home page
+20-07-2022, 11:32:43	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:43] "GET / HTTP/1.1" 200 -
+20-07-2022, 11:32:43	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:13:24	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\db.py', reloading
