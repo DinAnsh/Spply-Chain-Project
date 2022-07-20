@@ -54,8 +54,9 @@ def home_page():
             tup = (Ord_Id,Ord_Date,ProductId,Category_Id,ProductQty,ProductRate,Ord_Status)
             tup_values = [value for value in tup]
 
-            if editted:
+            if editted and submitted:
                 Ord_Id = Ord_Id-1
+                editted = False
                 cur.execute("update Morder set Ord_Date=?,ProductId=?,Category_Id=?,ProductQty=?,ProductRate=?,Ord_Status=? where Ord_Id=? ",Ord_Date,ProductId,Category_Id,ProductQty,ProductRate,Ord_Status,Ord_Id)
                 log.put_log(2, "database is updated!")
 
@@ -112,7 +113,7 @@ def delete(record_id):
     try:
         cur, con = db.get_db()
         cur.execute("delete from Morder where Ord_Id=(?)",record_id)
-        log.put_log(2, f"{record_id} database is saved!")
+        log.put_log(2, f"{record_id} data is deleted!")
     except:
         log.put_log(3, " There is some error in the query!!")
         return f"There is an ERROR - {record_id}"

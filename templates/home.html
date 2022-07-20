@@ -61,7 +61,7 @@
                         <span class="details">Order ID</span>
                         {% if submitted %}
                             {% set Id = Ord_Id + 1 %}
-                        {% else %}
+                        {% elif (not submitted or editted) %}
                             {% set Id = Ord_Id %}
                         {% endif %}
                         <input type="text" value="{{ Id }}" name="Ord_Id" readonly>
@@ -121,6 +121,7 @@
                         <th>Status</th>
                     </tr>
                     <tr id="order_values">
+                        
                         <td id="Ord_Id">{{ Ord_Id }}</td>
                         {% for value in table_values[1:] %}
                         <td>{{ value }}</td>
