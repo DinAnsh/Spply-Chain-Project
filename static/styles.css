@@ -6,7 +6,7 @@
   font-family: 'Poppins',sans-serif;
 }
 body{
-  height: 120vh;
+  height: 200;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -99,9 +99,46 @@ transform: scale(0.99);
 background: linear-gradient(-135deg, #71b7e6, #9b59b6);
 }
 
+.container form div.the_two{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+}
+.the_two .box{
+  margin-bottom: 20px;
+  width: calc(100% / 2 - 20px);
+}
+.the_two .box input{
+  height: 30px;
+  width: 75%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding-left: 20%;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
+.the_two .box-button{
+  margin-bottom: 20px;
+  width: calc(100% / 2 - 20px);
+}
+.the_two .box-button input{
+  height: 30px;
+  width: 75%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
+
 .myTable {
   border-collapse: collapse;
-  margin: 40px 0;
+  margin-left:auto;
+  margin-right:auto;
   font-size: 14px;
   font-family: monospace;
   border-radius: 5px;
@@ -118,6 +155,22 @@ background: linear-gradient(-135deg, #71b7e6, #9b59b6);
   border:1px solid #000; 
   border-radius: 5px;
   text-align: center;
+}
+
+.myTable .box-button{
+  margin-bottom: 20px;
+  width: calc(150% - 20px);
+}
+.myTable .box-button input{
+  height: 30px;
+  width: 100%;
+  outline: none;
+  font-size: 12px;
+  font-style: oblique;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
 }
 
 @media(max-width: 584px){

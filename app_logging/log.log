@@ -92,3 +92,1715 @@
 20-07-2022, 11:32:43	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:43] "GET / HTTP/1.1" 200 -
 20-07-2022, 11:32:43	INFO- 127.0.0.1 - - [20/Jul/2022 11:32:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
 20-07-2022, 12:13:24	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\db.py', reloading
+20-07-2022, 12:27:43	WARNING- Open Home page
+20-07-2022, 12:27:43	INFO- 127.0.0.1 - - [20/Jul/2022 12:27:43] "GET / HTTP/1.1" 200 -
+20-07-2022, 12:27:43	INFO- 127.0.0.1 - - [20/Jul/2022 12:27:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:27:52	WARNING- submit: True & edit: False
+20-07-2022, 12:27:52	WARNING- Got values from user
+20-07-2022, 12:27:52	WARNING- data is inserted!
+20-07-2022, 12:27:52	WARNING- database is saved!
+20-07-2022, 12:27:52	WARNING- database is closed!
+20-07-2022, 12:27:52	INFO- 127.0.0.1 - - [20/Jul/2022 12:27:52] "POST / HTTP/1.1" 200 -
+20-07-2022, 12:27:53	INFO- 127.0.0.1 - - [20/Jul/2022 12:27:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:27:55	WARNING- edit section
+20-07-2022, 12:27:55	WARNING- values got successfully ['2258', ' CAPITAL ITEMS', ' Land', ' 123', ' 43', ' O']!!
+20-07-2022, 12:27:55	INFO- 127.0.0.1 - - [20/Jul/2022 12:27:55] "POST /edit/['2258',%20'CAPITAL%20ITEMS',%20'Land',%20'123',%20'43',%20'O'] HTTP/1.1" 200 -
+20-07-2022, 12:27:55	INFO- 127.0.0.1 - - [20/Jul/2022 12:27:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:28:01	WARNING- submit: True & edit: True
+20-07-2022, 12:28:01	WARNING- Got values from user
+20-07-2022, 12:28:01	WARNING- database is updated!
+20-07-2022, 12:28:01	WARNING- database is saved!
+20-07-2022, 12:28:01	WARNING- database is closed!
+20-07-2022, 12:28:01	INFO- 127.0.0.1 - - [20/Jul/2022 12:28:01] "POST / HTTP/1.1" 200 -
+20-07-2022, 12:28:01	INFO- 127.0.0.1 - - [20/Jul/2022 12:28:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:28:14	WARNING- submit: True & edit: False
+20-07-2022, 12:28:14	WARNING- Got values from user
+20-07-2022, 12:28:14	WARNING- data is inserted!
+20-07-2022, 12:28:14	WARNING- database is saved!
+20-07-2022, 12:28:14	WARNING- database is closed!
+20-07-2022, 12:28:14	INFO- 127.0.0.1 - - [20/Jul/2022 12:28:14] "POST / HTTP/1.1" 200 -
+20-07-2022, 12:28:14	INFO- 127.0.0.1 - - [20/Jul/2022 12:28:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:59:20	WARNING- Open Home page
+20-07-2022, 12:59:20	INFO- 127.0.0.1 - - [20/Jul/2022 12:59:20] "GET / HTTP/1.1" 200 -
+20-07-2022, 12:59:20	INFO- 127.0.0.1 - - [20/Jul/2022 12:59:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 12:59:29	WARNING- submit: True & edit: False
+20-07-2022, 12:59:29	WARNING- Got values from user
+20-07-2022, 12:59:29	WARNING- data is inserted!
+20-07-2022, 12:59:29	WARNING- database is saved!
+20-07-2022, 12:59:29	WARNING- database is closed!
+20-07-2022, 12:59:29	INFO- 127.0.0.1 - - [20/Jul/2022 12:59:29] "POST / HTTP/1.1" 200 -
+20-07-2022, 12:59:29	INFO- 127.0.0.1 - - [20/Jul/2022 12:59:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 16:16:04	WARNING- Open Home page
+20-07-2022, 16:16:04	INFO- 127.0.0.1 - - [20/Jul/2022 16:16:04] "GET / HTTP/1.1" 200 -
+20-07-2022, 16:16:04	INFO- 127.0.0.1 - - [20/Jul/2022 16:16:04] "GET /static/styles.css HTTP/1.1" 200 -
+20-07-2022, 16:16:13	WARNING- submit: True & edit: False
+20-07-2022, 16:16:13	WARNING- Got values from user
+20-07-2022, 16:16:13	WARNING- data is inserted!
+20-07-2022, 16:16:13	WARNING- database is saved!
+20-07-2022, 16:16:13	WARNING- database is closed!
+20-07-2022, 16:16:13	INFO- 127.0.0.1 - - [20/Jul/2022 16:16:13] "POST / HTTP/1.1" 200 -
+20-07-2022, 16:16:13	INFO- 127.0.0.1 - - [20/Jul/2022 16:16:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 16:24:46	WARNING- Open Home page
+20-07-2022, 16:24:46	INFO- 127.0.0.1 - - [20/Jul/2022 16:24:46] "GET / HTTP/1.1" 200 -
+20-07-2022, 16:24:46	INFO- 127.0.0.1 - - [20/Jul/2022 16:24:46] "GET /static/styles.css HTTP/1.1" 200 -
+20-07-2022, 16:24:53	WARNING- submit: True & edit: False
+20-07-2022, 16:24:53	WARNING- Got values from user
+20-07-2022, 16:24:53	WARNING- data is inserted!
+20-07-2022, 16:24:53	WARNING- database is saved!
+20-07-2022, 16:24:53	WARNING- database is closed!
+20-07-2022, 16:24:53	INFO- 127.0.0.1 - - [20/Jul/2022 16:24:53] "POST / HTTP/1.1" 200 -
+20-07-2022, 16:24:53	INFO- 127.0.0.1 - - [20/Jul/2022 16:24:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:11:05	WARNING- Open Home page
+20-07-2022, 18:11:05	INFO- 127.0.0.1 - - [20/Jul/2022 18:11:05] "GET / HTTP/1.1" 200 -
+20-07-2022, 18:11:05	INFO- 127.0.0.1 - - [20/Jul/2022 18:11:05] "GET /static/styles.css HTTP/1.1" 200 -
+20-07-2022, 18:11:13	WARNING- submit: True & edit: False
+20-07-2022, 18:11:13	WARNING- Got values from user
+20-07-2022, 18:11:13	WARNING- data is inserted!
+20-07-2022, 18:11:13	WARNING- database is saved!
+20-07-2022, 18:11:13	WARNING- database is closed!
+20-07-2022, 18:11:13	INFO- 127.0.0.1 - - [20/Jul/2022 18:11:13] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:11:13	INFO- 127.0.0.1 - - [20/Jul/2022 18:11:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:12:59	WARNING- Open Home page
+20-07-2022, 18:12:59	INFO- 127.0.0.1 - - [20/Jul/2022 18:12:59] "GET / HTTP/1.1" 200 -
+20-07-2022, 18:12:59	INFO- 127.0.0.1 - - [20/Jul/2022 18:12:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:13:01	WARNING- Open Home page
+20-07-2022, 18:13:01	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:01] "GET / HTTP/1.1" 200 -
+20-07-2022, 18:13:01	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:13:08	WARNING- submit: True & edit: False
+20-07-2022, 18:13:08	WARNING- Got values from user
+20-07-2022, 18:13:08	WARNING- data is inserted!
+20-07-2022, 18:13:08	WARNING- database is saved!
+20-07-2022, 18:13:08	WARNING- database is closed!
+20-07-2022, 18:13:08	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:08] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:13:08	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:13:13	WARNING- edit section
+20-07-2022, 18:13:13	WARNING- values got successfully ['2264', ' SPARE PARTS', ' Handles', ' 34', ' 45', ' O']!!
+20-07-2022, 18:13:13	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:13] "POST /edit/['2264',%20'SPARE%20PARTS',%20'Handles',%20'34',%20'45',%20'O'] HTTP/1.1" 200 -
+20-07-2022, 18:13:13	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:13:21	WARNING- submit: True & edit: True
+20-07-2022, 18:13:21	WARNING- Got values from user
+20-07-2022, 18:13:21	WARNING- database is updated!
+20-07-2022, 18:13:21	WARNING- database is saved!
+20-07-2022, 18:13:21	WARNING- database is closed!
+20-07-2022, 18:13:21	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:21] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:13:21	INFO- 127.0.0.1 - - [20/Jul/2022 18:13:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:17:03	WARNING- Open Home page
+20-07-2022, 18:17:03	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:03] "GET / HTTP/1.1" 200 -
+20-07-2022, 18:17:03	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:17:10	WARNING- submit: True & edit: False
+20-07-2022, 18:17:10	WARNING- Got values from user
+20-07-2022, 18:17:10	WARNING- data is inserted!
+20-07-2022, 18:17:10	WARNING- database is saved!
+20-07-2022, 18:17:10	WARNING- database is closed!
+20-07-2022, 18:17:10	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:10] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:17:10	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:17:17	WARNING- edit section
+20-07-2022, 18:17:17	WARNING- values got successfully ['2265', ' EQUIPMENT AND MACHINE', ' Land', ' 213', ' 2134', ' O']!!
+20-07-2022, 18:17:17	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:17] "POST /edit/['2265',%20'EQUIPMENT%20AND%20MACHINE',%20'Land',%20'213',%20'2134',%20'O'] HTTP/1.1" 200 -
+20-07-2022, 18:17:17	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:17:54	WARNING- Open Home page
+20-07-2022, 18:17:55	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:55] "GET / HTTP/1.1" 200 -
+20-07-2022, 18:17:55	INFO- 127.0.0.1 - - [20/Jul/2022 18:17:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:18:03	WARNING- submit: True & edit: False
+20-07-2022, 18:18:03	WARNING- Got values from user
+20-07-2022, 18:18:03	WARNING- data is inserted!
+20-07-2022, 18:18:03	WARNING- database is saved!
+20-07-2022, 18:18:03	WARNING- database is closed!
+20-07-2022, 18:18:03	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:03] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:18:03	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:18:12	WARNING- submit: True & edit: False
+20-07-2022, 18:18:12	WARNING- Got values from user
+20-07-2022, 18:18:12	WARNING- data is inserted!
+20-07-2022, 18:18:12	WARNING- database is saved!
+20-07-2022, 18:18:12	WARNING- database is closed!
+20-07-2022, 18:18:12	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:12] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:18:12	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:18:14	WARNING- edit section
+20-07-2022, 18:18:14	WARNING- values got successfully ['2267', ' CAPITAL ITEMS', ' Clothes', ' 3456', ' 678', ' C']!!
+20-07-2022, 18:18:14	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:14] "POST /edit/['2267',%20'CAPITAL%20ITEMS',%20'Clothes',%20'3456',%20'678',%20'C'] HTTP/1.1" 200 -
+20-07-2022, 18:18:14	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:18:46	WARNING- submit: True & edit: True
+20-07-2022, 18:18:46	WARNING- Got values from user
+20-07-2022, 18:18:47	WARNING- database is updated!
+20-07-2022, 18:18:47	WARNING- database is saved!
+20-07-2022, 18:18:47	WARNING- database is closed!
+20-07-2022, 18:18:47	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:47] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:18:47	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:18:51	WARNING- edit section
+20-07-2022, 18:18:51	WARNING- values got successfully ['2267', ' SPARE PARTS', ' Handles', '  3456', '  678', ' O']!!
+20-07-2022, 18:18:51	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:51] "POST /edit/['2267',%20'SPARE%20PARTS',%20'Handles',%20'%203456',%20'%20678',%20'O'] HTTP/1.1" 200 -
+20-07-2022, 18:18:51	INFO- 127.0.0.1 - - [20/Jul/2022 18:18:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:18:59	WARNING- submit: True & edit: True
+20-07-2022, 18:19:00	WARNING- Got values from user
+20-07-2022, 18:19:00	WARNING- database is updated!
+20-07-2022, 18:19:00	WARNING- database is saved!
+20-07-2022, 18:19:00	WARNING- database is closed!
+20-07-2022, 18:19:00	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:00] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:19:00	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:19:02	WARNING- edit section
+20-07-2022, 18:19:02	WARNING- values got successfully ['2267', ' CAPITAL ITEMS', ' Sheets', '   3456', '   678', ' C']!!
+20-07-2022, 18:19:02	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:02] "POST /edit/['2267',%20'CAPITAL%20ITEMS',%20'Sheets',%20'%20%203456',%20'%20%20678',%20'C'] HTTP/1.1" 200 -
+20-07-2022, 18:19:02	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:19:25	WARNING- Open Home page
+20-07-2022, 18:19:25	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:25] "GET / HTTP/1.1" 200 -
+20-07-2022, 18:19:25	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:19:33	WARNING- submit: True & edit: False
+20-07-2022, 18:19:33	WARNING- Got values from user
+20-07-2022, 18:19:33	WARNING- data is inserted!
+20-07-2022, 18:19:33	WARNING- database is saved!
+20-07-2022, 18:19:33	WARNING- database is closed!
+20-07-2022, 18:19:33	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:33] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:19:33	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:19:35	WARNING- edit section
+20-07-2022, 18:19:35	WARNING- values got successfully ['2268', ' YARN', ' Handles', ' 123', ' 45', ' O']!!
+20-07-2022, 18:19:35	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:35] "POST /edit/['2268',%20'YARN',%20'Handles',%20'123',%20'45',%20'O'] HTTP/1.1" 200 -
+20-07-2022, 18:19:35	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:19:42	WARNING- submit: True & edit: True
+20-07-2022, 18:19:42	WARNING- Got values from user
+20-07-2022, 18:19:42	WARNING- database is updated!
+20-07-2022, 18:19:42	WARNING- database is saved!
+20-07-2022, 18:19:42	WARNING- database is closed!
+20-07-2022, 18:19:42	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:42] "POST / HTTP/1.1" 200 -
+20-07-2022, 18:19:42	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 18:19:44	WARNING- edit section
+20-07-2022, 18:19:44	WARNING- values got successfully ['2268', ' EQUIPMENT AND MACHINE', ' Handles', '  123', '  45', ' C']!!
+20-07-2022, 18:19:44	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:44] "POST /edit/['2268',%20'EQUIPMENT%20AND%20MACHINE',%20'Handles',%20'%20123',%20'%2045',%20'C'] HTTP/1.1" 200 -
+20-07-2022, 18:19:44	INFO- 127.0.0.1 - - [20/Jul/2022 18:19:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 20:47:16	WARNING- Open Home page
+20-07-2022, 20:47:16	INFO- 127.0.0.1 - - [20/Jul/2022 20:47:16] "GET / HTTP/1.1" 200 -
+20-07-2022, 20:47:16	INFO- 127.0.0.1 - - [20/Jul/2022 20:47:16] "GET /static/styles.css HTTP/1.1" 200 -
+20-07-2022, 20:47:25	WARNING- submit: True & edit: False
+20-07-2022, 20:47:25	WARNING- Got values from user
+20-07-2022, 20:47:25	WARNING- data is inserted!
+20-07-2022, 20:47:25	WARNING- database is saved!
+20-07-2022, 20:47:25	WARNING- database is closed!
+20-07-2022, 20:47:25	INFO- 127.0.0.1 - - [20/Jul/2022 20:47:25] "POST / HTTP/1.1" 200 -
+20-07-2022, 20:47:25	INFO- 127.0.0.1 - - [20/Jul/2022 20:47:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-07-2022, 20:51:11	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\order_script.py', reloading
+21-07-2022, 11:56:36	WARNING- Open Home page
+21-07-2022, 11:56:36	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:36] "GET / HTTP/1.1" 200 -
+21-07-2022, 11:56:37	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 11:56:37	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+21-07-2022, 11:56:44	WARNING- submit: True & edit: False
+21-07-2022, 11:56:44	WARNING- Got values from user
+21-07-2022, 11:56:44	WARNING- data is inserted!
+21-07-2022, 11:56:44	WARNING- database is saved!
+21-07-2022, 11:56:44	WARNING- database is closed!
+21-07-2022, 11:56:44	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:44] "POST / HTTP/1.1" 200 -
+21-07-2022, 11:56:44	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 11:56:50	WARNING- edit section
+21-07-2022, 11:56:50	WARNING- values got successfully ['2270', ' EQUIPMENT AND MACHINE', ' Land', ' 56', ' 789', ' C']!!
+21-07-2022, 11:56:50	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:50] "POST /edit/['2270',%20'EQUIPMENT%20AND%20MACHINE',%20'Land',%20'56',%20'789',%20'C'] HTTP/1.1" 200 -
+21-07-2022, 11:56:50	INFO- 127.0.0.1 - - [21/Jul/2022 11:56:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 11:57:30	INFO- 127.0.0.1 - - [21/Jul/2022 11:57:30] "[31m[1mGET /edit/['2270',%20'EQUIPMENT%20AND%20MACHINE',%20'Land',%20'56',%20'789',%20'O'] HTTP/1.1[0m" 405 -
+21-07-2022, 12:02:20	WARNING- submit: True & edit: True
+21-07-2022, 12:02:20	WARNING- Got values from user
+21-07-2022, 12:02:20	WARNING- database is updated!
+21-07-2022, 12:02:20	WARNING- database is saved!
+21-07-2022, 12:02:20	WARNING- database is closed!
+21-07-2022, 12:02:20	INFO- 127.0.0.1 - - [21/Jul/2022 12:02:20] "POST / HTTP/1.1" 200 -
+21-07-2022, 12:02:20	INFO- 127.0.0.1 - - [21/Jul/2022 12:02:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:02:23	WARNING- delete section
+21-07-2022, 12:02:23	WARNING- 2270 data is deleted!
+21-07-2022, 12:02:23	WARNING- database is saved!
+21-07-2022, 12:02:23	WARNING- database is closed!
+21-07-2022, 12:02:23	INFO- 127.0.0.1 - - [21/Jul/2022 12:02:23] "[32mPOST /delete/2270 HTTP/1.1[0m" 302 -
+21-07-2022, 12:02:23	WARNING- Open Home page
+21-07-2022, 12:02:23	INFO- 127.0.0.1 - - [21/Jul/2022 12:02:23] "GET / HTTP/1.1" 200 -
+21-07-2022, 12:02:23	INFO- 127.0.0.1 - - [21/Jul/2022 12:02:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:03:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 12:22:36	WARNING- Open invoice page!
+21-07-2022, 12:22:36	INFO- 127.0.0.1 - - [21/Jul/2022 12:22:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+21-07-2022, 12:22:37	INFO- 127.0.0.1 - - [21/Jul/2022 12:22:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:22:37	INFO- 127.0.0.1 - - [21/Jul/2022 12:22:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+21-07-2022, 12:22:37	INFO- 127.0.0.1 - - [21/Jul/2022 12:22:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 12:22:38	INFO- 127.0.0.1 - - [21/Jul/2022 12:22:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 12:23:37	WARNING- Open invoice page!
+21-07-2022, 12:23:37	INFO- 127.0.0.1 - - [21/Jul/2022 12:23:37] "GET / HTTP/1.1" 200 -
+21-07-2022, 12:23:37	INFO- 127.0.0.1 - - [21/Jul/2022 12:23:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:28:26	WARNING- Open invoice page!
+21-07-2022, 12:28:26	INFO- 127.0.0.1 - - [21/Jul/2022 12:28:26] "GET / HTTP/1.1" 200 -
+21-07-2022, 12:28:26	INFO- 127.0.0.1 - - [21/Jul/2022 12:28:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:28:46	WARNING- Open invoice page!
+21-07-2022, 12:28:46	INFO- 127.0.0.1 - - [21/Jul/2022 12:28:46] "GET / HTTP/1.1" 200 -
+21-07-2022, 12:28:46	INFO- 127.0.0.1 - - [21/Jul/2022 12:28:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:29:21	WARNING- Open invoice page!
+21-07-2022, 12:29:21	INFO- 127.0.0.1 - - [21/Jul/2022 12:29:21] "GET / HTTP/1.1" 200 -
+21-07-2022, 12:29:21	INFO- 127.0.0.1 - - [21/Jul/2022 12:29:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 12:53:01	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 16:38:31	WARNING- Open invoice page!
+21-07-2022, 16:38:31	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+21-07-2022, 16:38:32	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+21-07-2022, 16:38:32	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+21-07-2022, 16:38:32	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 16:38:32	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 16:38:51	WARNING- Open invoice page!
+21-07-2022, 16:38:51	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:51] "GET / HTTP/1.1" 200 -
+21-07-2022, 16:38:51	INFO- 127.0.0.1 - - [21/Jul/2022 16:38:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 16:39:37	WARNING- Open invoice page!
+21-07-2022, 16:39:37	INFO- 127.0.0.1 - - [21/Jul/2022 16:39:37] "GET / HTTP/1.1" 200 -
+21-07-2022, 16:39:37	INFO- 127.0.0.1 - - [21/Jul/2022 16:39:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 16:40:42	WARNING- Open invoice page!
+21-07-2022, 16:40:42	INFO- 127.0.0.1 - - [21/Jul/2022 16:40:42] "GET / HTTP/1.1" 200 -
+21-07-2022, 16:40:42	INFO- 127.0.0.1 - - [21/Jul/2022 16:40:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 16:41:26	WARNING- Got values from the user!
+21-07-2022, 16:41:26	INFO- 127.0.0.1 - - [21/Jul/2022 16:41:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+21-07-2022, 16:41:26	INFO- 127.0.0.1 - - [21/Jul/2022 16:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+21-07-2022, 16:41:26	INFO- 127.0.0.1 - - [21/Jul/2022 16:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+21-07-2022, 16:41:26	INFO- 127.0.0.1 - - [21/Jul/2022 16:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 16:41:26	INFO- 127.0.0.1 - - [21/Jul/2022 16:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 16:47:11	WARNING- Open invoice page!
+21-07-2022, 16:47:11	INFO- 127.0.0.1 - - [21/Jul/2022 16:47:11] "GET / HTTP/1.1" 200 -
+21-07-2022, 16:47:11	INFO- 127.0.0.1 - - [21/Jul/2022 16:47:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:34:32	WARNING- Open invoice page!
+21-07-2022, 17:34:32	INFO- 127.0.0.1 - - [21/Jul/2022 17:34:32] "GET / HTTP/1.1" 200 -
+21-07-2022, 17:34:32	INFO- 127.0.0.1 - - [21/Jul/2022 17:34:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:35:57	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 17:39:21	WARNING- Got values from the user!
+21-07-2022, 17:39:21	INFO- 127.0.0.1 - - [21/Jul/2022 17:39:21] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+21-07-2022, 17:39:21	INFO- 127.0.0.1 - - [21/Jul/2022 17:39:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:39:21	INFO- 127.0.0.1 - - [21/Jul/2022 17:39:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+21-07-2022, 17:39:21	INFO- 127.0.0.1 - - [21/Jul/2022 17:39:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 17:39:22	INFO- 127.0.0.1 - - [21/Jul/2022 17:39:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 17:40:05	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 17:40:33	WARNING- Got values from the user!
+21-07-2022, 17:40:33	INFO- 127.0.0.1 - - [21/Jul/2022 17:40:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+21-07-2022, 17:40:33	INFO- 127.0.0.1 - - [21/Jul/2022 17:40:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+21-07-2022, 17:40:33	INFO- 127.0.0.1 - - [21/Jul/2022 17:40:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:40:33	INFO- 127.0.0.1 - - [21/Jul/2022 17:40:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 17:40:33	INFO- 127.0.0.1 - - [21/Jul/2022 17:40:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 17:41:28	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 17:43:09	WARNING- Got values from the user!
+21-07-2022, 17:43:09	INFO- 127.0.0.1 - - [21/Jul/2022 17:43:09] "POST / HTTP/1.1" 200 -
+21-07-2022, 17:43:09	INFO- 127.0.0.1 - - [21/Jul/2022 17:43:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:43:18	WARNING- Open invoice page!
+21-07-2022, 17:43:18	INFO- 127.0.0.1 - - [21/Jul/2022 17:43:18] "GET / HTTP/1.1" 200 -
+21-07-2022, 17:43:18	INFO- 127.0.0.1 - - [21/Jul/2022 17:43:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:43:56	WARNING- Open invoice page!
+21-07-2022, 17:43:56	INFO- 127.0.0.1 - - [21/Jul/2022 17:43:56] "GET / HTTP/1.1" 200 -
+21-07-2022, 17:43:56	INFO- 127.0.0.1 - - [21/Jul/2022 17:43:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:44:35	WARNING- Got values from the user!
+21-07-2022, 17:44:35	INFO- 127.0.0.1 - - [21/Jul/2022 17:44:35] "POST / HTTP/1.1" 200 -
+21-07-2022, 17:44:35	INFO- 127.0.0.1 - - [21/Jul/2022 17:44:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:45:32	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 17:45:36	WARNING- Got values from the user!
+21-07-2022, 17:45:36	INFO- 127.0.0.1 - - [21/Jul/2022 17:45:36] "POST / HTTP/1.1" 200 -
+21-07-2022, 17:45:36	INFO- 127.0.0.1 - - [21/Jul/2022 17:45:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 17:48:31	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 17:54:07	WARNING- Got values from the user!
+21-07-2022, 17:54:07	INFO- 127.0.0.1 - - [21/Jul/2022 17:54:07] "POST / HTTP/1.1" 200 -
+21-07-2022, 17:54:08	INFO- 127.0.0.1 - - [21/Jul/2022 17:54:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:02:17	WARNING- Open invoice page!
+21-07-2022, 18:02:17	INFO- 127.0.0.1 - - [21/Jul/2022 18:02:17] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:02:17	INFO- 127.0.0.1 - - [21/Jul/2022 18:02:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:03:24	WARNING- Open invoice page!
+21-07-2022, 18:03:24	INFO- 127.0.0.1 - - [21/Jul/2022 18:03:24] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:03:25	INFO- 127.0.0.1 - - [21/Jul/2022 18:03:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:04:05	WARNING- Got values from the user!
+21-07-2022, 18:04:05	INFO- 127.0.0.1 - - [21/Jul/2022 18:04:05] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:04:05	INFO- 127.0.0.1 - - [21/Jul/2022 18:04:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:05:43	WARNING- Got values from the user!
+21-07-2022, 18:05:43	INFO- 127.0.0.1 - - [21/Jul/2022 18:05:43] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:05:43	INFO- 127.0.0.1 - - [21/Jul/2022 18:05:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:06:12	WARNING- Got values from the user!
+21-07-2022, 18:06:12	INFO- 127.0.0.1 - - [21/Jul/2022 18:06:12] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:06:12	INFO- 127.0.0.1 - - [21/Jul/2022 18:06:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:06:20	WARNING- Got values from the user!
+21-07-2022, 18:06:20	INFO- 127.0.0.1 - - [21/Jul/2022 18:06:20] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:06:20	INFO- 127.0.0.1 - - [21/Jul/2022 18:06:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:10:22	WARNING- Open invoice page!
+21-07-2022, 18:10:22	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+21-07-2022, 18:10:22	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:10:22	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+21-07-2022, 18:10:22	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 18:10:22	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+21-07-2022, 18:10:55	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 18:10:57	WARNING- Open invoice page!
+21-07-2022, 18:10:57	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:57] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:10:57	INFO- 127.0.0.1 - - [21/Jul/2022 18:10:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:12:27	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 18:12:44	WARNING- Open invoice page!
+21-07-2022, 18:12:44	INFO- 127.0.0.1 - - [21/Jul/2022 18:12:44] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:12:44	INFO- 127.0.0.1 - - [21/Jul/2022 18:12:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:16:09	WARNING- Got values from the user!
+21-07-2022, 18:16:09	INFO- 127.0.0.1 - - [21/Jul/2022 18:16:09] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:16:09	INFO- 127.0.0.1 - - [21/Jul/2022 18:16:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:16:43	WARNING- Got values from the user!
+21-07-2022, 18:16:43	INFO- 127.0.0.1 - - [21/Jul/2022 18:16:43] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:16:43	INFO- 127.0.0.1 - - [21/Jul/2022 18:16:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:17:49	INFO- 127.0.0.1 - - [21/Jul/2022 18:17:49] "[33mPOST /[('2265',%20'4')] HTTP/1.1[0m" 404 -
+21-07-2022, 18:46:08	WARNING- Open invoice page!
+21-07-2022, 18:46:08	INFO- 127.0.0.1 - - [21/Jul/2022 18:46:08] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:46:08	INFO- 127.0.0.1 - - [21/Jul/2022 18:46:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:46:41	WARNING- Got values from the user - [('2268', '4')]
+21-07-2022, 18:46:41	INFO- 127.0.0.1 - - [21/Jul/2022 18:46:41] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:46:41	INFO- 127.0.0.1 - - [21/Jul/2022 18:46:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:46:49	WARNING- Got values from the user - [('2269', '7')]
+21-07-2022, 18:46:49	INFO- 127.0.0.1 - - [21/Jul/2022 18:46:49] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:46:49	INFO- 127.0.0.1 - - [21/Jul/2022 18:46:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:47:29	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+21-07-2022, 18:48:01	WARNING- Got values from the user - [('2256', '1')]
+21-07-2022, 18:48:01	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:01] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:48:01	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:48:11	WARNING- Got values from the user - [('2256', '1'), ('2255', '2')]
+21-07-2022, 18:48:11	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:11] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:48:11	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:48:23	WARNING- Got values from the user - [('2256', '1'), ('2255', '2'), ('2245', '3')]
+21-07-2022, 18:48:23	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:23] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:48:23	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:48:43	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:43] "[33mPOST /[('2256',%20'1'),%20('2255',%20'2'),%20('2245',%20'3')] HTTP/1.1[0m" 404 -
+21-07-2022, 18:48:50	WARNING- Open invoice page!
+21-07-2022, 18:48:50	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:50] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:48:50	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:48:55	WARNING- Open invoice page!
+21-07-2022, 18:48:55	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:55] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:48:55	INFO- 127.0.0.1 - - [21/Jul/2022 18:48:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:52:15	WARNING- Open invoice page!
+21-07-2022, 18:52:15	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:15] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:52:15	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:52:17	WARNING- Open invoice page!
+21-07-2022, 18:52:17	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:17] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:52:17	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:52:35	WARNING- Got values from the user - [('2256', '1'), ('2255', '2'), ('2245', '3'), ('2245', '4')]
+21-07-2022, 18:52:35	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:35] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:52:35	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:52:46	WARNING- Open invoice page!
+21-07-2022, 18:52:46	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:46] "GET / HTTP/1.1" 200 -
+21-07-2022, 18:52:47	INFO- 127.0.0.1 - - [21/Jul/2022 18:52:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 18:54:50	WARNING- Got values from the user - [('2256', '1'), ('2255', '2'), ('2245', '3'), ('2245', '4'), ('', '')]
+21-07-2022, 18:54:50	INFO- 127.0.0.1 - - [21/Jul/2022 18:54:50] "POST / HTTP/1.1" 200 -
+21-07-2022, 18:54:50	INFO- 127.0.0.1 - - [21/Jul/2022 18:54:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 19:00:54	WARNING- Open invoice page!
+21-07-2022, 19:00:54	INFO- 127.0.0.1 - - [21/Jul/2022 19:00:54] "GET / HTTP/1.1" 200 -
+21-07-2022, 19:00:55	INFO- 127.0.0.1 - - [21/Jul/2022 19:00:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+21-07-2022, 19:05:22	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 11:13:19	WARNING- Open invoice page!
+22-07-2022, 11:13:20	INFO- 127.0.0.1 - - [22/Jul/2022 11:13:20] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:13:20	INFO- 127.0.0.1 - - [22/Jul/2022 11:13:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:13:20	INFO- 127.0.0.1 - - [22/Jul/2022 11:13:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+22-07-2022, 11:15:18	WARNING- Open invoice page!
+22-07-2022, 11:15:18	INFO- 127.0.0.1 - - [22/Jul/2022 11:15:18] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:15:18	INFO- 127.0.0.1 - - [22/Jul/2022 11:15:18] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:15:46	WARNING- Open invoice page!
+22-07-2022, 11:15:46	INFO- 127.0.0.1 - - [22/Jul/2022 11:15:46] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:15:46	INFO- 127.0.0.1 - - [22/Jul/2022 11:15:46] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:15:53	WARNING- Open invoice page!
+22-07-2022, 11:15:53	INFO- 127.0.0.1 - - [22/Jul/2022 11:15:53] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:15:53	INFO- 127.0.0.1 - - [22/Jul/2022 11:15:53] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:16:05	WARNING- Open invoice page!
+22-07-2022, 11:16:05	INFO- 127.0.0.1 - - [22/Jul/2022 11:16:05] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:16:05	INFO- 127.0.0.1 - - [22/Jul/2022 11:16:05] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:18:20	WARNING- Got values from the user - [('', '')]
+22-07-2022, 11:18:20	INFO- 127.0.0.1 - - [22/Jul/2022 11:18:20] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:18:20	INFO- 127.0.0.1 - - [22/Jul/2022 11:18:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:18:39	WARNING- Got values from the user - [('', ''), ('2245', '2')]
+22-07-2022, 11:18:39	INFO- 127.0.0.1 - - [22/Jul/2022 11:18:39] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:18:39	INFO- 127.0.0.1 - - [22/Jul/2022 11:18:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:19:19	WARNING- Got values from the user - [('', ''), ('2245', '2'), ('2245', '2')]
+22-07-2022, 11:19:19	INFO- 127.0.0.1 - - [22/Jul/2022 11:19:19] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:19:19	INFO- 127.0.0.1 - - [22/Jul/2022 11:19:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:19:26	WARNING- Got values from the user - [('', ''), ('2245', '2'), ('2245', '2'), ('2245', '3')]
+22-07-2022, 11:19:26	INFO- 127.0.0.1 - - [22/Jul/2022 11:19:26] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:19:26	INFO- 127.0.0.1 - - [22/Jul/2022 11:19:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:20:22	WARNING- Got values from the user - [('', ''), ('2245', '2'), ('2245', '2'), ('2245', '3'), ('2245', '3')]
+22-07-2022, 11:20:22	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:22] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:20:22	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:20:47	WARNING- Got values from the user - [('', ''), ('2245', '2'), ('2245', '2'), ('2245', '3'), ('2245', '3'), ('2245', '3')]
+22-07-2022, 11:20:47	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:47] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:20:47	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:20:50	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:50] "[35m[1mPOST /delete/3 HTTP/1.1[0m" 500 -
+22-07-2022, 11:20:50	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:50] "GET /delete/3?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 11:20:50	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:50] "GET /delete/3?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 11:20:50	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:50] "GET /delete/3?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 11:20:51	INFO- 127.0.0.1 - - [22/Jul/2022 11:20:51] "[36mGET /delete/3?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 11:21:00	WARNING- Open invoice page!
+22-07-2022, 11:21:00	INFO- 127.0.0.1 - - [22/Jul/2022 11:21:00] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:21:00	INFO- 127.0.0.1 - - [22/Jul/2022 11:21:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:22:36	WARNING- Open invoice page!
+22-07-2022, 11:22:36	INFO- 127.0.0.1 - - [22/Jul/2022 11:22:36] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:22:36	INFO- 127.0.0.1 - - [22/Jul/2022 11:22:36] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:26:50	WARNING- Got values from the user - [('', ''), ('2245', '2'), ('2245', '2'), ('2245', '3'), ('2245', '3'), ('2245', '3'), ('2256', '3')]
+22-07-2022, 11:26:50	INFO- 127.0.0.1 - - [22/Jul/2022 11:26:50] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:26:50	INFO- 127.0.0.1 - - [22/Jul/2022 11:26:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:28:38	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 11:28:43	WARNING- Open invoice page!
+22-07-2022, 11:28:43	INFO- 127.0.0.1 - - [22/Jul/2022 11:28:43] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:28:44	INFO- 127.0.0.1 - - [22/Jul/2022 11:28:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:29:18	WARNING- Got values from the user - [('2254', '4')]
+22-07-2022, 11:29:18	INFO- 127.0.0.1 - - [22/Jul/2022 11:29:18] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:29:18	INFO- 127.0.0.1 - - [22/Jul/2022 11:29:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:29:28	WARNING- Got values from the user - [('2254', '4'), ('2269', '2')]
+22-07-2022, 11:29:28	INFO- 127.0.0.1 - - [22/Jul/2022 11:29:28] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:29:28	INFO- 127.0.0.1 - - [22/Jul/2022 11:29:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:30:07	WARNING- Got values from the user - [('2254', '4'), ('2269', '2'), ('2255', '3')]
+22-07-2022, 11:30:07	INFO- 127.0.0.1 - - [22/Jul/2022 11:30:07] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:30:07	INFO- 127.0.0.1 - - [22/Jul/2022 11:30:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:30:49	WARNING- Got values from the user - [('2254', '4'), ('2269', '2'), ('2255', '3'), ('2255', '3')]
+22-07-2022, 11:30:49	INFO- 127.0.0.1 - - [22/Jul/2022 11:30:49] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:30:49	INFO- 127.0.0.1 - - [22/Jul/2022 11:30:49] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:31:02	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:02] "[35m[1mPOST /delete/('2254',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 11:31:02	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:02] "GET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 11:31:02	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:02] "GET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 11:31:02	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:02] "GET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 11:31:02	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:02] "[36mGET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 11:31:05	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:05] "POST /edit/('2254',%20'4') HTTP/1.1" 200 -
+22-07-2022, 11:31:05	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:31:14	WARNING- Open invoice page!
+22-07-2022, 11:31:14	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:14] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:31:14	INFO- 127.0.0.1 - - [22/Jul/2022 11:31:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:33:10	WARNING- Open invoice page!
+22-07-2022, 11:33:10	INFO- 127.0.0.1 - - [22/Jul/2022 11:33:10] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:33:10	INFO- 127.0.0.1 - - [22/Jul/2022 11:33:10] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:33:23	INFO- 127.0.0.1 - - [22/Jul/2022 11:33:23] "[33mPOST /[('2254',%20'4'),%20('2269',%20'2'),%20('2255',%20'3'),%20('2255',%20'3')] HTTP/1.1[0m" 404 -
+22-07-2022, 11:33:35	WARNING- Got values from the user - [('2254', '4'), ('2269', '2'), ('2255', '3'), ('2255', '3'), ('2259', '4')]
+22-07-2022, 11:33:35	INFO- 127.0.0.1 - - [22/Jul/2022 11:33:35] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:33:35	INFO- 127.0.0.1 - - [22/Jul/2022 11:33:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:35:46	WARNING- Open invoice page!
+22-07-2022, 11:35:47	INFO- 127.0.0.1 - - [22/Jul/2022 11:35:47] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:35:47	INFO- 127.0.0.1 - - [22/Jul/2022 11:35:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:36:05	WARNING- Got values from the user - [('2257', '4')]
+22-07-2022, 11:36:05	INFO- 127.0.0.1 - - [22/Jul/2022 11:36:05] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:36:05	INFO- 127.0.0.1 - - [22/Jul/2022 11:36:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:36:12	WARNING- Got values from the user - [('2257', '4'), ('2269', '3')]
+22-07-2022, 11:36:12	INFO- 127.0.0.1 - - [22/Jul/2022 11:36:12] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:36:12	INFO- 127.0.0.1 - - [22/Jul/2022 11:36:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:36:33	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5')]
+22-07-2022, 11:36:33	INFO- 127.0.0.1 - - [22/Jul/2022 11:36:33] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:36:33	INFO- 127.0.0.1 - - [22/Jul/2022 11:36:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:42:30	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5'), ('2260', '5')]
+22-07-2022, 11:42:30	INFO- 127.0.0.1 - - [22/Jul/2022 11:42:30] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:42:30	INFO- 127.0.0.1 - - [22/Jul/2022 11:42:30] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:42:48	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5'), ('2260', '5'), ('2260', '5')]
+22-07-2022, 11:42:48	INFO- 127.0.0.1 - - [22/Jul/2022 11:42:48] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:42:48	INFO- 127.0.0.1 - - [22/Jul/2022 11:42:48] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:43:09	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5')]
+22-07-2022, 11:43:09	INFO- 127.0.0.1 - - [22/Jul/2022 11:43:09] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:43:09	INFO- 127.0.0.1 - - [22/Jul/2022 11:43:09] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:45:53	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5')]
+22-07-2022, 11:45:53	INFO- 127.0.0.1 - - [22/Jul/2022 11:45:53] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:45:53	INFO- 127.0.0.1 - - [22/Jul/2022 11:45:53] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:46:00	WARNING- Open invoice page!
+22-07-2022, 11:46:00	INFO- 127.0.0.1 - - [22/Jul/2022 11:46:00] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:46:00	INFO- 127.0.0.1 - - [22/Jul/2022 11:46:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:46:58	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2259', '4')]
+22-07-2022, 11:46:58	INFO- 127.0.0.1 - - [22/Jul/2022 11:46:58] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:46:58	INFO- 127.0.0.1 - - [22/Jul/2022 11:46:58] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:49:36	WARNING- Open invoice page!
+22-07-2022, 11:49:36	INFO- 127.0.0.1 - - [22/Jul/2022 11:49:36] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:49:36	INFO- 127.0.0.1 - - [22/Jul/2022 11:49:36] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:49:41	WARNING- Open invoice page!
+22-07-2022, 11:49:41	INFO- 127.0.0.1 - - [22/Jul/2022 11:49:41] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:49:41	INFO- 127.0.0.1 - - [22/Jul/2022 11:49:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:50:03	WARNING- Open invoice page!
+22-07-2022, 11:50:03	INFO- 127.0.0.1 - - [22/Jul/2022 11:50:03] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:50:03	INFO- 127.0.0.1 - - [22/Jul/2022 11:50:03] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:51:22	WARNING- Open invoice page!
+22-07-2022, 11:51:22	INFO- 127.0.0.1 - - [22/Jul/2022 11:51:22] "GET / HTTP/1.1" 200 -
+22-07-2022, 11:51:22	INFO- 127.0.0.1 - - [22/Jul/2022 11:51:22] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 11:51:40	WARNING- Got values from the user - [('2257', '4'), ('2269', '3'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2260', '5'), ('2259', '4'), ('2258', '4')]
+22-07-2022, 11:51:40	INFO- 127.0.0.1 - - [22/Jul/2022 11:51:40] "POST / HTTP/1.1" 200 -
+22-07-2022, 11:51:40	INFO- 127.0.0.1 - - [22/Jul/2022 11:51:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 11:58:23	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 11:58:29	WARNING- delete section - ('2257', '4')
+22-07-2022, 11:58:29	INFO- 127.0.0.1 - - [22/Jul/2022 11:58:29] "[35m[1mPOST /delete/('2257',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 11:58:29	INFO- 127.0.0.1 - - [22/Jul/2022 11:58:29] "GET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 11:58:29	INFO- 127.0.0.1 - - [22/Jul/2022 11:58:29] "GET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 11:58:29	INFO- 127.0.0.1 - - [22/Jul/2022 11:58:29] "GET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 11:58:30	INFO- 127.0.0.1 - - [22/Jul/2022 11:58:30] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 11:59:09	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 11:59:14	WARNING- delete section - <class 'str'>
+22-07-2022, 11:59:14	INFO- 127.0.0.1 - - [22/Jul/2022 11:59:14] "[35m[1mPOST /delete/('2269',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 11:59:15	INFO- 127.0.0.1 - - [22/Jul/2022 11:59:15] "GET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 11:59:15	INFO- 127.0.0.1 - - [22/Jul/2022 11:59:15] "GET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 11:59:15	INFO- 127.0.0.1 - - [22/Jul/2022 11:59:15] "GET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 11:59:15	INFO- 127.0.0.1 - - [22/Jul/2022 11:59:15] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:02:46	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:02:52	WARNING- Got values from the user - [('2248', '6')] <class 'tuple'>
+22-07-2022, 12:02:52	INFO- 127.0.0.1 - - [22/Jul/2022 12:02:52] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:02:53	INFO- 127.0.0.1 - - [22/Jul/2022 12:02:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:04:18	WARNING- Got values from the user - [('2248', '6'), ('2269', '3')] <class 'tuple'>
+22-07-2022, 12:04:18	INFO- 127.0.0.1 - - [22/Jul/2022 12:04:18] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:04:18	INFO- 127.0.0.1 - - [22/Jul/2022 12:04:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:05:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:05:50	WARNING- delete section - ('2269', '3')
+22-07-2022, 12:05:50	INFO- 127.0.0.1 - - [22/Jul/2022 12:05:50] "[35m[1mPOST /delete/('2269',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 12:05:51	INFO- 127.0.0.1 - - [22/Jul/2022 12:05:51] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 12:05:51	INFO- 127.0.0.1 - - [22/Jul/2022 12:05:51] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:05:51	INFO- 127.0.0.1 - - [22/Jul/2022 12:05:51] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:06:15	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:06:18	WARNING- delete section - <class 'str'>
+22-07-2022, 12:06:18	INFO- 127.0.0.1 - - [22/Jul/2022 12:06:18] "[35m[1mPOST /delete/('2248',%20'6') HTTP/1.1[0m" 500 -
+22-07-2022, 12:06:19	INFO- 127.0.0.1 - - [22/Jul/2022 12:06:19] "GET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 12:06:19	INFO- 127.0.0.1 - - [22/Jul/2022 12:06:19] "GET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 12:06:19	INFO- 127.0.0.1 - - [22/Jul/2022 12:06:19] "GET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 12:06:19	INFO- 127.0.0.1 - - [22/Jul/2022 12:06:19] "[36mGET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:13:48	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:14:15	WARNING- delete section - <class 'str'>
+22-07-2022, 12:14:15	WARNING- values - ['2248', ' 6']
+22-07-2022, 12:14:15	INFO- 127.0.0.1 - - [22/Jul/2022 12:14:15] "[35m[1mPOST /delete/('2248',%20'6') HTTP/1.1[0m" 500 -
+22-07-2022, 12:14:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:14:16] "[36mGET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:14:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:14:16] "[36mGET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 12:14:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:14:16] "[36mGET /delete/('2248',%20'6')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:21:39	WARNING- delete section - <class 'str'>
+22-07-2022, 12:21:39	WARNING- values - ['2269', ' 3']
+22-07-2022, 12:21:39	INFO- 127.0.0.1 - - [22/Jul/2022 12:21:39] "[35m[1mPOST /delete/('2269',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 12:21:39	INFO- 127.0.0.1 - - [22/Jul/2022 12:21:39] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:21:39	INFO- 127.0.0.1 - - [22/Jul/2022 12:21:39] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 12:21:39	INFO- 127.0.0.1 - - [22/Jul/2022 12:21:39] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:24:00	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:24:03	WARNING- delete section - <class 'str'>
+22-07-2022, 12:24:03	WARNING- values - ['2269', ' 3']
+22-07-2022, 12:24:03	INFO- 127.0.0.1 - - [22/Jul/2022 12:24:03] "[35m[1mPOST /delete/('2269',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 12:24:04	INFO- 127.0.0.1 - - [22/Jul/2022 12:24:04] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:24:04	INFO- 127.0.0.1 - - [22/Jul/2022 12:24:04] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 12:24:04	INFO- 127.0.0.1 - - [22/Jul/2022 12:24:04] "[36mGET /delete/('2269',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:24:19	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:24:22	WARNING- delete section - <class 'str'>
+22-07-2022, 12:24:22	WARNING- values - ['2248', ' 6']
+22-07-2022, 12:24:22	INFO- 127.0.0.1 - - [22/Jul/2022 12:24:22] "POST /delete/('2248',%20'6') HTTP/1.1" 200 -
+22-07-2022, 12:24:23	INFO- 127.0.0.1 - - [22/Jul/2022 12:24:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:25:41	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:25:52	WARNING- Got values from the user - [('2258', '6')]
+22-07-2022, 12:25:52	INFO- 127.0.0.1 - - [22/Jul/2022 12:25:52] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:25:53	INFO- 127.0.0.1 - - [22/Jul/2022 12:25:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:26:03	WARNING- Got values from the user - [('2258', '6'), ('2259', '2')]
+22-07-2022, 12:26:03	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:03] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:26:03	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:26:17	WARNING- delete section - ('2259', '2')
+22-07-2022, 12:26:17	WARNING- values - <class 'list'>
+22-07-2022, 12:26:17	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:17] "[35m[1mPOST /delete/('2259',%20'2') HTTP/1.1[0m" 500 -
+22-07-2022, 12:26:17	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:17] "GET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 12:26:17	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:17] "GET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 12:26:17	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:17] "GET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 12:26:17	INFO- 127.0.0.1 - - [22/Jul/2022 12:26:17] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:27:00	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:28:35	WARNING- Open invoice page!
+22-07-2022, 12:28:35	INFO- 127.0.0.1 - - [22/Jul/2022 12:28:35] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:28:36	INFO- 127.0.0.1 - - [22/Jul/2022 12:28:36] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:29:34	WARNING- Open invoice page!
+22-07-2022, 12:29:34	INFO- 127.0.0.1 - - [22/Jul/2022 12:29:34] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:29:34	INFO- 127.0.0.1 - - [22/Jul/2022 12:29:34] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:31:13	WARNING- Open invoice page!
+22-07-2022, 12:31:13	INFO- 127.0.0.1 - - [22/Jul/2022 12:31:13] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:31:13	INFO- 127.0.0.1 - - [22/Jul/2022 12:31:13] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:31:29	WARNING- Open invoice page!
+22-07-2022, 12:31:29	INFO- 127.0.0.1 - - [22/Jul/2022 12:31:29] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:31:30	INFO- 127.0.0.1 - - [22/Jul/2022 12:31:30] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:31:49	WARNING- Open invoice page!
+22-07-2022, 12:31:49	INFO- 127.0.0.1 - - [22/Jul/2022 12:31:49] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:31:49	INFO- 127.0.0.1 - - [22/Jul/2022 12:31:49] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:32:16	WARNING- Open invoice page!
+22-07-2022, 12:32:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:32:16] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:32:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:32:16] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:32:35	WARNING- Open invoice page!
+22-07-2022, 12:32:35	INFO- 127.0.0.1 - - [22/Jul/2022 12:32:35] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:32:35	INFO- 127.0.0.1 - - [22/Jul/2022 12:32:35] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:33:38	WARNING- Open invoice page!
+22-07-2022, 12:33:38	INFO- 127.0.0.1 - - [22/Jul/2022 12:33:38] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:33:38	INFO- 127.0.0.1 - - [22/Jul/2022 12:33:38] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:33:49	WARNING- Open invoice page!
+22-07-2022, 12:33:49	INFO- 127.0.0.1 - - [22/Jul/2022 12:33:49] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:33:50	INFO- 127.0.0.1 - - [22/Jul/2022 12:33:50] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:34:14	WARNING- Open invoice page!
+22-07-2022, 12:34:14	INFO- 127.0.0.1 - - [22/Jul/2022 12:34:14] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:34:14	INFO- 127.0.0.1 - - [22/Jul/2022 12:34:14] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:35:11	WARNING- Open invoice page!
+22-07-2022, 12:35:11	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:11] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:35:12	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:12] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:35:20	WARNING- Open invoice page!
+22-07-2022, 12:35:20	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:20] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:35:20	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:20] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:35:38	WARNING- Open invoice page!
+22-07-2022, 12:35:38	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:38] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:35:38	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:38] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:35:52	WARNING- Open invoice page!
+22-07-2022, 12:35:52	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:52] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:35:52	INFO- 127.0.0.1 - - [22/Jul/2022 12:35:52] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:36:03	WARNING- Open invoice page!
+22-07-2022, 12:36:03	INFO- 127.0.0.1 - - [22/Jul/2022 12:36:03] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:36:04	INFO- 127.0.0.1 - - [22/Jul/2022 12:36:04] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:36:44	WARNING- Open invoice page!
+22-07-2022, 12:36:44	INFO- 127.0.0.1 - - [22/Jul/2022 12:36:44] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:36:44	INFO- 127.0.0.1 - - [22/Jul/2022 12:36:44] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:37:12	WARNING- Open invoice page!
+22-07-2022, 12:37:12	INFO- 127.0.0.1 - - [22/Jul/2022 12:37:12] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:37:12	INFO- 127.0.0.1 - - [22/Jul/2022 12:37:12] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:37:26	WARNING- Open invoice page!
+22-07-2022, 12:37:26	INFO- 127.0.0.1 - - [22/Jul/2022 12:37:26] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:37:26	INFO- 127.0.0.1 - - [22/Jul/2022 12:37:26] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:37:38	WARNING- Open invoice page!
+22-07-2022, 12:37:38	INFO- 127.0.0.1 - - [22/Jul/2022 12:37:38] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:37:38	INFO- 127.0.0.1 - - [22/Jul/2022 12:37:38] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:38:03	WARNING- Open invoice page!
+22-07-2022, 12:38:03	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:03] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:38:03	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:03] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:38:24	WARNING- Open invoice page!
+22-07-2022, 12:38:24	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:24] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:38:24	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:24] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:38:42	WARNING- Open invoice page!
+22-07-2022, 12:38:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:42] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:38:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:42] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:38:52	WARNING- Open invoice page!
+22-07-2022, 12:38:52	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:52] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:38:52	INFO- 127.0.0.1 - - [22/Jul/2022 12:38:52] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:39:10	WARNING- Open invoice page!
+22-07-2022, 12:39:10	INFO- 127.0.0.1 - - [22/Jul/2022 12:39:10] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:39:10	INFO- 127.0.0.1 - - [22/Jul/2022 12:39:10] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:39:28	WARNING- Open invoice page!
+22-07-2022, 12:39:28	INFO- 127.0.0.1 - - [22/Jul/2022 12:39:28] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:39:28	INFO- 127.0.0.1 - - [22/Jul/2022 12:39:28] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:40:04	WARNING- Got values from the user - [('2254', '4')]
+22-07-2022, 12:40:04	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:04] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:40:04	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:40:10	WARNING- Got values from the user - [('2254', '4'), ('2256', '3')]
+22-07-2022, 12:40:10	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:10] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:40:10	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:40:24	WARNING- Got values from the user - [('2254', '4'), ('2256', '3'), ('2214', '4')]
+22-07-2022, 12:40:24	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:24] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:40:24	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:40:44	WARNING- Got values from the user - [('2254', '4'), ('2256', '3'), ('2214', '4'), ('2214', '4')]
+22-07-2022, 12:40:44	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:44] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:40:44	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:44] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:40:48	WARNING- Open invoice page!
+22-07-2022, 12:40:48	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:48] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:40:48	INFO- 127.0.0.1 - - [22/Jul/2022 12:40:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:41:50	WARNING- Open invoice page!
+22-07-2022, 12:41:50	INFO- 127.0.0.1 - - [22/Jul/2022 12:41:50] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:41:50	INFO- 127.0.0.1 - - [22/Jul/2022 12:41:50] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:42:23	WARNING- Open invoice page!
+22-07-2022, 12:42:23	INFO- 127.0.0.1 - - [22/Jul/2022 12:42:23] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:42:23	INFO- 127.0.0.1 - - [22/Jul/2022 12:42:23] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:42:32	WARNING- Open invoice page!
+22-07-2022, 12:42:32	INFO- 127.0.0.1 - - [22/Jul/2022 12:42:32] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:42:33	INFO- 127.0.0.1 - - [22/Jul/2022 12:42:33] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:44:33	WARNING- Open invoice page!
+22-07-2022, 12:44:33	INFO- 127.0.0.1 - - [22/Jul/2022 12:44:33] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:44:34	INFO- 127.0.0.1 - - [22/Jul/2022 12:44:34] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:44:49	WARNING- Open invoice page!
+22-07-2022, 12:44:49	INFO- 127.0.0.1 - - [22/Jul/2022 12:44:49] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:44:49	INFO- 127.0.0.1 - - [22/Jul/2022 12:44:49] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:44:55	WARNING- Open invoice page!
+22-07-2022, 12:44:55	INFO- 127.0.0.1 - - [22/Jul/2022 12:44:55] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:44:55	INFO- 127.0.0.1 - - [22/Jul/2022 12:44:55] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:45:29	WARNING- Got values from the user - [('2254', '4'), ('2256', '3'), ('2214', '4'), ('2214', '4'), ('2259', '1')]
+22-07-2022, 12:45:29	INFO- 127.0.0.1 - - [22/Jul/2022 12:45:29] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:45:30	INFO- 127.0.0.1 - - [22/Jul/2022 12:45:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:46:02	WARNING- Got values from the user - [('2254', '4'), ('2256', '3'), ('2214', '4'), ('2214', '4'), ('2259', '1'), ('2259', '1')]
+22-07-2022, 12:46:02	INFO- 127.0.0.1 - - [22/Jul/2022 12:46:02] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:46:02	INFO- 127.0.0.1 - - [22/Jul/2022 12:46:02] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:46:08	WARNING- delete section - ('2254', '4')
+22-07-2022, 12:46:08	WARNING- list - [('2254', '4'), ('2256', '3'), ('2214', '4'), ('2214', '4'), ('2259', '1'), ('2259', '1')]
+22-07-2022, 12:46:08	INFO- 127.0.0.1 - - [22/Jul/2022 12:46:08] "[35m[1mPOST /delete/('2254',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 12:46:08	INFO- 127.0.0.1 - - [22/Jul/2022 12:46:08] "[36mGET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:46:08	INFO- 127.0.0.1 - - [22/Jul/2022 12:46:08] "[36mGET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 12:46:08	INFO- 127.0.0.1 - - [22/Jul/2022 12:46:08] "[36mGET /delete/('2254',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:46:59	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:47:41	WARNING- delete section - ('2254', '4')
+22-07-2022, 12:47:41	WARNING- list - []
+22-07-2022, 12:47:41	INFO- 127.0.0.1 - - [22/Jul/2022 12:47:41] "POST /delete/('2254',%20'4') HTTP/1.1" 200 -
+22-07-2022, 12:47:41	INFO- 127.0.0.1 - - [22/Jul/2022 12:47:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:47:48	WARNING- Open invoice page!
+22-07-2022, 12:47:48	INFO- 127.0.0.1 - - [22/Jul/2022 12:47:48] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:47:48	INFO- 127.0.0.1 - - [22/Jul/2022 12:47:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:48:16	WARNING- Open invoice page!
+22-07-2022, 12:48:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:48:16] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:48:16	INFO- 127.0.0.1 - - [22/Jul/2022 12:48:16] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:48:32	WARNING- Open invoice page!
+22-07-2022, 12:48:32	INFO- 127.0.0.1 - - [22/Jul/2022 12:48:32] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:48:32	INFO- 127.0.0.1 - - [22/Jul/2022 12:48:32] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:49:50	WARNING- Open invoice page!
+22-07-2022, 12:49:50	INFO- 127.0.0.1 - - [22/Jul/2022 12:49:50] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:49:50	INFO- 127.0.0.1 - - [22/Jul/2022 12:49:50] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:49:54	WARNING- Open invoice page!
+22-07-2022, 12:49:54	INFO- 127.0.0.1 - - [22/Jul/2022 12:49:54] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:49:54	INFO- 127.0.0.1 - - [22/Jul/2022 12:49:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:49:55	WARNING- Open invoice page!
+22-07-2022, 12:49:55	INFO- 127.0.0.1 - - [22/Jul/2022 12:49:55] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:49:55	INFO- 127.0.0.1 - - [22/Jul/2022 12:49:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:50:12	WARNING- Open invoice page!
+22-07-2022, 12:50:12	INFO- 127.0.0.1 - - [22/Jul/2022 12:50:12] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:50:12	INFO- 127.0.0.1 - - [22/Jul/2022 12:50:12] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:50:25	WARNING- Open invoice page!
+22-07-2022, 12:50:25	INFO- 127.0.0.1 - - [22/Jul/2022 12:50:25] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:50:25	INFO- 127.0.0.1 - - [22/Jul/2022 12:50:25] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:51:31	WARNING- Open invoice page!
+22-07-2022, 12:51:31	INFO- 127.0.0.1 - - [22/Jul/2022 12:51:31] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:51:31	INFO- 127.0.0.1 - - [22/Jul/2022 12:51:31] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:51:45	WARNING- Open invoice page!
+22-07-2022, 12:51:45	INFO- 127.0.0.1 - - [22/Jul/2022 12:51:45] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:51:45	INFO- 127.0.0.1 - - [22/Jul/2022 12:51:45] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:51:59	WARNING- Open invoice page!
+22-07-2022, 12:51:59	INFO- 127.0.0.1 - - [22/Jul/2022 12:51:59] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:51:59	INFO- 127.0.0.1 - - [22/Jul/2022 12:51:59] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:55:36	WARNING- Open invoice page!
+22-07-2022, 12:55:36	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:36] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:55:36	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:36] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:55:44	WARNING- Open invoice page!
+22-07-2022, 12:55:44	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:44] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:55:44	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:44] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:55:51	WARNING- Open invoice page!
+22-07-2022, 12:55:51	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:51] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:55:51	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:51] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:55:58	WARNING- Open invoice page!
+22-07-2022, 12:55:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:58] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:55:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:55:58] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:56:26	WARNING- Open invoice page!
+22-07-2022, 12:56:26	INFO- 127.0.0.1 - - [22/Jul/2022 12:56:26] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:56:26	INFO- 127.0.0.1 - - [22/Jul/2022 12:56:26] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:56:32	WARNING- Open invoice page!
+22-07-2022, 12:56:32	INFO- 127.0.0.1 - - [22/Jul/2022 12:56:32] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:56:32	INFO- 127.0.0.1 - - [22/Jul/2022 12:56:32] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:56:39	WARNING- Open invoice page!
+22-07-2022, 12:56:39	INFO- 127.0.0.1 - - [22/Jul/2022 12:56:39] "GET / HTTP/1.1" 200 -
+22-07-2022, 12:56:39	INFO- 127.0.0.1 - - [22/Jul/2022 12:56:39] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:57:02	WARNING- Got values from the user - [('2245', '4')]
+22-07-2022, 12:57:02	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:02] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:57:02	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:57:54	WARNING- Got values from the user - [('2245', '4'), ('2245', '4')]
+22-07-2022, 12:57:54	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:54] "POST / HTTP/1.1" 200 -
+22-07-2022, 12:57:54	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:54] "GET /static/styles.css HTTP/1.1" 200 -
+22-07-2022, 12:57:58	WARNING- delete section - ('2245', '4')
+22-07-2022, 12:57:58	WARNING- list - [('2245', '4'), ('2245', '4')]
+22-07-2022, 12:57:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:58] "[35m[1mPOST /delete/('2245',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 12:57:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:58] "GET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 12:57:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:58] "GET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 12:57:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:58] "GET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 12:57:58	INFO- 127.0.0.1 - - [22/Jul/2022 12:57:58] "[36mGET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:58:39	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 12:58:42	WARNING- delete section - ('2245', '4')
+22-07-2022, 12:58:42	WARNING- list - []
+22-07-2022, 12:58:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:58:42] "[35m[1mPOST /delete/('2245',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 12:58:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:58:42] "[36mGET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 12:58:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:58:42] "[36mGET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 12:58:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:58:42] "[36mGET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 12:58:42	INFO- 127.0.0.1 - - [22/Jul/2022 12:58:42] "[36mGET /delete/('2245',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:00:05	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:00:24	WARNING- delete section - ('2245', '4')
+22-07-2022, 13:00:24	WARNING- list - []
+22-07-2022, 13:00:24	INFO- 127.0.0.1 - - [22/Jul/2022 13:00:24] "POST /delete/('2245',%20'4') HTTP/1.1" 200 -
+22-07-2022, 13:00:24	INFO- 127.0.0.1 - - [22/Jul/2022 13:00:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:09:28	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:09:40	WARNING- Open invoice page!
+22-07-2022, 13:09:40	INFO- 127.0.0.1 - - [22/Jul/2022 13:09:40] "GET / HTTP/1.1" 200 -
+22-07-2022, 13:09:41	INFO- 127.0.0.1 - - [22/Jul/2022 13:09:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:09:54	WARNING- Got values from the user - [('2258', '2')]
+22-07-2022, 13:09:54	INFO- 127.0.0.1 - - [22/Jul/2022 13:09:54] "POST / HTTP/1.1" 200 -
+22-07-2022, 13:09:54	INFO- 127.0.0.1 - - [22/Jul/2022 13:09:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:10:08	WARNING- Got values from the user - [('2258', '2'), ('2259', '3')]
+22-07-2022, 13:10:08	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:08] "POST / HTTP/1.1" 200 -
+22-07-2022, 13:10:08	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:10:11	WARNING- Got values from the user - [('2258', '2'), ('2259', '3'), ('2245', '7')]
+22-07-2022, 13:10:11	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:11] "POST / HTTP/1.1" 200 -
+22-07-2022, 13:10:11	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:10:19	WARNING- delete section - ('2259', '3')
+22-07-2022, 13:10:19	WARNING- list - [('2258', '2'), ('2259', '3'), ('2245', '7')]
+22-07-2022, 13:10:19	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:19] "[35m[1mPOST /delete/('2259',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 13:10:19	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:19] "GET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 13:10:19	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:19] "GET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 13:10:19	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:19] "GET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 13:10:19	INFO- 127.0.0.1 - - [22/Jul/2022 13:10:19] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:11:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:11:56	WARNING- delete section - ('2245', '7')
+22-07-2022, 13:11:56	WARNING- list - <class 'list'>
+22-07-2022, 13:11:56	INFO- 127.0.0.1 - - [22/Jul/2022 13:11:56] "[35m[1mPOST /delete/('2245',%20'7') HTTP/1.1[0m" 500 -
+22-07-2022, 13:11:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:11:57] "GET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 13:11:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:11:57] "GET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 13:11:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:11:57] "GET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 13:11:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:11:57] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:13:34	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:13:39	WARNING- delete section - ('2259', '3')
+22-07-2022, 13:13:39	WARNING- list - <class 'tuple'>
+22-07-2022, 13:13:39	INFO- 127.0.0.1 - - [22/Jul/2022 13:13:39] "[35m[1mPOST /delete/('2259',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 13:13:39	INFO- 127.0.0.1 - - [22/Jul/2022 13:13:39] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:13:39	INFO- 127.0.0.1 - - [22/Jul/2022 13:13:39] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:13:39	INFO- 127.0.0.1 - - [22/Jul/2022 13:13:39] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:14:02	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:14:04	WARNING- delete section - ('2245', '7')
+22-07-2022, 13:14:04	WARNING- list - <class 'tuple'> ('2245', ' 7')
+22-07-2022, 13:14:04	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:04] "[35m[1mPOST /delete/('2245',%20'7') HTTP/1.1[0m" 500 -
+22-07-2022, 13:14:05	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:05] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:14:05	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:05] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:14:05	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:05] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:14:47	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:14:49	WARNING- delete section - ('2259', '3')
+22-07-2022, 13:14:49	WARNING- list - <class 'tuple'> (2259, 3)
+22-07-2022, 13:14:49	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:49] "[35m[1mPOST /delete/('2259',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 13:14:50	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:50] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:14:50	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:50] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:14:50	INFO- 127.0.0.1 - - [22/Jul/2022 13:14:50] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:15:56	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:15:57	WARNING- delete section - ('2245', '7')
+22-07-2022, 13:15:57	WARNING- list - <class 'tuple'> ('2245', '7')
+22-07-2022, 13:15:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:15:57] "[35m[1mPOST /delete/('2245',%20'7') HTTP/1.1[0m" 500 -
+22-07-2022, 13:15:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:15:57] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:15:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:15:57] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:15:57	INFO- 127.0.0.1 - - [22/Jul/2022 13:15:57] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:19:59	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:20:02	WARNING- delete section - ('2259', '3')
+22-07-2022, 13:20:02	WARNING- list - <class 'tuple'>; ('2259', '3')
+22-07-2022, 13:20:02	INFO- 127.0.0.1 - - [22/Jul/2022 13:20:02] "[35m[1mPOST /delete/('2259',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 13:20:03	INFO- 127.0.0.1 - - [22/Jul/2022 13:20:03] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:20:03	INFO- 127.0.0.1 - - [22/Jul/2022 13:20:03] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:20:03	INFO- 127.0.0.1 - - [22/Jul/2022 13:20:03] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:23:41	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:23:55	WARNING- delete section - ('2259', '3')
+22-07-2022, 13:23:55	WARNING- list - <class 'tuple'>; ('2259', '3')
+22-07-2022, 13:23:55	INFO- 127.0.0.1 - - [22/Jul/2022 13:23:55] "[35m[1mPOST /delete/('2259',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 13:23:55	INFO- 127.0.0.1 - - [22/Jul/2022 13:23:55] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:23:55	INFO- 127.0.0.1 - - [22/Jul/2022 13:23:55] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:23:55	INFO- 127.0.0.1 - - [22/Jul/2022 13:23:55] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:23:55	INFO- 127.0.0.1 - - [22/Jul/2022 13:23:55] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:24:46	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:24:51	WARNING- delete section - ('2245', '7')
+22-07-2022, 13:24:51	WARNING- list - <class 'str'>; ('2245', '7')
+22-07-2022, 13:24:51	INFO- 127.0.0.1 - - [22/Jul/2022 13:24:51] "[35m[1mPOST /delete/('2245',%20'7') HTTP/1.1[0m" 500 -
+22-07-2022, 13:24:51	INFO- 127.0.0.1 - - [22/Jul/2022 13:24:51] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:24:51	INFO- 127.0.0.1 - - [22/Jul/2022 13:24:51] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:24:51	INFO- 127.0.0.1 - - [22/Jul/2022 13:24:51] "[36mGET /delete/('2245',%20'7')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:25:50	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:25:52	WARNING- delete section - ('2259', '3')
+22-07-2022, 13:25:52	WARNING- list - <class 'str'>; ('2259', '3')
+22-07-2022, 13:25:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:25:53] "[35m[1mPOST /delete/('2259',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 13:25:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:25:53] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:25:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:25:53] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:25:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:25:53] "[36mGET /delete/('2259',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:26:07	WARNING- Open invoice page!
+22-07-2022, 13:26:07	INFO- 127.0.0.1 - - [22/Jul/2022 13:26:07] "GET / HTTP/1.1" 200 -
+22-07-2022, 13:26:07	INFO- 127.0.0.1 - - [22/Jul/2022 13:26:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:26:20	WARNING- Got values from the user - <class 'str'>
+22-07-2022, 13:26:20	INFO- 127.0.0.1 - - [22/Jul/2022 13:26:20] "POST / HTTP/1.1" 200 -
+22-07-2022, 13:26:20	INFO- 127.0.0.1 - - [22/Jul/2022 13:26:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:26:25	WARNING- Got values from the user - <class 'str'>
+22-07-2022, 13:26:25	INFO- 127.0.0.1 - - [22/Jul/2022 13:26:25] "POST / HTTP/1.1" 200 -
+22-07-2022, 13:26:25	INFO- 127.0.0.1 - - [22/Jul/2022 13:26:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:26:43	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:29:29	WARNING- delete section - ('2269', '5')
+22-07-2022, 13:29:29	WARNING- tuple - ('2269', '5')
+22-07-2022, 13:29:29	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:29] "[35m[1mPOST /delete/('2269',%20'5') HTTP/1.1[0m" 500 -
+22-07-2022, 13:29:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:30] "GET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 13:29:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:30] "GET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 13:29:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:30] "GET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 13:29:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:30] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:29:54	WARNING- delete section - ('2257', '4')
+22-07-2022, 13:29:54	WARNING- tuple - ('2257', '4')
+22-07-2022, 13:29:54	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:54] "[35m[1mPOST /delete/('2257',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 13:29:54	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:54] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:29:54	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:54] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:29:54	INFO- 127.0.0.1 - - [22/Jul/2022 13:29:54] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:34:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:34:53	WARNING- delete section - ('2269', '5')
+22-07-2022, 13:34:53	WARNING- tuple - ("'2269'", "'5'")
+22-07-2022, 13:34:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:34:53] "[35m[1mPOST /delete/('2269',%20'5') HTTP/1.1[0m" 500 -
+22-07-2022, 13:34:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:34:53] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:34:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:34:53] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:34:53	INFO- 127.0.0.1 - - [22/Jul/2022 13:34:53] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:35:24	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:35:29	WARNING- delete section - ('2257', '4')
+22-07-2022, 13:35:29	WARNING- tuple - ("'2257'", "'4'")
+22-07-2022, 13:35:29	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:29] "[35m[1mPOST /delete/('2257',%20'4') HTTP/1.1[0m" 500 -
+22-07-2022, 13:35:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:30] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:35:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:30] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:35:30	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:30] "[36mGET /delete/('2257',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:35:52	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:35:59	WARNING- delete section - ('2269', '5')
+22-07-2022, 13:35:59	WARNING- tuple - ("'2269'", "'5'")
+22-07-2022, 13:35:59	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:59] "[35m[1mPOST /delete/('2269',%20'5') HTTP/1.1[0m" 500 -
+22-07-2022, 13:35:59	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:59] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:35:59	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:59] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:35:59	INFO- 127.0.0.1 - - [22/Jul/2022 13:35:59] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 13:36:16	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 13:36:19	WARNING- delete section - ('2269', '5')
+22-07-2022, 13:36:19	WARNING- tuple - ('2269', '5')
+22-07-2022, 13:36:19	INFO- 127.0.0.1 - - [22/Jul/2022 13:36:19] "[35m[1mPOST /delete/('2269',%20'5') HTTP/1.1[0m" 500 -
+22-07-2022, 13:36:20	INFO- 127.0.0.1 - - [22/Jul/2022 13:36:20] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 13:36:20	INFO- 127.0.0.1 - - [22/Jul/2022 13:36:20] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 13:36:20	INFO- 127.0.0.1 - - [22/Jul/2022 13:36:20] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 16:40:30	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 16:40:34	WARNING- delete section - ('2269', '5')
+22-07-2022, 16:40:34	WARNING- tuple - ('2269', '5')
+22-07-2022, 16:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 16:40:34] "[35m[1mPOST /delete/('2269',%20'5') HTTP/1.1[0m" 500 -
+22-07-2022, 16:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 16:40:34] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 16:40:34] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 16:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 16:40:34] "[36mGET /delete/('2269',%20'5')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 16:41:14	WARNING- Open invoice page!
+22-07-2022, 16:41:14	INFO- 127.0.0.1 - - [22/Jul/2022 16:41:14] "GET / HTTP/1.1" 200 -
+22-07-2022, 16:41:14	INFO- 127.0.0.1 - - [22/Jul/2022 16:41:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:46:19	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 16:46:23	WARNING- Open invoice page!
+22-07-2022, 16:46:23	INFO- 127.0.0.1 - - [22/Jul/2022 16:46:23] "GET / HTTP/1.1" 200 -
+22-07-2022, 16:46:23	INFO- 127.0.0.1 - - [22/Jul/2022 16:46:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:48:27	WARNING- Got values from the user - [('2259', '4')]
+22-07-2022, 16:48:27	INFO- 127.0.0.1 - - [22/Jul/2022 16:48:27] "POST / HTTP/1.1" 200 -
+22-07-2022, 16:48:27	INFO- 127.0.0.1 - - [22/Jul/2022 16:48:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:52:15	WARNING- Got values from the user - [('2259', '4'), ('2258', '3')]
+22-07-2022, 16:52:15	INFO- 127.0.0.1 - - [22/Jul/2022 16:52:15] "POST / HTTP/1.1" 200 -
+22-07-2022, 16:52:15	INFO- 127.0.0.1 - - [22/Jul/2022 16:52:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:59:09	WARNING- Open invoice page!
+22-07-2022, 16:59:09	INFO- 127.0.0.1 - - [22/Jul/2022 16:59:09] "GET / HTTP/1.1" 200 -
+22-07-2022, 16:59:09	INFO- 127.0.0.1 - - [22/Jul/2022 16:59:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:59:20	WARNING- Got values from the user - [('2259', '4')]
+22-07-2022, 16:59:20	INFO- 127.0.0.1 - - [22/Jul/2022 16:59:20] "POST / HTTP/1.1" 200 -
+22-07-2022, 16:59:20	INFO- 127.0.0.1 - - [22/Jul/2022 16:59:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 16:59:28	WARNING- Got values from the user - [('2259', '4'), ('2250', '1')]
+22-07-2022, 16:59:28	INFO- 127.0.0.1 - - [22/Jul/2022 16:59:28] "POST / HTTP/1.1" 200 -
+22-07-2022, 16:59:28	INFO- 127.0.0.1 - - [22/Jul/2022 16:59:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:00:39	WARNING- delete section - ('2259', '4')
+22-07-2022, 17:00:39	WARNING- tuple - ('2259', '4')
+22-07-2022, 17:00:39	INFO- 127.0.0.1 - - [22/Jul/2022 17:00:39] "POST /delete/('2259',%20'4') HTTP/1.1" 200 -
+22-07-2022, 17:00:39	INFO- 127.0.0.1 - - [22/Jul/2022 17:00:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:00:59	WARNING- Got values from the user - [('2250', '1'), ('2249', '5')]
+22-07-2022, 17:00:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:00:59] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:00:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:00:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:01:56	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:02:11	WARNING- Got values from the user - [('2246', '3')]
+22-07-2022, 17:02:11	INFO- 127.0.0.1 - - [22/Jul/2022 17:02:11] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:02:11	INFO- 127.0.0.1 - - [22/Jul/2022 17:02:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:02:45	WARNING- Got values from the user - [('2246', '3'), ('2245', '2')]
+22-07-2022, 17:02:45	INFO- 127.0.0.1 - - [22/Jul/2022 17:02:45] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:02:45	INFO- 127.0.0.1 - - [22/Jul/2022 17:02:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:02:53	WARNING- delete section - ('2246', '3')
+22-07-2022, 17:02:53	WARNING- tuple - ('2246', '3')
+22-07-2022, 17:02:53	INFO- 127.0.0.1 - - [22/Jul/2022 17:02:53] "POST /delete/('2246',%20'3') HTTP/1.1" 200 -
+22-07-2022, 17:02:53	INFO- 127.0.0.1 - - [22/Jul/2022 17:02:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:03:23	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:12:23	WARNING- delete section - ('2246', '3')
+22-07-2022, 17:12:23	WARNING- list - []
+22-07-2022, 17:12:23	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:23] "[35m[1mPOST /delete/('2246',%20'3') HTTP/1.1[0m" 500 -
+22-07-2022, 17:12:23	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:23] "GET /delete/('2246',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 17:12:23	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:23] "GET /delete/('2246',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 17:12:23	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:23] "GET /delete/('2246',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 17:12:24	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:24] "[36mGET /delete/('2246',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:12:30	WARNING- Open invoice page!
+22-07-2022, 17:12:30	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:30] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:12:30	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:12:43	WARNING- Got values from the user - [('2248', '4')]
+22-07-2022, 17:12:43	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:43] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:12:43	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:12:49	WARNING- Got values from the user - [('2248', '4'), ('2256', '4')]
+22-07-2022, 17:12:49	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:49] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:12:49	INFO- 127.0.0.1 - - [22/Jul/2022 17:12:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:15	WARNING- Got values from the user - [('2248', '4'), ('2256', '4'), ('2289', '7')]
+22-07-2022, 17:13:15	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:15] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:13:15	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:21	WARNING- Open invoice page!
+22-07-2022, 17:13:21	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:13:21	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:21	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:21	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:21	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:24	WARNING- Open invoice page!
+22-07-2022, 17:13:24	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:24] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:13:25	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:25] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:25	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:25] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:25	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:25	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:25] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:33	WARNING- Open invoice page!
+22-07-2022, 17:13:33	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:13:33	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:33	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:33	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:33	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:37	WARNING- Open invoice page!
+22-07-2022, 17:13:37	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:13:37	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:37	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:37	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:37	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:42	WARNING- Open invoice page!
+22-07-2022, 17:13:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:13:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:13:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:13:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:14:13	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:14:24	WARNING- Open invoice page!
+22-07-2022, 17:14:24	INFO- 127.0.0.1 - - [22/Jul/2022 17:14:24] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:14:24	INFO- 127.0.0.1 - - [22/Jul/2022 17:14:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:14:38	WARNING- Got values from the user - [('2254', '4')]
+22-07-2022, 17:14:38	INFO- 127.0.0.1 - - [22/Jul/2022 17:14:38] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:14:38	INFO- 127.0.0.1 - - [22/Jul/2022 17:14:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:14:45	WARNING- Got values from the user - [('2254', '4'), ('2265', '5')]
+22-07-2022, 17:14:45	INFO- 127.0.0.1 - - [22/Jul/2022 17:14:45] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:14:45	INFO- 127.0.0.1 - - [22/Jul/2022 17:14:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:15:48	WARNING- Got values from the user - [('2254', '4'), ('2265', '5'), ('2298', '7')]
+22-07-2022, 17:15:48	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:48] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:15:48	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:15:54	WARNING- Got values from the user - [('2254', '4'), ('2265', '5'), ('2298', '7'), ('2246', '6')]
+22-07-2022, 17:15:54	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:54] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:15:54	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:15:59	WARNING- Open invoice page!
+22-07-2022, 17:15:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:15:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:15:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:15:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:15:59	INFO- 127.0.0.1 - - [22/Jul/2022 17:15:59] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:16:01	WARNING- Open invoice page!
+22-07-2022, 17:16:01	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+22-07-2022, 17:16:01	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:16:01	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:16:01	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:16:01	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:16:13	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:16:15	WARNING- Open invoice page!
+22-07-2022, 17:16:15	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:15] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:16:15	INFO- 127.0.0.1 - - [22/Jul/2022 17:16:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:19:07	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:28:11	WARNING- Open invoice page!
+22-07-2022, 17:28:11	INFO- 127.0.0.1 - - [22/Jul/2022 17:28:11] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:28:11	INFO- 127.0.0.1 - - [22/Jul/2022 17:28:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:33:27	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:40:28	WARNING- Got values from the user - [('2259', '3')]
+22-07-2022, 17:40:28	INFO- 127.0.0.1 - - [22/Jul/2022 17:40:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+22-07-2022, 17:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 17:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 17:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+22-07-2022, 17:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 17:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:40:34	INFO- 127.0.0.1 - - [22/Jul/2022 17:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 17:41:02	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:41:10	WARNING- Got values from the user - [('2259', '3')]
+22-07-2022, 17:41:10	INFO- 127.0.0.1 - - [22/Jul/2022 17:41:10] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:41:11	INFO- 127.0.0.1 - - [22/Jul/2022 17:41:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:52:09	WARNING- delete section - ('2259', '3')
+22-07-2022, 17:52:09	WARNING- list - [('2259', '3')]
+22-07-2022, 17:52:10	INFO- 127.0.0.1 - - [22/Jul/2022 17:52:10] "POST /delete/('2259',%20'3') HTTP/1.1" 200 -
+22-07-2022, 17:52:15	INFO- 127.0.0.1 - - [22/Jul/2022 17:52:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:54:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:55:01	WARNING- Open invoice page!
+22-07-2022, 17:55:01	INFO- 127.0.0.1 - - [22/Jul/2022 17:55:01] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:55:02	INFO- 127.0.0.1 - - [22/Jul/2022 17:55:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:55:02	INFO- 127.0.0.1 - - [22/Jul/2022 17:55:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:55:13	WARNING- Got values from the user - [('2259', '4')]
+22-07-2022, 17:55:13	INFO- 127.0.0.1 - - [22/Jul/2022 17:55:13] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:55:16	WARNING- delete section - ('2259', '4')
+22-07-2022, 17:55:16	WARNING- list - [('2259', '4')]
+22-07-2022, 17:55:16	INFO- 127.0.0.1 - - [22/Jul/2022 17:55:16] "POST /delete/('2259',%20'4') HTTP/1.1" 200 -
+22-07-2022, 17:55:16	INFO- 127.0.0.1 - - [22/Jul/2022 17:55:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:56:24	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:56:30	WARNING- Open invoice page!
+22-07-2022, 17:56:30	INFO- 127.0.0.1 - - [22/Jul/2022 17:56:30] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:56:30	INFO- 127.0.0.1 - - [22/Jul/2022 17:56:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:56:42	WARNING- Got values from the user - [('2259', '7')]
+22-07-2022, 17:56:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:56:42] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:56:42	INFO- 127.0.0.1 - - [22/Jul/2022 17:56:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:58:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 17:58:20	WARNING- Open invoice page!
+22-07-2022, 17:58:20	INFO- 127.0.0.1 - - [22/Jul/2022 17:58:20] "GET / HTTP/1.1" 200 -
+22-07-2022, 17:58:21	INFO- 127.0.0.1 - - [22/Jul/2022 17:58:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:58:36	WARNING- Got values from the user - [('2254', '6')]
+22-07-2022, 17:58:36	INFO- 127.0.0.1 - - [22/Jul/2022 17:58:36] "POST / HTTP/1.1" 200 -
+22-07-2022, 17:58:36	INFO- 127.0.0.1 - - [22/Jul/2022 17:58:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 17:58:39	WARNING- delete section - ('2254', '6')
+22-07-2022, 17:58:39	WARNING- list - [('2254', '6')]
+22-07-2022, 17:58:39	INFO- 127.0.0.1 - - [22/Jul/2022 17:58:39] "POST /delete/('2254',%20'6') HTTP/1.1" 200 -
+22-07-2022, 17:58:39	INFO- 127.0.0.1 - - [22/Jul/2022 17:58:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:01:56	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+22-07-2022, 18:02:00	WARNING- Open invoice page!
+22-07-2022, 18:02:00	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:00] "GET / HTTP/1.1" 200 -
+22-07-2022, 18:02:00	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:02:14	WARNING- Got values from the user - [('2279', '9')]
+22-07-2022, 18:02:14	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:14] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:02:14	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:02:20	WARNING- Got values from the user - [('2279', '9'), ('2246', '7')]
+22-07-2022, 18:02:20	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:20] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:02:20	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:02:23	WARNING- delete section - ('2246', '7')
+22-07-2022, 18:02:23	WARNING- list - [('2279', '9'), ('2246', '7')]
+22-07-2022, 18:02:23	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:23] "POST /delete/('2246',%20'7') HTTP/1.1" 200 -
+22-07-2022, 18:02:23	INFO- 127.0.0.1 - - [22/Jul/2022 18:02:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:04:21	WARNING- Open invoice page!
+22-07-2022, 18:04:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:21] "GET / HTTP/1.1" 200 -
+22-07-2022, 18:04:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:04:39	WARNING- Open invoice page!
+22-07-2022, 18:04:39	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:39] "GET / HTTP/1.1" 200 -
+22-07-2022, 18:04:39	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:04:51	WARNING- Got values from the user - [('2259', '4')]
+22-07-2022, 18:04:51	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:51] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:04:51	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:04:53	WARNING- delete section - ('2259', '4')
+22-07-2022, 18:04:53	WARNING- list - [('2259', '4')]
+22-07-2022, 18:04:53	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:53] "POST /delete/('2259',%20'4') HTTP/1.1" 200 -
+22-07-2022, 18:04:53	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:04:59	WARNING- Got values from the user - [('2246', '6')]
+22-07-2022, 18:04:59	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:59] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:04:59	INFO- 127.0.0.1 - - [22/Jul/2022 18:04:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:05:05	WARNING- Got values from the user - [('2246', '6'), ('2249', '66')]
+22-07-2022, 18:05:05	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:05] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:05:05	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:05:12	WARNING- delete section - ('2246', '6')
+22-07-2022, 18:05:12	WARNING- list - [('2246', '6'), ('2249', '66')]
+22-07-2022, 18:05:12	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:12] "POST /delete/('2246',%20'6') HTTP/1.1" 200 -
+22-07-2022, 18:05:12	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:05:14	WARNING- delete section - ('2249', '66')
+22-07-2022, 18:05:14	WARNING- list - [('2249', '66')]
+22-07-2022, 18:05:14	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:14] "POST /delete/('2249',%20'66') HTTP/1.1" 200 -
+22-07-2022, 18:05:14	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:05:21	WARNING- Got values from the user - [('', '')]
+22-07-2022, 18:05:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:21] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:05:22	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:05:47	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:47] "POST /submit HTTP/1.1" 200 -
+22-07-2022, 18:05:47	INFO- 127.0.0.1 - - [22/Jul/2022 18:05:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:16:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:16:21] "POST /submit HTTP/1.1" 200 -
+22-07-2022, 18:16:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:16:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:19:03	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:03] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+22-07-2022, 18:19:03	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:03] "GET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+22-07-2022, 18:19:03	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:03] "GET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+22-07-2022, 18:19:03	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:03] "GET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+22-07-2022, 18:19:03	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:03] "[36mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+22-07-2022, 18:19:11	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:11] "POST /submit HTTP/1.1" 200 -
+22-07-2022, 18:19:11	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:19:21	WARNING- Open invoice page!
+22-07-2022, 18:19:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:21] "GET / HTTP/1.1" 200 -
+22-07-2022, 18:19:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:19:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:23:45	WARNING- Got values from the user - [('2259', '3')]
+22-07-2022, 18:23:45	INFO- 127.0.0.1 - - [22/Jul/2022 18:23:45] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:23:45	INFO- 127.0.0.1 - - [22/Jul/2022 18:23:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:23:51	WARNING- Got values from the user - [('2259', '3'), ('2278', '2')]
+22-07-2022, 18:23:51	INFO- 127.0.0.1 - - [22/Jul/2022 18:23:51] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:23:51	INFO- 127.0.0.1 - - [22/Jul/2022 18:23:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:23:56	WARNING- delete section - ('2259', '3')
+22-07-2022, 18:23:56	WARNING- list - [('2259', '3'), ('2278', '2')]
+22-07-2022, 18:23:56	INFO- 127.0.0.1 - - [22/Jul/2022 18:23:56] "POST /delete/('2259',%20'3') HTTP/1.1" 200 -
+22-07-2022, 18:23:56	INFO- 127.0.0.1 - - [22/Jul/2022 18:23:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:28:21	WARNING- delete section - ('2278', '2')
+22-07-2022, 18:28:21	WARNING- list - [('2278', '2')]
+22-07-2022, 18:28:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:28:21] "POST /delete/('2278',%20'2') HTTP/1.1" 200 -
+22-07-2022, 18:28:21	INFO- 127.0.0.1 - - [22/Jul/2022 18:28:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:28:28	WARNING- Got values from the user - [('2246', '4')]
+22-07-2022, 18:28:28	INFO- 127.0.0.1 - - [22/Jul/2022 18:28:28] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:28:28	INFO- 127.0.0.1 - - [22/Jul/2022 18:28:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:28:30	INFO- 127.0.0.1 - - [22/Jul/2022 18:28:30] "POST /submit HTTP/1.1" 200 -
+22-07-2022, 18:28:30	INFO- 127.0.0.1 - - [22/Jul/2022 18:28:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:31:49	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\test.py', reloading
+22-07-2022, 18:33:19	WARNING- Open invoice page!
+22-07-2022, 18:33:19	INFO- 127.0.0.1 - - [22/Jul/2022 18:33:19] "GET / HTTP/1.1" 200 -
+22-07-2022, 18:33:20	INFO- 127.0.0.1 - - [22/Jul/2022 18:33:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:33:20	INFO- 127.0.0.1 - - [22/Jul/2022 18:33:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:33:39	WARNING- Got values from the user - [('2248', '5')]
+22-07-2022, 18:33:39	INFO- 127.0.0.1 - - [22/Jul/2022 18:33:39] "POST / HTTP/1.1" 200 -
+22-07-2022, 18:33:39	INFO- 127.0.0.1 - - [22/Jul/2022 18:33:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+22-07-2022, 18:52:11	WARNING- Open invoice page!
+22-07-2022, 18:52:11	INFO- 127.0.0.1 - - [22/Jul/2022 18:52:11] "GET / HTTP/1.1" 200 -
+22-07-2022, 18:52:11	INFO- 127.0.0.1 - - [22/Jul/2022 18:52:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:34:30	WARNING- Open invoice page!
+23-07-2022, 11:34:30	INFO- 127.0.0.1 - - [23/Jul/2022 11:34:30] "GET / HTTP/1.1" 200 -
+23-07-2022, 11:34:30	INFO- 127.0.0.1 - - [23/Jul/2022 11:34:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:34:30	INFO- 127.0.0.1 - - [23/Jul/2022 11:34:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+23-07-2022, 11:37:23	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 11:37:26	WARNING- Open invoice page!
+23-07-2022, 11:37:26	INFO- 127.0.0.1 - - [23/Jul/2022 11:37:26] "GET / HTTP/1.1" 200 -
+23-07-2022, 11:37:27	INFO- 127.0.0.1 - - [23/Jul/2022 11:37:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:38:08	WARNING- Got values from the user - [('2257', '2')]
+23-07-2022, 11:38:08	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:08] "POST / HTTP/1.1" 200 -
+23-07-2022, 11:38:09	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:38:19	WARNING- Got values from the user - [('2257', '2'), ('2245', '5')]
+23-07-2022, 11:38:19	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:19] "POST / HTTP/1.1" 200 -
+23-07-2022, 11:38:19	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:38:25	WARNING- Got values from the user - [('2257', '2'), ('2245', '5'), ('2244', '3')]
+23-07-2022, 11:38:25	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:25] "POST / HTTP/1.1" 200 -
+23-07-2022, 11:38:25	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:38:28	WARNING- form - ['2022-07-25', 'C10701', 'M/S Diya Goyal', '2022-07-25', 'C10701', 'M/S Diya Goyal', '2022-07-25', 'C10701', 'M/S Diya Goyal', '22000001']
+23-07-2022, 11:38:28	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:28] "POST /submit HTTP/1.1" 200 -
+23-07-2022, 11:38:28	INFO- 127.0.0.1 - - [23/Jul/2022 11:38:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:40:49	WARNING- form - ['2022-07-25', 'C10701', 'M/S Diya Goyal', '2022-07-25', 'C10701', 'M/S Diya Goyal', '2022-07-25', 'C10701', 'M/S Diya Goyal', '22000001', '22000001']
+23-07-2022, 11:40:49	INFO- 127.0.0.1 - - [23/Jul/2022 11:40:49] "POST /submit HTTP/1.1" 200 -
+23-07-2022, 11:40:49	INFO- 127.0.0.1 - - [23/Jul/2022 11:40:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:40:58	WARNING- form - ['2022-07-25', 'C10701', 'M/S Diya Goyal', '2022-07-25', 'C10701', 'M/S Diya Goyal', '2022-07-25', 'C10701', 'M/S Diya Goyal', '22000001', '22000001', '22000001']
+23-07-2022, 11:40:58	INFO- 127.0.0.1 - - [23/Jul/2022 11:40:58] "POST /submit HTTP/1.1" 200 -
+23-07-2022, 11:40:58	INFO- 127.0.0.1 - - [23/Jul/2022 11:40:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:43:37	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 11:44:01	WARNING- Open invoice page!
+23-07-2022, 11:44:01	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:01] "GET / HTTP/1.1" 200 -
+23-07-2022, 11:44:02	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:44:18	WARNING- Got values from the user - [('2245', '4')]
+23-07-2022, 11:44:18	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:18] "POST / HTTP/1.1" 200 -
+23-07-2022, 11:44:18	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:44:25	WARNING- Got values from the user - [('2245', '4'), ('2265', '5')]
+23-07-2022, 11:44:25	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:25] "POST / HTTP/1.1" 200 -
+23-07-2022, 11:44:25	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 11:44:29	WARNING- form - ['22000001', '2022-07-19', 'C10701', 'M/S Diya Goyal', '2022-07-19', 'C10701', 'M/S Diya Goyal']
+23-07-2022, 11:44:29	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:29] "POST /submit HTTP/1.1" 200 -
+23-07-2022, 11:44:29	INFO- 127.0.0.1 - - [23/Jul/2022 11:44:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:18:36	WARNING- form - ['22000001', '22000001', '2022-07-19', 'C10701', 'M/S Diya Goyal', '2022-07-19', 'C10701', 'M/S Diya Goyal']
+23-07-2022, 12:18:36	INFO- 127.0.0.1 - - [23/Jul/2022 12:18:36] "POST /submit HTTP/1.1" 200 -
+23-07-2022, 12:18:36	INFO- 127.0.0.1 - - [23/Jul/2022 12:18:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:33:25	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 12:33:35	WARNING- Open invoice page!
+23-07-2022, 12:33:35	INFO- 127.0.0.1 - - [23/Jul/2022 12:33:35] "GET / HTTP/1.1" 200 -
+23-07-2022, 12:33:36	INFO- 127.0.0.1 - - [23/Jul/2022 12:33:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:35:22	INFO- 127.0.0.1 - - [23/Jul/2022 12:35:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+23-07-2022, 12:35:22	INFO- 127.0.0.1 - - [23/Jul/2022 12:35:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:35:22	INFO- 127.0.0.1 - - [23/Jul/2022 12:35:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+23-07-2022, 12:35:22	INFO- 127.0.0.1 - - [23/Jul/2022 12:35:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 12:35:22	INFO- 127.0.0.1 - - [23/Jul/2022 12:35:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 12:36:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 12:37:14	WARNING- Got values from the user - [('2245', '43')]
+23-07-2022, 12:37:14	INFO- 127.0.0.1 - - [23/Jul/2022 12:37:14] "POST / HTTP/1.1" 200 -
+23-07-2022, 12:37:14	INFO- 127.0.0.1 - - [23/Jul/2022 12:37:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:37:39	WARNING- Got values from the user - [('2245', '43'), ('2245', '42')]
+23-07-2022, 12:37:39	INFO- 127.0.0.1 - - [23/Jul/2022 12:37:39] "POST / HTTP/1.1" 200 -
+23-07-2022, 12:37:39	INFO- 127.0.0.1 - - [23/Jul/2022 12:37:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:38:24	WARNING- delete section - ('2245', '43')
+23-07-2022, 12:38:24	WARNING- list - [('2245', '43'), ('2245', '42')]
+23-07-2022, 12:38:24	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:24] "POST /delete/('2245',%20'43') HTTP/1.1" 200 -
+23-07-2022, 12:38:24	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:38:27	WARNING- delete section - ('2245', '42')
+23-07-2022, 12:38:27	WARNING- list - [('2245', '42')]
+23-07-2022, 12:38:27	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:27] "POST /delete/('2245',%20'42') HTTP/1.1" 200 -
+23-07-2022, 12:38:27	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:38:34	WARNING- Open invoice page!
+23-07-2022, 12:38:34	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:34] "GET / HTTP/1.1" 200 -
+23-07-2022, 12:38:34	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 12:38:52	WARNING- Got values from the user - [('2245', '45')]
+23-07-2022, 12:38:52	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:52] "POST / HTTP/1.1" 200 -
+23-07-2022, 12:38:52	INFO- 127.0.0.1 - - [23/Jul/2022 12:38:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:24:02	WARNING- Got values from the user - [('2245', '45'), ('2269', '36')]
+23-07-2022, 16:24:02	INFO- 127.0.0.1 - - [23/Jul/2022 16:24:02] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:24:02	INFO- 127.0.0.1 - - [23/Jul/2022 16:24:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:25:42	WARNING- delete section - ('2245', '45')
+23-07-2022, 16:25:42	WARNING- list - [('2245', '45'), ('2269', '36')]
+23-07-2022, 16:25:42	INFO- 127.0.0.1 - - [23/Jul/2022 16:25:42] "POST /delete/('2245',%20'45') HTTP/1.1" 200 -
+23-07-2022, 16:25:43	INFO- 127.0.0.1 - - [23/Jul/2022 16:25:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:33:29	WARNING- Open invoice page!
+23-07-2022, 16:33:29	INFO- 127.0.0.1 - - [23/Jul/2022 16:33:29] "GET / HTTP/1.1" 200 -
+23-07-2022, 16:33:29	INFO- 127.0.0.1 - - [23/Jul/2022 16:33:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:34:57	WARNING- Got values from the user - [('2254', '51')]
+23-07-2022, 16:34:57	INFO- 127.0.0.1 - - [23/Jul/2022 16:34:57] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:34:57	INFO- 127.0.0.1 - - [23/Jul/2022 16:34:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:40:38	WARNING- Open invoice page!
+23-07-2022, 16:40:38	INFO- 127.0.0.1 - - [23/Jul/2022 16:40:38] "GET / HTTP/1.1" 200 -
+23-07-2022, 16:40:39	INFO- 127.0.0.1 - - [23/Jul/2022 16:40:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:42:59	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 16:43:01	WARNING- Open invoice page!
+23-07-2022, 16:43:01	INFO- 127.0.0.1 - - [23/Jul/2022 16:43:01] "GET / HTTP/1.1" 200 -
+23-07-2022, 16:43:02	INFO- 127.0.0.1 - - [23/Jul/2022 16:43:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:44:28	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 16:44:35	WARNING- Open invoice page!
+23-07-2022, 16:44:35	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:35] "GET / HTTP/1.1" 200 -
+23-07-2022, 16:44:36	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:44:52	WARNING- Got values from the user - [('2245', '1')]
+23-07-2022, 16:44:52	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:52] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:44:52	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:44:54	WARNING- Got values from the user - [('2245', '1')]
+23-07-2022, 16:44:54	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:54] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:44:54	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:44:57	WARNING- Got values from the user - [('2245', '1')]
+23-07-2022, 16:44:57	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:57] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:44:57	INFO- 127.0.0.1 - - [23/Jul/2022 16:44:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:45:22	WARNING- submit section!
+23-07-2022, 16:45:22	INFO- 127.0.0.1 - - [23/Jul/2022 16:45:22] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+23-07-2022, 16:45:22	INFO- 127.0.0.1 - - [23/Jul/2022 16:45:22] "GET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 16:45:22	INFO- 127.0.0.1 - - [23/Jul/2022 16:45:22] "GET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 16:45:22	INFO- 127.0.0.1 - - [23/Jul/2022 16:45:22] "[36mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:45:23	INFO- 127.0.0.1 - - [23/Jul/2022 16:45:23] "[36mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:46:27	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 16:51:05	WARNING- edit section - ('2245', '1')
+23-07-2022, 16:51:05	INFO- 127.0.0.1 - - [23/Jul/2022 16:51:05] "POST /edit/('2245',%20'1') HTTP/1.1" 200 -
+23-07-2022, 16:51:05	INFO- 127.0.0.1 - - [23/Jul/2022 16:51:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:51:24	WARNING- Open invoice page!
+23-07-2022, 16:51:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:51:24] "GET / HTTP/1.1" 200 -
+23-07-2022, 16:51:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:51:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:53:09	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 16:53:23	WARNING- Got values from the user - [('2259', '4')]
+23-07-2022, 16:53:23	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:23] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:53:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:53:30	WARNING- Got values from the user - [('2259', '4'), ('2245', '3')]
+23-07-2022, 16:53:30	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:30] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:53:30	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:53:38	WARNING- edit section - ('2259', '4')
+23-07-2022, 16:53:38	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:38] "POST /edit/('2259',%20'4') HTTP/1.1" 200 -
+23-07-2022, 16:53:38	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:53:44	WARNING- edit section - ('2259', '4')
+23-07-2022, 16:53:44	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:44] "POST /edit/('2259',%20'4') HTTP/1.1" 200 -
+23-07-2022, 16:53:44	INFO- 127.0.0.1 - - [23/Jul/2022 16:53:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:56:19	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 16:58:23	WARNING- edit section - ('2259', '4')
+23-07-2022, 16:58:23	WARNING- list - []
+23-07-2022, 16:58:23	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:23] "[35m[1mPOST /edit/('2259',%20'4') HTTP/1.1[0m" 500 -
+23-07-2022, 16:58:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:24] "GET /edit/('2259',%20'4')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 16:58:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:24] "GET /edit/('2259',%20'4')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 16:58:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:24] "GET /edit/('2259',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+23-07-2022, 16:58:24	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:24] "[36mGET /edit/('2259',%20'4')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:58:40	WARNING- Open invoice page!
+23-07-2022, 16:58:40	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:40] "GET / HTTP/1.1" 200 -
+23-07-2022, 16:58:40	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:58:51	WARNING- Got values from the user - [('2245', '6')]
+23-07-2022, 16:58:51	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:51] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:58:51	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:58:55	WARNING- Got values from the user - [('2245', '6'), ('2259', '2')]
+23-07-2022, 16:58:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:55] "POST / HTTP/1.1" 200 -
+23-07-2022, 16:58:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:58:58	WARNING- delete section - ('2259', '2')
+23-07-2022, 16:58:58	WARNING- list - [('2245', '6'), ('2259', '2')]
+23-07-2022, 16:58:58	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:58] "[35m[1mPOST /delete/('2259',%20'2') HTTP/1.1[0m" 500 -
+23-07-2022, 16:58:59	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:59] "GET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 16:58:59	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:59] "GET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 16:58:59	INFO- 127.0.0.1 - - [23/Jul/2022 16:58:59] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:36	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 16:59:40	WARNING- delete section - ('2259', '2')
+23-07-2022, 16:59:40	WARNING- list - []
+23-07-2022, 16:59:40	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:40] "[35m[1mPOST /delete/('2259',%20'2') HTTP/1.1[0m" 500 -
+23-07-2022, 16:59:41	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:41] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:41	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:41] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:41	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:41] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:41	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:41] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:48	WARNING- delete section - ('2259', '2')
+23-07-2022, 16:59:48	WARNING- list - []
+23-07-2022, 16:59:48	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:48] "[35m[1mPOST /delete/('2259',%20'2') HTTP/1.1[0m" 500 -
+23-07-2022, 16:59:48	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:48] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:48	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:48] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:48	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:48] "[36mGET /delete/('2259',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 16:59:55	WARNING- delete section - ('2245', '6')
+23-07-2022, 16:59:55	WARNING- list - []
+23-07-2022, 16:59:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:55] "[35m[1mPOST /delete/('2245',%20'6') HTTP/1.1[0m" 500 -
+23-07-2022, 16:59:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:55] "GET /delete/('2245',%20'6')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 16:59:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:55] "GET /delete/('2245',%20'6')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 16:59:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:55] "GET /delete/('2245',%20'6')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+23-07-2022, 16:59:55	INFO- 127.0.0.1 - - [23/Jul/2022 16:59:55] "[36mGET /delete/('2245',%20'6')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 17:00:08	WARNING- Open invoice page!
+23-07-2022, 17:00:08	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:08] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:00:08	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:00:22	WARNING- Got values from the user - [('2246', '2')]
+23-07-2022, 17:00:22	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:22] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:00:22	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:00:27	WARNING- Got values from the user - [('2246', '2'), ('2248', '3')]
+23-07-2022, 17:00:27	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:27] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:00:27	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:00:29	WARNING- delete section - ('2248', '3')
+23-07-2022, 17:00:29	WARNING- list - [('2246', '2'), ('2248', '3')]
+23-07-2022, 17:00:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:29] "POST /delete/('2248',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:00:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:00:33	WARNING- edit section - ('2246', '2')
+23-07-2022, 17:00:33	WARNING- list - [('2246', '2')]
+23-07-2022, 17:00:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:33] "[35m[1mPOST /edit/('2246',%20'2') HTTP/1.1[0m" 500 -
+23-07-2022, 17:00:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:33] "GET /edit/('2246',%20'2')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 17:00:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:33] "GET /edit/('2246',%20'2')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 17:00:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:33] "GET /edit/('2246',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+23-07-2022, 17:00:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:33] "[36mGET /edit/('2246',%20'2')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 17:00:43	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 17:00:47	WARNING- Open invoice page!
+23-07-2022, 17:00:47	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:47] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:00:48	INFO- 127.0.0.1 - - [23/Jul/2022 17:00:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:01:01	WARNING- Got values from the user - [('2248', '4')]
+23-07-2022, 17:01:01	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:01] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:01:01	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:01:06	WARNING- Got values from the user - [('2248', '4'), ('2245', '1')]
+23-07-2022, 17:01:06	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:06] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:01:06	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:01:10	WARNING- Got values from the user - [('2248', '4'), ('2245', '1'), ('2249', '3')]
+23-07-2022, 17:01:10	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:10] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:01:11	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:01:18	WARNING- delete section - ('2245', '1')
+23-07-2022, 17:01:18	WARNING- list - [('2248', '4'), ('2245', '1'), ('2249', '3')]
+23-07-2022, 17:01:18	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:18] "POST /delete/('2245',%20'1') HTTP/1.1" 200 -
+23-07-2022, 17:01:18	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:01:21	WARNING- edit section - ('2248', '4')
+23-07-2022, 17:01:21	WARNING- list - [('2248', '4'), ('2249', '3')]
+23-07-2022, 17:01:21	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:21] "POST /edit/('2248',%20'4') HTTP/1.1" 200 -
+23-07-2022, 17:01:21	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:01:29	WARNING- edit section - ('2249', '3')
+23-07-2022, 17:01:29	WARNING- list - [('2249', '3')]
+23-07-2022, 17:01:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:29] "POST /edit/('2249',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:01:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:01:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:04:04	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 17:06:01	WARNING- Open invoice page!
+23-07-2022, 17:06:01	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:01] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:06:02	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:06:12	WARNING- Got values from the user - [('2246', '5')]
+23-07-2022, 17:06:12	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:12] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:06:12	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:06:17	WARNING- Got values from the user - [('2246', '5'), ('2249', '2')]
+23-07-2022, 17:06:17	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:17] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:06:17	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:06:23	WARNING- Got values from the user - [('2246', '5'), ('2249', '2'), ('2259', '3')]
+23-07-2022, 17:06:23	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:23] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:06:23	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:06:30	WARNING- delete section - ('2246', '5')
+23-07-2022, 17:06:30	WARNING- list - [('2246', '5'), ('2249', '2'), ('2259', '3')]
+23-07-2022, 17:06:30	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:30] "POST /delete/('2246',%20'5') HTTP/1.1" 200 -
+23-07-2022, 17:06:30	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:06:34	WARNING- edit section - ('2249', '2')
+23-07-2022, 17:06:34	WARNING- list - [('2259', '3')]
+23-07-2022, 17:06:34	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:34] "POST /edit/('2249',%20'2') HTTP/1.1" 200 -
+23-07-2022, 17:06:34	INFO- 127.0.0.1 - - [23/Jul/2022 17:06:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:11:22	WARNING- Open invoice page!
+23-07-2022, 17:11:22	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:22] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:11:23	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:11:33	WARNING- Got values from the user - [('2249', '5')]
+23-07-2022, 17:11:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:33] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:11:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:11:41	WARNING- Got values from the user - [('2249', '5'), ('2246', '4')]
+23-07-2022, 17:11:41	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:41] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:11:41	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:11:45	WARNING- Got values from the user - [('2249', '5'), ('2246', '4'), ('2269', '3')]
+23-07-2022, 17:11:45	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:45] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:11:45	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:11:51	WARNING- delete section - ('2246', '4')
+23-07-2022, 17:11:51	WARNING- list - [('2249', '5'), ('2246', '4'), ('2269', '3')]
+23-07-2022, 17:11:51	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:51] "POST /delete/('2246',%20'4') HTTP/1.1" 200 -
+23-07-2022, 17:11:51	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:11:53	WARNING- edit section - ('2249', '5')
+23-07-2022, 17:11:53	WARNING- list - [('2269', '3')]
+23-07-2022, 17:11:53	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:53] "POST /edit/('2249',%20'5') HTTP/1.1" 200 -
+23-07-2022, 17:11:53	INFO- 127.0.0.1 - - [23/Jul/2022 17:11:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:24:43	WARNING- delete section - ('2269', '3')
+23-07-2022, 17:24:43	WARNING- list - [('2269', '3')]
+23-07-2022, 17:24:43	INFO- 127.0.0.1 - - [23/Jul/2022 17:24:43] "POST /delete/('2269',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:24:43	INFO- 127.0.0.1 - - [23/Jul/2022 17:24:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:24:51	WARNING- Got values from the user - [('2256', '4')]
+23-07-2022, 17:24:51	INFO- 127.0.0.1 - - [23/Jul/2022 17:24:51] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:24:51	INFO- 127.0.0.1 - - [23/Jul/2022 17:24:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:27:35	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 17:27:48	WARNING- Open invoice page!
+23-07-2022, 17:27:48	INFO- 127.0.0.1 - - [23/Jul/2022 17:27:48] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:27:48	INFO- 127.0.0.1 - - [23/Jul/2022 17:27:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:27:57	WARNING- Got values from the user - [('2248', '5')]
+23-07-2022, 17:27:57	INFO- 127.0.0.1 - - [23/Jul/2022 17:27:57] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:27:57	INFO- 127.0.0.1 - - [23/Jul/2022 17:27:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:28:01	WARNING- Got values from the user - [('2248', '5'), ('2216', '3')]
+23-07-2022, 17:28:01	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:01] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:28:01	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:28:09	WARNING- Got values from the user - [('2248', '5'), ('2216', '3'), ('2240', '2')]
+23-07-2022, 17:28:09	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:09] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:28:09	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:28:15	WARNING- delete section - ('2216', '3')
+23-07-2022, 17:28:15	WARNING- list - [('2248', '5'), ('2216', '3'), ('2240', '2')]
+23-07-2022, 17:28:15	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:15] "POST /delete/('2216',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:28:16	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:28:29	WARNING- edit section - ('2240', '2')
+23-07-2022, 17:28:29	WARNING- list - [('2248', '5')]
+23-07-2022, 17:28:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:29] "POST /edit/('2240',%20'2') HTTP/1.1" 200 -
+23-07-2022, 17:28:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:28:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:33:09	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 17:33:20	WARNING- Open invoice page!
+23-07-2022, 17:33:20	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:20] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:33:20	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:33:29	WARNING- Got values from the user - [('2248', '2')]
+23-07-2022, 17:33:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:29] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:33:29	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:33:31	WARNING- delete section - ('2248', '2')
+23-07-2022, 17:33:31	WARNING- list - [('2248', '2')]
+23-07-2022, 17:33:31	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:31] "POST /delete/('2248',%20'2') HTTP/1.1" 200 -
+23-07-2022, 17:33:31	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:33:35	WARNING- Got values from the user - [('2249', '3')]
+23-07-2022, 17:33:35	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:35] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:33:35	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:33:40	WARNING- Got values from the user - [('2249', '3'), ('2248', '5')]
+23-07-2022, 17:33:40	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:40] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:33:40	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:33:42	WARNING- edit section - ('2249', '3')
+23-07-2022, 17:33:42	WARNING- list - [('2248', '5')]
+23-07-2022, 17:33:42	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:42] "POST /edit/('2249',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:33:42	INFO- 127.0.0.1 - - [23/Jul/2022 17:33:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:35:40	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 17:35:45	WARNING- Open invoice page!
+23-07-2022, 17:35:45	INFO- 127.0.0.1 - - [23/Jul/2022 17:35:45] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:35:45	INFO- 127.0.0.1 - - [23/Jul/2022 17:35:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:36:02	WARNING- Got values from the user - [('2248', '5')]
+23-07-2022, 17:36:02	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:02] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:36:02	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:36:07	WARNING- Got values from the user - [('2248', '5'), ('2215', '3')]
+23-07-2022, 17:36:07	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:07] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:36:07	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:36:09	WARNING- delete section - ('2215', '3')
+23-07-2022, 17:36:09	WARNING- list - [('2248', '5'), ('2215', '3')]
+23-07-2022, 17:36:09	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:09] "POST /delete/('2215',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:36:09	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:36:11	WARNING- edit section - ('2248', '5')
+23-07-2022, 17:36:11	WARNING- list - []
+23-07-2022, 17:36:11	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:11] "POST /edit/('2248',%20'5') HTTP/1.1" 200 -
+23-07-2022, 17:36:11	INFO- 127.0.0.1 - - [23/Jul/2022 17:36:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:38:39	WARNING- Open invoice page!
+23-07-2022, 17:38:39	INFO- 127.0.0.1 - - [23/Jul/2022 17:38:39] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:38:39	INFO- 127.0.0.1 - - [23/Jul/2022 17:38:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:38:50	WARNING- Got values from the user - [('2246', '5')]
+23-07-2022, 17:38:50	INFO- 127.0.0.1 - - [23/Jul/2022 17:38:50] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:38:50	INFO- 127.0.0.1 - - [23/Jul/2022 17:38:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:38:58	WARNING- Got values from the user - [('2246', '5'), ('2218', '3')]
+23-07-2022, 17:38:58	INFO- 127.0.0.1 - - [23/Jul/2022 17:38:58] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:38:58	INFO- 127.0.0.1 - - [23/Jul/2022 17:38:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:39:05	WARNING- Got values from the user - [('2246', '5'), ('2218', '3'), ('2256', '1')]
+23-07-2022, 17:39:05	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:05] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:39:05	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:39:36	WARNING- edit section - ('2218', '3')
+23-07-2022, 17:39:36	WARNING- list - [('2246', '5'), ('2256', '1')]
+23-07-2022, 17:39:36	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:36] "POST /edit/('2218',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:39:36	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:39:39	WARNING- delete section - ('2246', '5')
+23-07-2022, 17:39:39	WARNING- list - [('2246', '5'), ('2256', '1')]
+23-07-2022, 17:39:39	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:39] "POST /delete/('2246',%20'5') HTTP/1.1" 200 -
+23-07-2022, 17:39:39	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:39:40	WARNING- delete section - ('2256', '1')
+23-07-2022, 17:39:40	WARNING- list - [('2256', '1')]
+23-07-2022, 17:39:40	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:40] "POST /delete/('2256',%20'1') HTTP/1.1" 200 -
+23-07-2022, 17:39:40	INFO- 127.0.0.1 - - [23/Jul/2022 17:39:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:43:17	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 17:43:36	WARNING- Open invoice page!
+23-07-2022, 17:43:36	INFO- 127.0.0.1 - - [23/Jul/2022 17:43:36] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:43:36	INFO- 127.0.0.1 - - [23/Jul/2022 17:43:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:43:52	WARNING- Open invoice page!
+23-07-2022, 17:43:52	INFO- 127.0.0.1 - - [23/Jul/2022 17:43:52] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:43:52	INFO- 127.0.0.1 - - [23/Jul/2022 17:43:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:05	WARNING- Got values from the user - [('2214', '2')]
+23-07-2022, 17:44:05	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:05] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:44:05	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:09	WARNING- Got values from the user - [('2214', '2'), ('2245', '3')]
+23-07-2022, 17:44:09	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:09] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:44:09	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:12	WARNING- Got values from the user - [('2214', '2'), ('2245', '3'), ('2216', '3')]
+23-07-2022, 17:44:12	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:12] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:44:12	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:20	WARNING- delete section - ('2216', '3')
+23-07-2022, 17:44:20	WARNING- list - [('2214', '2'), ('2245', '3'), ('2216', '3')]
+23-07-2022, 17:44:20	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:20] "POST /delete/('2216',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:44:20	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:22	WARNING- edit section - ('2245', '3')
+23-07-2022, 17:44:22	WARNING- list - [('2214', '2')]
+23-07-2022, 17:44:22	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:22] "POST /edit/('2245',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:44:22	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:26	WARNING- submit section!
+23-07-2022, 17:44:26	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:26] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+23-07-2022, 17:44:26	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:26] "[36mGET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:26	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:26] "[36mGET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:26	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:26] "[36mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 17:44:32	WARNING- Open invoice page!
+23-07-2022, 17:44:32	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:32] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:44:32	INFO- 127.0.0.1 - - [23/Jul/2022 17:44:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:56:02	WARNING- Open invoice page!
+23-07-2022, 17:56:02	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:02] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:56:02	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:56:14	WARNING- Got values from the user - [('2215', '2')]
+23-07-2022, 17:56:14	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:14] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:56:14	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:56:18	WARNING- Got values from the user - [('2215', '2')]
+23-07-2022, 17:56:18	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:18] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:56:18	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:56:23	WARNING- Got values from the user - [('2215', '2'), ('2218', '3')]
+23-07-2022, 17:56:23	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:23] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:56:23	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:56:28	WARNING- edit section - ('2215', '2')
+23-07-2022, 17:56:28	WARNING- list - [('2218', '3')]
+23-07-2022, 17:56:28	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:28] "POST /edit/('2215',%20'2') HTTP/1.1" 200 -
+23-07-2022, 17:56:28	INFO- 127.0.0.1 - - [23/Jul/2022 17:56:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:18	WARNING- edit section - ('2218', '3')
+23-07-2022, 17:57:18	WARNING- list - []
+23-07-2022, 17:57:18	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:18] "POST /edit/('2218',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:57:18	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:24	WARNING- Open invoice page!
+23-07-2022, 17:57:24	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:24] "GET / HTTP/1.1" 200 -
+23-07-2022, 17:57:24	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:24	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:33	WARNING- Got values from the user - [('2215', '3')]
+23-07-2022, 17:57:33	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:33] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:57:34	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:38	WARNING- Got values from the user - [('2215', '3'), ('2246', '3')]
+23-07-2022, 17:57:38	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:38] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:57:38	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:42	WARNING- Got values from the user - [('2215', '3'), ('2246', '3'), ('2218', '5')]
+23-07-2022, 17:57:42	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:42] "POST / HTTP/1.1" 200 -
+23-07-2022, 17:57:42	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:45	WARNING- delete section - ('2215', '3')
+23-07-2022, 17:57:45	WARNING- list - [('2215', '3'), ('2246', '3'), ('2218', '5')]
+23-07-2022, 17:57:45	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:45] "POST /delete/('2215',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:57:45	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:57:48	WARNING- edit section - ('2246', '3')
+23-07-2022, 17:57:48	WARNING- list - [('2218', '5')]
+23-07-2022, 17:57:48	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:48] "POST /edit/('2246',%20'3') HTTP/1.1" 200 -
+23-07-2022, 17:57:48	INFO- 127.0.0.1 - - [23/Jul/2022 17:57:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 17:58:36	WARNING- edit section - ('2218', '5')
+23-07-2022, 17:58:36	WARNING- list - []
+23-07-2022, 17:58:36	INFO- 127.0.0.1 - - [23/Jul/2022 17:58:36] "POST /edit/('2218',%20'5') HTTP/1.1" 200 -
+23-07-2022, 17:58:36	INFO- 127.0.0.1 - - [23/Jul/2022 17:58:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:00:41	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 18:00:44	WARNING- Open invoice page!
+23-07-2022, 18:00:44	INFO- 127.0.0.1 - - [23/Jul/2022 18:00:44] "GET / HTTP/1.1" 200 -
+23-07-2022, 18:00:45	INFO- 127.0.0.1 - - [23/Jul/2022 18:00:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:00:56	WARNING- Got values from the user - [('2215', '3')]
+23-07-2022, 18:00:56	INFO- 127.0.0.1 - - [23/Jul/2022 18:00:56] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:00:56	INFO- 127.0.0.1 - - [23/Jul/2022 18:00:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:00:58	WARNING- delete section - ('2215', '3')
+23-07-2022, 18:00:58	WARNING- list - [('2215', '3')]
+23-07-2022, 18:00:58	INFO- 127.0.0.1 - - [23/Jul/2022 18:00:58] "POST /delete/('2215',%20'3') HTTP/1.1" 200 -
+23-07-2022, 18:00:58	INFO- 127.0.0.1 - - [23/Jul/2022 18:00:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:04	WARNING- Got values from the user - [('2216', '3')]
+23-07-2022, 18:01:04	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:04] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:01:04	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:08	WARNING- Got values from the user - [('2216', '3'), ('2248', '6')]
+23-07-2022, 18:01:08	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:08] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:01:08	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:14	WARNING- Got values from the user - [('2216', '3'), ('2248', '6'), ('2222', '4')]
+23-07-2022, 18:01:14	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:14] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:01:14	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:16	WARNING- edit section - ('2222', '4')
+23-07-2022, 18:01:16	WARNING- list - [('2216', '3'), ('2248', '6')]
+23-07-2022, 18:01:16	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:16] "POST /edit/('2222',%20'4') HTTP/1.1" 200 -
+23-07-2022, 18:01:16	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:22	WARNING- delete section - ('2248', '6')
+23-07-2022, 18:01:22	WARNING- list - [('2216', '3'), ('2248', '6')]
+23-07-2022, 18:01:22	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:22] "POST /delete/('2248',%20'6') HTTP/1.1" 200 -
+23-07-2022, 18:01:22	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:25	WARNING- submit section!
+23-07-2022, 18:01:25	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:25] "[35m[1mPOST /submit HTTP/1.1[0m" 500 -
+23-07-2022, 18:01:25	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:25] "[36mGET /submit?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:25	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:25] "[36mGET /submit?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+23-07-2022, 18:01:25	INFO- 127.0.0.1 - - [23/Jul/2022 18:01:25] "[36mGET /submit?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 18:02:39	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+23-07-2022, 18:02:43	WARNING- Open invoice page!
+23-07-2022, 18:02:43	INFO- 127.0.0.1 - - [23/Jul/2022 18:02:43] "GET / HTTP/1.1" 200 -
+23-07-2022, 18:02:43	INFO- 127.0.0.1 - - [23/Jul/2022 18:02:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:02:54	WARNING- Got values from the user - [('2215', '3')]
+23-07-2022, 18:02:54	INFO- 127.0.0.1 - - [23/Jul/2022 18:02:54] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:02:54	INFO- 127.0.0.1 - - [23/Jul/2022 18:02:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:02:58	WARNING- Got values from the user - [('2215', '3'), ('2246', '3')]
+23-07-2022, 18:02:58	INFO- 127.0.0.1 - - [23/Jul/2022 18:02:58] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:02:58	INFO- 127.0.0.1 - - [23/Jul/2022 18:02:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:03:02	WARNING- Got values from the user - [('2215', '3'), ('2246', '3'), ('2210', '1')]
+23-07-2022, 18:03:02	INFO- 127.0.0.1 - - [23/Jul/2022 18:03:02] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:03:02	INFO- 127.0.0.1 - - [23/Jul/2022 18:03:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:03:04	WARNING- delete section - ('2215', '3')
+23-07-2022, 18:03:04	WARNING- list - [('2215', '3'), ('2246', '3'), ('2210', '1')]
+23-07-2022, 18:03:04	INFO- 127.0.0.1 - - [23/Jul/2022 18:03:04] "POST /delete/('2215',%20'3') HTTP/1.1" 200 -
+23-07-2022, 18:03:04	INFO- 127.0.0.1 - - [23/Jul/2022 18:03:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:03:06	WARNING- edit section - ('2246', '3')
+23-07-2022, 18:03:06	WARNING- list - [('2210', '1')]
+23-07-2022, 18:03:06	INFO- 127.0.0.1 - - [23/Jul/2022 18:03:06] "POST /edit/('2246',%20'3') HTTP/1.1" 200 -
+23-07-2022, 18:03:06	INFO- 127.0.0.1 - - [23/Jul/2022 18:03:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:18:09	WARNING- edit section - ('2246', '3')
+23-07-2022, 18:18:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:18:09] "[35m[1mPOST /edit/('2246',%20'3') HTTP/1.1[0m" 500 -
+23-07-2022, 18:18:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:18:09] "GET /edit/('2246',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 18:18:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:18:09] "GET /edit/('2246',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 18:18:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:18:09] "GET /edit/('2246',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+23-07-2022, 18:18:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:18:09] "[36mGET /edit/('2246',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 18:19:12	WARNING- delete section - ('2215', '3')
+23-07-2022, 18:19:12	WARNING- list - [('2210', '1')]
+23-07-2022, 18:19:12	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:12] "[35m[1mPOST /delete/('2215',%20'3') HTTP/1.1[0m" 500 -
+23-07-2022, 18:19:12	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:12] "GET /delete/('2215',%20'3')?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+23-07-2022, 18:19:12	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:12] "GET /delete/('2215',%20'3')?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+23-07-2022, 18:19:12	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:12] "GET /delete/('2215',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+23-07-2022, 18:19:12	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:12] "[36mGET /delete/('2215',%20'3')?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+23-07-2022, 18:19:17	WARNING- Open invoice page!
+23-07-2022, 18:19:17	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:17] "GET / HTTP/1.1" 200 -
+23-07-2022, 18:19:17	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:19:46	WARNING- Open invoice page!
+23-07-2022, 18:19:46	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:46] "GET / HTTP/1.1" 200 -
+23-07-2022, 18:19:46	INFO- 127.0.0.1 - - [23/Jul/2022 18:19:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:20:09	WARNING- Got values from the user - [('2215', 'yo')]
+23-07-2022, 18:20:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:20:09] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:20:09	INFO- 127.0.0.1 - - [23/Jul/2022 18:20:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:21:42	WARNING- Open invoice page!
+23-07-2022, 18:21:42	INFO- 127.0.0.1 - - [23/Jul/2022 18:21:42] "GET / HTTP/1.1" 200 -
+23-07-2022, 18:21:42	INFO- 127.0.0.1 - - [23/Jul/2022 18:21:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:22:02	WARNING- Got values from the user - []
+23-07-2022, 18:22:02	INFO- 127.0.0.1 - - [23/Jul/2022 18:22:02] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:22:03	INFO- 127.0.0.1 - - [23/Jul/2022 18:22:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:22:10	WARNING- Got values from the user - [('2256', 'we')]
+23-07-2022, 18:22:10	INFO- 127.0.0.1 - - [23/Jul/2022 18:22:10] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:22:10	INFO- 127.0.0.1 - - [23/Jul/2022 18:22:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:24:20	WARNING- Open invoice page!
+23-07-2022, 18:24:20	INFO- 127.0.0.1 - - [23/Jul/2022 18:24:20] "GET / HTTP/1.1" 200 -
+23-07-2022, 18:24:20	INFO- 127.0.0.1 - - [23/Jul/2022 18:24:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:24:44	WARNING- Got values from the user - [('2215', '2')]
+23-07-2022, 18:24:44	INFO- 127.0.0.1 - - [23/Jul/2022 18:24:44] "POST / HTTP/1.1" 200 -
+23-07-2022, 18:24:44	INFO- 127.0.0.1 - - [23/Jul/2022 18:24:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+23-07-2022, 18:24:47	WARNING- edit section - ('2215', '2')
+23-07-2022, 18:24:47	WARNING- list - []
+23-07-2022, 18:24:47	INFO- 127.0.0.1 - - [23/Jul/2022 18:24:47] "POST /edit/('2215',%20'2') HTTP/1.1" 200 -
+23-07-2022, 18:24:47	INFO- 127.0.0.1 - - [23/Jul/2022 18:24:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

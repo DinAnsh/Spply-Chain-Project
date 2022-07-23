@@ -23,7 +23,7 @@
                     <div class="input-box">
                         <span class="details">Product Category</span>
                         <select required="required" name="Category_Name">
-                            <option value="">{{ table_values[1] }}</option >
+                            <option disabled selected value="">{{ table_values[1] }}</option >
                             {% for category in categories %}
                                 <option>{{ category }}</option>
                             {% endfor %}
@@ -32,7 +32,7 @@
                     <div class="input-box">
                         <span class="details">Product Name</span>
                         <select required="required" name="Product_Name">
-                            <option value="">{{ table_values[2] }}</option >
+                            <option disabled selected value="">{{ table_values[2] }}</option >
                             {% for product in products %}
                                 <option>{{ product }}</option>
                             {% endfor %}
@@ -49,7 +49,7 @@
                     <div class="input-box">
                         <span class="details">Status</span>
                         <select required="required" name="Ord_Status">
-                            <option value="">{{ table_values[5] }}</option >
+                            <option disabled selected value="">{{ table_values[5] }}</option >
                             <option value="O">OPEN</option>
                             <option value="C">CLOSE</option>
                         </select>
@@ -119,6 +119,7 @@
                         <th>Quantity</th>
                         <th>Rate</th>
                         <th>Status</th>
+                        <th>Modify</th>
                     </tr>
                     <tr id="order_values">
                         
@@ -127,10 +128,12 @@
                         <td>{{ value }}</td>
                         {% endfor %}
                         <td>
-                            <input formaction="/edit/{{ table_values }}" formmethod="post" type="submit" value="Edit">
-                            </input><br></br>
-                            <input formaction="/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
-                            </input>    
+                            <div class="box-button">
+                                <input formaction="/edit/{{ table_values }}" formmethod="post" type="submit" value="Edit">
+                                </input><br></br>
+                                <input formaction="/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
+                                </input>
+                            </div>
                         </td>
                     </tr>
                 </table>

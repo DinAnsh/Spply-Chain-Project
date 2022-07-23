@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template, redirect, url_for
-from werkzeug.datastructures import MultiDict
 from datetime import date
 import db, log
 
