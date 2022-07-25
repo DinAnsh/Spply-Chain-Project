@@ -7,7 +7,7 @@ submitted = None
 editted = False
 
 @app.route('/', methods=['GET','POST'])
-def home_page():
+def order():
     global submitted, editted
     cur, con = db.get_db()
     product_data = cur.execute("select Product_Name from Mproduct").fetchall()
@@ -23,8 +23,8 @@ def home_page():
     if request.method=='GET':
         submitted = False
         editted = False
-        log.put_log(2, "Open Home page")
-        return render_template('home.html', editted=editted, submitted=submitted, products=products, categories=categories, Ord_Id=Ord_Id)
+        log.put_log(2, "Open Order page")
+        return render_template('order.html', editted=editted, submitted=submitted, products=products, categories=categories, Ord_Id=Ord_Id)
     
     else:
         
@@ -73,7 +73,7 @@ def home_page():
         db.close_db(con)
         log.put_log(2, "database is closed!")
         
-        return render_template('home.html',editted=editted, products=products, categories=categories, table_values=table_values, submitted=submitted, Ord_Id=Ord_Id)
+        return render_template('order.html',editted=editted, products=products, categories=categories, table_values=table_values, submitted=submitted, Ord_Id=Ord_Id)
 
 
 @app.route('/edit/<table_values>', methods=['POST'])
@@ -102,7 +102,7 @@ def edit(table_values):
         return f"There is an ERROR - {table_values}"
 
     
-    return render_template('home.html', categories=categories, products=products, submitted=submitted, editted=editted, table_values=table_values)
+    return render_template('order.html', categories=categories, products=products, submitted=submitted, editted=editted, table_values=table_values)
 
 
 @app.route('/delete/<string:record_id>', methods=['POST'])

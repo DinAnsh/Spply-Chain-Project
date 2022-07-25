@@ -59,26 +59,26 @@
                 </div>
                 
                 {% if not submitted %}
-                    <div class="the_two">
-                        {% if not eddited %}
-                            <div class="box">
-                                <input type="text" class="text" placeholder="Order ID" name="Ord_Id" pattern="[0-9]{4}" title="Order ID must be a four-digit number" autocomplete="off">
-                            </div>
-                            <div class="box">
-                                <input type="text" class="text" placeholder="Quantity" name="Invoice_Qty" pattern="[0-9]" title="Quantity must be numeric!" autocomplete="off">
-                            </div>
-                        {% else %}
-                            <div class="box">
-                                <input type="text" class="text" value="twos[0]" name="Ord_Id" pattern="[0-9]{4}" title="Order ID must be a four-digit number" required autocomplete="off">
-                            </div>
-                            <div class="box">
-                                <input type="text" class="text" value="twos[1]" name="Invoice_Qty" pattern="[0-9]" title="Quantity must be numeric!" required autocomplete="off">
-                            </div>
-                        {% endif %}
-                        <div class="box-button">
-                            <input formaction="/" formmethod="post" type="submit" value="Add">
+                <div class="the_two">
+                    {% if not editted %}
+                        <div class="box">
+                            <input type="text" class="text" placeholder="Order ID" name="Ord_Id" pattern="[0-9]{4}" title="Order ID must be a four-digit number" autocomplete="off">
                         </div>
+                        <div class="box">
+                            <input type="text" class="text" placeholder="Quantity" name="Invoice_Qty" pattern="[0-9]" title="Quantity must be numeric!" autocomplete="off">
+                        </div>
+                    {% else %}
+                        <div class="box">
+                            <input type="text" class="text" value="{{ twos[0] }}" name="Ord_Id" pattern="[0-9]{4}" title="Order ID must be a four-digit number" required autocomplete="off">
+                        </div>
+                        <div class="box">
+                            <input type="text" class="text" value="{{ twos[1] }}" name="Invoice_Qty" pattern="[0-9]" title="Quantity must be numeric!" required autocomplete="off">
+                        </div>
+                    {% endif %}
+                    <div class="box-button">
+                        <input formaction="/" formmethod="post" type="submit" value="Add">
                     </div>
+                </div>
                 {% endif %}
 
                 {% if ord_list|length > 0 %}
