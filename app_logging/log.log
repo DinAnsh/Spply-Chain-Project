@@ -396,3 +396,145 @@
 25-07-2022, 22:12:29	INFO- 127.0.0.1 - - [25/Jul/2022 22:12:29] "POST /submit HTTP/1.1" 200 -
 25-07-2022, 22:12:29	INFO- 127.0.0.1 - - [25/Jul/2022 22:12:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
 25-07-2022, 22:25:36	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 22:33:08	WARNING- Open invoice page!
+25-07-2022, 22:33:08	INFO- 127.0.0.1 - - [25/Jul/2022 22:33:08] "GET / HTTP/1.1" 200 -
+25-07-2022, 22:33:09	INFO- 127.0.0.1 - - [25/Jul/2022 22:33:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:33:20	WARNING- POST
+25-07-2022, 22:33:20	WARNING- Got values from the user - [('2246', '2')]
+25-07-2022, 22:33:20	INFO- 127.0.0.1 - - [25/Jul/2022 22:33:20] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:33:20	INFO- 127.0.0.1 - - [25/Jul/2022 22:33:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:33:22	WARNING- submit section!
+25-07-2022, 22:33:22	WARNING- form_val - ['2022-07-28', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:33:22	WARNING- ord_list - [('2246', '2')]
+25-07-2022, 22:33:22	WARNING- try block...
+25-07-2022, 22:33:22	WARNING- form - ['22000004', '2022-07-28', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:33:22	INFO- 127.0.0.1 - - [25/Jul/2022 22:33:22] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 22:33:22	INFO- 127.0.0.1 - - [25/Jul/2022 22:33:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:34:24	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 22:39:44	WARNING- Open invoice page!
+25-07-2022, 22:39:44	INFO- 127.0.0.1 - - [25/Jul/2022 22:39:44] "GET / HTTP/1.1" 200 -
+25-07-2022, 22:39:44	INFO- 127.0.0.1 - - [25/Jul/2022 22:39:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:39:55	WARNING- POST
+25-07-2022, 22:39:55	WARNING- Got values from the user - [('2266', '2')]
+25-07-2022, 22:39:55	INFO- 127.0.0.1 - - [25/Jul/2022 22:39:55] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:39:55	INFO- 127.0.0.1 - - [25/Jul/2022 22:39:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:39:59	WARNING- POST
+25-07-2022, 22:39:59	WARNING- Got values from the user - [('2266', '2'), ('2245', '3')]
+25-07-2022, 22:39:59	INFO- 127.0.0.1 - - [25/Jul/2022 22:39:59] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:39:59	INFO- 127.0.0.1 - - [25/Jul/2022 22:39:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:40:07	WARNING- POST
+25-07-2022, 22:40:07	WARNING- Got values from the user - [('2266', '2'), ('2245', '3'), ('2263', '1')]
+25-07-2022, 22:40:07	INFO- 127.0.0.1 - - [25/Jul/2022 22:40:07] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:40:07	INFO- 127.0.0.1 - - [25/Jul/2022 22:40:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:40:09	WARNING- submit section!
+25-07-2022, 22:40:09	WARNING- form_val - ['2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:40:09	WARNING- ord_list - [('2266', '2'), ('2245', '3'), ('2263', '1')]
+25-07-2022, 22:40:09	WARNING- try block...
+25-07-2022, 22:40:10	WARNING- some error in the query exec - unsupported operand type(s) for +=: 'int' and 'list'
+25-07-2022, 22:40:10	WARNING- form - ['22000004', '2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:40:10	INFO- 127.0.0.1 - - [25/Jul/2022 22:40:10] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 22:40:10	INFO- 127.0.0.1 - - [25/Jul/2022 22:40:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:47:27	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 22:47:55	WARNING- Open invoice page!
+25-07-2022, 22:47:55	INFO- 127.0.0.1 - - [25/Jul/2022 22:47:55] "GET / HTTP/1.1" 200 -
+25-07-2022, 22:47:55	INFO- 127.0.0.1 - - [25/Jul/2022 22:47:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:48:17	WARNING- POST
+25-07-2022, 22:48:18	WARNING- Got values from the user - [('2263', '1')]
+25-07-2022, 22:48:18	INFO- 127.0.0.1 - - [25/Jul/2022 22:48:18] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:48:18	INFO- 127.0.0.1 - - [25/Jul/2022 22:48:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:48:22	WARNING- POST
+25-07-2022, 22:48:22	WARNING- Got values from the user - [('2263', '1'), ('2266', '3')]
+25-07-2022, 22:48:22	INFO- 127.0.0.1 - - [25/Jul/2022 22:48:22] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:48:22	INFO- 127.0.0.1 - - [25/Jul/2022 22:48:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:48:25	WARNING- submit section!
+25-07-2022, 22:48:25	WARNING- form_val - ['2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:48:25	WARNING- ord_list - [('2263', '1'), ('2266', '3')]
+25-07-2022, 22:48:25	WARNING- try block...
+25-07-2022, 22:48:25	WARNING- some error in the query exec - unsupported operand type(s) for +=: 'int' and 'list'
+25-07-2022, 22:48:25	WARNING- form - ['22000004', '2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:48:25	INFO- 127.0.0.1 - - [25/Jul/2022 22:48:25] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 22:48:25	INFO- 127.0.0.1 - - [25/Jul/2022 22:48:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:49:50	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 22:51:35	WARNING- Open invoice page!
+25-07-2022, 22:51:35	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:35] "GET / HTTP/1.1" 200 -
+25-07-2022, 22:51:35	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:51:44	WARNING- POST
+25-07-2022, 22:51:44	WARNING- Got values from the user - [('2263', '2')]
+25-07-2022, 22:51:44	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:44] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:51:44	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:51:50	WARNING- POST
+25-07-2022, 22:51:50	WARNING- Got values from the user - [('2263', '2'), ('2266', '1')]
+25-07-2022, 22:51:50	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:50] "POST / HTTP/1.1" 200 -
+25-07-2022, 22:51:50	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:51:53	WARNING- submit section!
+25-07-2022, 22:51:53	WARNING- form_val - ['2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 22:51:53	WARNING- ord_list - [('2263', '2'), ('2266', '1')]
+25-07-2022, 22:51:53	WARNING- try block...
+25-07-2022, 22:51:53	WARNING- database is saved!
+25-07-2022, 22:51:53	WARNING- database is closed!
+25-07-2022, 22:51:53	WARNING- Amounts - [Decimal('79.92'), Decimal('12.24')] [Decimal('523.92'), Decimal('80.24')]
+25-07-2022, 22:51:53	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:53] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 22:51:53	INFO- 127.0.0.1 - - [25/Jul/2022 22:51:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 22:55:35	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 23:00:29	WARNING- Open invoice page!
+25-07-2022, 23:00:29	INFO- 127.0.0.1 - - [25/Jul/2022 23:00:29] "GET / HTTP/1.1" 200 -
+25-07-2022, 23:00:29	INFO- 127.0.0.1 - - [25/Jul/2022 23:00:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:00:42	WARNING- POST
+25-07-2022, 23:00:42	WARNING- Got values from the user - [('2267', '2')]
+25-07-2022, 23:00:42	INFO- 127.0.0.1 - - [25/Jul/2022 23:00:42] "POST / HTTP/1.1" 200 -
+25-07-2022, 23:00:42	INFO- 127.0.0.1 - - [25/Jul/2022 23:00:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:00:44	WARNING- submit section!
+25-07-2022, 23:00:44	WARNING- form_val - ['2022-07-28', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 23:00:44	WARNING- ord_list - [('2267', '2')]
+25-07-2022, 23:00:44	WARNING- some error in the query exec - can only concatenate str (not "int") to str
+25-07-2022, 23:00:44	WARNING- Amounts - [Decimal('244.08')] [Decimal('1600.08')]
+25-07-2022, 23:00:44	INFO- 127.0.0.1 - - [25/Jul/2022 23:00:44] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 23:00:44	INFO- 127.0.0.1 - - [25/Jul/2022 23:00:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:03:13	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 23:03:26	WARNING- Open invoice page!
+25-07-2022, 23:03:26	INFO- 127.0.0.1 - - [25/Jul/2022 23:03:26] "GET / HTTP/1.1" 200 -
+25-07-2022, 23:03:26	INFO- 127.0.0.1 - - [25/Jul/2022 23:03:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:04:09	WARNING- POST
+25-07-2022, 23:04:09	WARNING- Got values from the user - [('2270', '1')]
+25-07-2022, 23:04:09	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:09] "POST / HTTP/1.1" 200 -
+25-07-2022, 23:04:09	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:04:16	WARNING- POST
+25-07-2022, 23:04:16	WARNING- Got values from the user - [('2270', '1'), ('2253', '3')]
+25-07-2022, 23:04:16	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:16] "POST / HTTP/1.1" 200 -
+25-07-2022, 23:04:16	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:04:21	WARNING- edit section - ('2253', '3')
+25-07-2022, 23:04:21	WARNING- want to edit - ('2253', '3')
+25-07-2022, 23:04:21	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:21] "POST /edit/('2253',%20'3') HTTP/1.1" 200 -
+25-07-2022, 23:04:21	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:04:24	WARNING- POST
+25-07-2022, 23:04:24	WARNING- Got values from the user - [('2270', '1'), ('2253', '2')]
+25-07-2022, 23:04:24	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:24] "POST / HTTP/1.1" 200 -
+25-07-2022, 23:04:24	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:04:26	WARNING- submit section!
+25-07-2022, 23:04:26	WARNING- form_val - ['2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 23:04:26	WARNING- ord_list - [('2270', '1'), ('2253', '2')]
+25-07-2022, 23:04:26	WARNING- some error in the query exec - float() argument must be a string or a number, not 'NoneType'
+25-07-2022, 23:04:26	WARNING- Amounts - [] []
+25-07-2022, 23:04:26	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:26] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 23:04:26	INFO- 127.0.0.1 - - [25/Jul/2022 23:04:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:05:36	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\invoice_script.py', reloading
+25-07-2022, 23:05:52	WARNING- Open invoice page!
+25-07-2022, 23:05:52	INFO- 127.0.0.1 - - [25/Jul/2022 23:05:52] "GET / HTTP/1.1" 200 -
+25-07-2022, 23:05:52	INFO- 127.0.0.1 - - [25/Jul/2022 23:05:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:06:05	WARNING- POST
+25-07-2022, 23:06:05	WARNING- Got values from the user - [('2215', '1')]
+25-07-2022, 23:06:05	INFO- 127.0.0.1 - - [25/Jul/2022 23:06:05] "POST / HTTP/1.1" 200 -
+25-07-2022, 23:06:05	INFO- 127.0.0.1 - - [25/Jul/2022 23:06:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:06:09	WARNING- POST
+25-07-2022, 23:06:09	WARNING- Got values from the user - [('2215', '1'), ('2245', '2')]
+25-07-2022, 23:06:09	INFO- 127.0.0.1 - - [25/Jul/2022 23:06:09] "POST / HTTP/1.1" 200 -
+25-07-2022, 23:06:09	INFO- 127.0.0.1 - - [25/Jul/2022 23:06:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+25-07-2022, 23:06:11	WARNING- submit section!
+25-07-2022, 23:06:11	WARNING- form_val - ['2022-07-27', 'C10701', 'M/S Diya Goyal', '2022-07-27', 'C10701', 'M/S Diya Goyal']
+25-07-2022, 23:06:11	WARNING- ord_list - [('2215', '1'), ('2245', '2')]
+25-07-2022, 23:06:11	WARNING- ........!
+25-07-2022, 23:06:11	WARNING- database is saved!
+25-07-2022, 23:06:11	WARNING- database is closed!
+25-07-2022, 23:06:11	WARNING- Amounts - [Decimal('17.82'), Decimal('1644.12')] [Decimal('116.82'), Decimal('10778.12')]
+25-07-2022, 23:06:11	INFO- 127.0.0.1 - - [25/Jul/2022 23:06:11] "POST /submit HTTP/1.1" 200 -
+25-07-2022, 23:06:11	INFO- 127.0.0.1 - - [25/Jul/2022 23:06:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -

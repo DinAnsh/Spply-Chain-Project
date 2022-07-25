@@ -91,6 +91,7 @@
                             {% if not submitted %}
                                 <th>Modify</th>
                             {% else %}
+                                <th>GST Amount</th>
                                 <th>Net Amount</th>
                             {% endif %}
                         </tr>
@@ -99,24 +100,25 @@
                                 <td>{{ no+1 }}</td>
                                 <td>{{ values[0] }}</td>
                                 <td>{{ values[1] }}</td>
+                                {% if not submitted %}
                                 <td>
-                                    {% if not submitted %}
-                                        <div class="box-button">
-                                            <input formaction="/edit/{{ values }}" formmethod="post" type="submit" value="Edit">
-                                            </input><br></br>
-                                            <input formaction="/delete/{{ values }}" formmethod="post" type="submit" value="Delete">
-                                            </input> 
-                                        </div>
-                                    {% else %}
-                                        {{ Net_Amount }}
-                                    {% endif %}
+                                    <div class="box-button">
+                                        <input formaction="/edit/{{ values }}" formmethod="post" type="submit" value="Edit">
+                                        </input><br></br>
+                                        <input formaction="/delete/{{ values }}" formmethod="post" type="submit" value="Delete">
+                                        </input> 
+                                    </div>
                                 </td>
+                                {% else %}
+                                    <td>{{ Tax_Amount[no] }}</td>
+                                    <td>{{ Net_Amount[no] }}</td>
+                                {% endif %}
                             </tr>
                         {% endfor %}
                         {% if submitted %}
                             <tr>
-                                <td colspan="3">Total</td>
-                                <td colspan="1">{{ Net_Amount }}</td>
+                                <th colspan="4">Invoice Amount</th>
+                                <td colspan="1">{{ total }}</td>
                             </tr>
                         {% endif %}
                     </table>

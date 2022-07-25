@@ -84,11 +84,13 @@ def submit():
     log.put_log(2, f'ord_list - {ord_list}')
     cur, con = db.get_db()
     
+    Tax_Amount = []
+    Net_Amount = []
+
     Invoice_No = cur.execute("select Serial from Mnum where Tname='Tinvoice'").fetchval()
     form_val.insert(0, Invoice_No)
     
     try:
-        log.put_log(2, 'try block...')
         for values in ord_list:
             ProductQty = cur.execute("select ProductQty from Morder where Ord_Id=(?)",values[0]).fetchval()
             ProductQty = float(ProductQty)
@@ -97,7 +99,11 @@ def submit():
             if int(values[1]) <= max_qty:
                 cur.execute("exec create_invoice ?,?,?,?,?",values[0], form_val[-2], Invoice_No, form_val[-3], int(values[1]))
         
-        cur.execute("update Mnum set Serial = Serial + 1 where Tname = 'Tinvoice'")
+        for values in ord_list:
+            Tax_Amount += [cur.execute("select Tax_Amount from Tinvoice where Ord_Id=?",values[0]).fetchval()]
+            Net_Amount += [cur.execute("select Net_Amount from Tinvoice where Ord_Id=?",values[0]).fetchval()]
+        log.put_log(2, '........!')
+        cur.execute("update Mnum set Serial = ? where Tname = 'Tinvoice'",int(Invoice_No)+1)
         db.save_db(con)
         log.put_log(2, "database is saved!")
         db.close_db(con)
@@ -106,8 +112,8 @@ def submit():
     except Exception as e:
         log.put_log(2, f'some error in the query exec - {e}')
 
-    log.put_log(2, f'form - {form_val}')
-    return render_template('invoice.html', zip=zip, submitted=submitted, editted=editted, form_val=form_val, ord_list=ord_list)
+    log.put_log(2, f'Amounts - {Tax_Amount} {Net_Amount}')
+    return render_template('invoice.html', zip=zip, submitted=submitted, editted=editted, form_val=form_val, ord_list=ord_list, Tax_Amount=Tax_Amount, Net_Amount=Net_Amount, total=sum(Net_Amount))
 
 
 if __name__ == "__main__":
