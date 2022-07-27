@@ -1,9 +1,151 @@
+{% extends 'base.html' %}
+
+{% block order %}
+<div class="container">
+    <div class="title">Create Order</div>
+    <form  action="/order" method="post">
+        <div class="order-details">
+            {% if oeditted and not osubmitted%}
+
+                <div class="input-box">
+                    <span class="details">Order ID</span>
+                    <input type="text" value="{{ table_values[0] }}" name="Ord_Id" readonly>
+                </div>
+                <div class="input-box">
+                    <span class="details">Product Category</span>
+                    <select required="required" name="Category_Name">
+                        <option disabled selected value="">{{ table_values[1] }}</option >
+                        {% for category in categories %}
+                            <option>{{ category }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="input-box">
+                    <span class="details">Product Name</span>
+                    <select required="required" name="Product_Name">
+                        <option disabled selected value="">{{ table_values[2] }}</option >
+                        {% for product in products %}
+                            <option>{{ product }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="input-box">
+                    <span class="details">Quantity</span>
+                    <input type="text" value="{{ table_values[3] }}" autocomplete="off" required="required" placeholder="Quantity" name="ProductQty">
+                </div>
+                <div class="input-box">
+                    <span class="details">Rate</span>
+                    <input type="text" value="{{ table_values[4] }}" required="required" placeholder="Rate" autocomplete="off" name="ProductRate">
+                </div>
+                <div class="input-box">
+                    <span class="details">Status</span>
+                    <select required="required" name="Ord_Status">
+                        <option disabled selected value="">{{ table_values[5] }}</option >
+                        <option value="O">OPEN</option>
+                        <option value="C">CLOSE</option>
+                    </select>
+                </div>
+
+            {% else %}
+
+                <div class="input-box">
+                    <span class="details">Order ID</span>
+                    {% if osubmitted %}
+                        {% set Id = Ord_Id + 1 %}
+                    {% elif (not osubmitted or oeditted) %}
+                        {% set Id = Ord_Id %}
+                    {% endif %}
+                    <input type="text" value="{{ Id }}" name="Ord_Id" readonly>
+                </div>
+                <div class="input-box">
+                    <span class="details">Product Category</span>
+                    <select required="required" name="Category_Name">
+                        <option disabled selected value="">Select an option</option >
+                        {% for category in categories %}
+                            <option>{{ category }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="input-box">
+                    <span class="details">Product Name</span>
+                    <select required="required" name="Product_Name">
+                        <option disabled selected value="">Select an option</option >
+                        {% for product in products %}
+                            <option>{{ product }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div class="input-box">
+                    <span class="details">Quantity</span>
+                    <input type="text" autocomplete="off" required="required" placeholder="Quantity" name="ProductQty">
+                </div>
+                <div class="input-box">
+                    <span class="details">Rate</span>
+                    <input type="text" required="required" placeholder="Rate" autocomplete="off" name="ProductRate">
+                </div>
+                <div class="input-box">
+                    <span class="details">Status</span>
+                    <select required="required" name="Ord_Status">
+                        <option disabled selected value="">Select an option</option >
+                        <option value="O">OPEN</option>
+                        <option value="C">CLOSE</option>
+                    </select>
+                </div>
+            {% endif %}
+        </div>
+        <div class="button">
+            <input type="submit" value="Submit">           
+        </div>
+    </form>
+
+    {% if osubmitted %}
+    <form>
+        <div class="order-list">
+            <table class="myTable">
+                <colgroup span="8"></colgroup>
+                <tr>
+                    <th>Order ID</th>
+                    <th>Product Category</th>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Rate</th>
+                    <th>Status</th>
+                    <th>Modify</th>
+                </tr>
+                <tr id="order_values">
+                    
+                    <td id="Ord_Id">{{ Ord_Id }}</td>
+                    {% for value in table_values[1:] %}
+                    <td>{{ value }}</td>
+                    {% endfor %}
+                    <td>
+                        <div class="box-button">
+                            <input formaction="/order/edit/{{ table_values }}" formmethod="post" type="submit" value="Edit">
+                            </input><br></br>
+                            <input formaction="/order/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
+                            </input>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+    {% endif %}
+    
+</div>
+{% endblock %}
+
+
+
+
+
+<!--
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <title>
-        Html CRUD
+        Supply Chain System
     </title>
     <link rel="stylesheet" href="/static/styles.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,9 +154,9 @@
 <body>
     <div class="container">
         <div class="title">Create Order</div>
-        <form  action="/" method="post">
+        <form  action="/order" method="post">
             <div class="order-details">
-                {% if editted and not submitted%}
+                {% if oeditted and not osubmitted%}
 
                     <div class="input-box">
                         <span class="details">Order ID</span>
@@ -59,9 +201,9 @@
 
                     <div class="input-box">
                         <span class="details">Order ID</span>
-                        {% if submitted %}
+                        {% if osubmitted %}
                             {% set Id = Ord_Id + 1 %}
-                        {% elif (not submitted or editted) %}
+                        {% elif (not osubmitted or oeditted) %}
                             {% set Id = Ord_Id %}
                         {% endif %}
                         <input type="text" value="{{ Id }}" name="Ord_Id" readonly>
@@ -107,7 +249,7 @@
             </div>
         </form>
 
-        {% if submitted %}
+        {% if osubmitted %}
         <form>
             <div class="order-list">
                 <table class="myTable">
@@ -129,9 +271,9 @@
                         {% endfor %}
                         <td>
                             <div class="box-button">
-                                <input formaction="/edit/{{ table_values }}" formmethod="post" type="submit" value="Edit">
+                                <input formaction="/order/edit/{{ table_values }}" formmethod="post" type="submit" value="Edit">
                                 </input><br></br>
-                                <input formaction="/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
+                                <input formaction="/order/delete/{{ table_values[0] }}" formmethod="post" type="submit" value="Delete">
                                 </input>
                             </div>
                         </td>
@@ -146,3 +288,4 @@
 </body>
 
 </html>
+-->

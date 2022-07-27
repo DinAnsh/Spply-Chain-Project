@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block download %}
+
+<div class="container">
+    <div class="title">Download Invoice</div>
+    <form  action="/download_invoice" method="post">
+        <div class="order-details">
+            <div class="input-box">
+                <span class="details">Enter Invoice No:</span>
+                <input type="text" name="Invoice_No" placeholder="Invoice No">
+            </div>
+        </div>
+        <div class="button">
+            <input type="submit" value="Download">           
+        </div>
+    </form>
+</div>
+
+{% endblock %}
