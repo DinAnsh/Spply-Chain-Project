@@ -1608,3 +1608,15 @@
 20-08-2022, 15:33:47	WARNING- body printed!
 20-08-2022, 15:33:47	WARNING- database is closed!
 20-08-2022, 15:33:47	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:47] "POST /download_invoice HTTP/1.1" 200 -
+13-01-2023, 23:13:21	WARNING- home page!
+13-01-2023, 23:13:21	INFO- 127.0.0.1 - - [13/Jan/2023 23:13:21] "GET / HTTP/1.1" 200 -
+13-01-2023, 23:13:22	INFO- 127.0.0.1 - - [13/Jan/2023 23:13:22] "GET /static/styles.css HTTP/1.1" 200 -
+13-01-2023, 23:13:22	INFO- 127.0.0.1 - - [13/Jan/2023 23:13:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+13-01-2023, 23:13:28	WARNING- Order page!
+13-01-2023, 23:13:28	INFO- 127.0.0.1 - - [13/Jan/2023 23:13:28] "GET /order HTTP/1.1" 200 -
+13-01-2023, 23:13:28	INFO- 127.0.0.1 - - [13/Jan/2023 23:13:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+13-01-2023, 23:22:01	WARNING- Open invoice page!
+13-01-2023, 23:22:01	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:01] "GET /invoice HTTP/1.1" 200 -
+13-01-2023, 23:22:01	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+13-01-2023, 23:22:06	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:06] "GET /download HTTP/1.1" 200 -
+13-01-2023, 23:22:06	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
