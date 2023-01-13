@@ -1425,3 +1425,186 @@
 27-07-2022, 12:15:47	WARNING- home page!
 27-07-2022, 12:15:47	INFO- 127.0.0.1 - - [27/Jul/2022 12:15:47] "GET / HTTP/1.1" 200 -
 27-07-2022, 12:15:47	INFO- 127.0.0.1 - - [27/Jul/2022 12:15:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 11:46:35	WARNING- home page!
+28-07-2022, 11:46:36	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:36] "GET / HTTP/1.1" 200 -
+28-07-2022, 11:46:36	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 11:46:40	WARNING- Order page!
+28-07-2022, 11:46:40	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:40] "GET /order HTTP/1.1" 200 -
+28-07-2022, 11:46:40	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 11:46:52	WARNING- Open invoice page!
+28-07-2022, 11:46:53	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:53] "GET /invoice HTTP/1.1" 200 -
+28-07-2022, 11:46:53	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 11:46:57	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:57] "GET /download HTTP/1.1" 200 -
+28-07-2022, 11:46:57	INFO- 127.0.0.1 - - [28/Jul/2022 11:46:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 11:55:07	WARNING- Order page!
+28-07-2022, 11:55:07	INFO- 127.0.0.1 - - [28/Jul/2022 11:55:07] "GET /order HTTP/1.1" 200 -
+28-07-2022, 11:55:08	INFO- 127.0.0.1 - - [28/Jul/2022 11:55:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 11:56:00	INFO-  * Detected change in 'c:\\Users\\DinAnsh\\Supply_Chain_Project\\app.py', reloading
+28-07-2022, 23:31:29	WARNING- Order page!
+28-07-2022, 23:31:31	INFO- 127.0.0.1 - - [28/Jul/2022 23:31:31] "GET /order HTTP/1.1" 200 -
+28-07-2022, 23:31:31	INFO- 127.0.0.1 - - [28/Jul/2022 23:31:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 23:32:05	WARNING- submit: True & edit: False
+28-07-2022, 23:32:05	WARNING- Got order from the user.
+28-07-2022, 23:32:05	WARNING- data is inserted!
+28-07-2022, 23:32:05	WARNING- database is saved!
+28-07-2022, 23:32:05	WARNING- database is closed!
+28-07-2022, 23:32:05	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:05] "POST /order HTTP/1.1" 200 -
+28-07-2022, 23:32:05	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 23:32:15	WARNING- Edit section of order!
+28-07-2022, 23:32:15	WARNING- values got successfully ['2274', ' EQUIPMENT AND MACHINE', ' Land', ' 25', ' 120000', ' O']!!
+28-07-2022, 23:32:15	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:15] "POST /order/edit/['2274',%20'EQUIPMENT%20AND%20MACHINE',%20'Land',%20'25',%20'120000',%20'O'] HTTP/1.1" 200 -
+28-07-2022, 23:32:15	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 23:32:19	WARNING- Open invoice page!
+28-07-2022, 23:32:19	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:19] "GET /invoice HTTP/1.1" 200 -
+28-07-2022, 23:32:20	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+28-07-2022, 23:32:35	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:35] "GET /download HTTP/1.1" 200 -
+28-07-2022, 23:32:36	INFO- 127.0.0.1 - - [28/Jul/2022 23:32:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+29-07-2022, 12:02:04	WARNING- home page!
+29-07-2022, 12:02:05	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:05] "GET / HTTP/1.1" 200 -
+29-07-2022, 12:02:06	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+29-07-2022, 12:02:07	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+29-07-2022, 12:02:52	WARNING- Order page!
+29-07-2022, 12:02:52	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:52] "GET /order HTTP/1.1" 200 -
+29-07-2022, 12:02:52	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+29-07-2022, 12:02:58	WARNING- Open invoice page!
+29-07-2022, 12:02:59	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:59] "GET /invoice HTTP/1.1" 200 -
+29-07-2022, 12:02:59	INFO- 127.0.0.1 - - [29/Jul/2022 12:02:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+29-07-2022, 12:03:20	INFO- 127.0.0.1 - - [29/Jul/2022 12:03:20] "GET /download HTTP/1.1" 200 -
+29-07-2022, 12:03:21	INFO- 127.0.0.1 - - [29/Jul/2022 12:03:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:31:33	WARNING- home page!
+31-07-2022, 23:31:34	INFO- 127.0.0.1 - - [31/Jul/2022 23:31:34] "GET / HTTP/1.1" 200 -
+31-07-2022, 23:31:35	INFO- 127.0.0.1 - - [31/Jul/2022 23:31:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:31:58	WARNING- Order page!
+31-07-2022, 23:31:58	INFO- 127.0.0.1 - - [31/Jul/2022 23:31:58] "GET /order HTTP/1.1" 200 -
+31-07-2022, 23:31:58	INFO- 127.0.0.1 - - [31/Jul/2022 23:31:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:32:17	WARNING- submit: True & edit: False
+31-07-2022, 23:32:17	WARNING- Got order from the user.
+31-07-2022, 23:32:17	ERROR-  There is some error in nested try block!!
+31-07-2022, 23:32:17	INFO- 127.0.0.1 - - [31/Jul/2022 23:32:17] "POST /order HTTP/1.1" 200 -
+31-07-2022, 23:32:20	WARNING- Order page!
+31-07-2022, 23:32:20	INFO- 127.0.0.1 - - [31/Jul/2022 23:32:20] "GET /order HTTP/1.1" 200 -
+31-07-2022, 23:32:22	WARNING- Open invoice page!
+31-07-2022, 23:32:22	INFO- 127.0.0.1 - - [31/Jul/2022 23:32:22] "GET /invoice HTTP/1.1" 200 -
+31-07-2022, 23:32:22	INFO- 127.0.0.1 - - [31/Jul/2022 23:32:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:34:12	WARNING- Got values from the user - [('5643', '7')]
+31-07-2022, 23:34:12	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:12] "POST /invoice HTTP/1.1" 200 -
+31-07-2022, 23:34:12	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:34:29	WARNING- Submit section of invoice!
+31-07-2022, 23:34:29	WARNING- form_val - ['2022-07-20', 'C10701', 'M/S Diya Goyal']
+31-07-2022, 23:34:29	WARNING- ord_list - [('5643', '7')]
+31-07-2022, 23:34:30	WARNING- some error in the query exec - float() argument must be a string or a number, not 'NoneType'
+31-07-2022, 23:34:30	WARNING- Amounts - [] []
+31-07-2022, 23:34:30	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:30] "POST /invoice/submit HTTP/1.1" 200 -
+31-07-2022, 23:34:30	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:34:45	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:45] "GET /download HTTP/1.1" 200 -
+31-07-2022, 23:34:45	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:34:56	WARNING- Download invoice 22000016 section!!!
+31-07-2022, 23:34:56	WARNING- Query executed successfully! - M/S Diya Goyal
+31-07-2022, 23:34:56	WARNING- header printed!
+31-07-2022, 23:34:56	WARNING- body printed!
+31-07-2022, 23:34:56	WARNING- database is closed!
+31-07-2022, 23:34:56	INFO- 127.0.0.1 - - [31/Jul/2022 23:34:56] "POST /download_invoice HTTP/1.1" 200 -
+31-07-2022, 23:35:47	WARNING- Open invoice page!
+31-07-2022, 23:35:47	INFO- 127.0.0.1 - - [31/Jul/2022 23:35:47] "GET /invoice HTTP/1.1" 200 -
+31-07-2022, 23:35:47	INFO- 127.0.0.1 - - [31/Jul/2022 23:35:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:35:49	WARNING- Order page!
+31-07-2022, 23:35:49	INFO- 127.0.0.1 - - [31/Jul/2022 23:35:49] "GET /order HTTP/1.1" 200 -
+31-07-2022, 23:35:49	INFO- 127.0.0.1 - - [31/Jul/2022 23:35:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:05	WARNING- Open invoice page!
+31-07-2022, 23:36:05	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:05] "GET /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:06	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:28	WARNING- Got values from the user - []
+31-07-2022, 23:36:28	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:28] "POST /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:28	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:32	WARNING- Got values from the user - []
+31-07-2022, 23:36:32	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:32] "POST /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:32	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:32	WARNING- Got values from the user - []
+31-07-2022, 23:36:32	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:32] "POST /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:33	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:33	WARNING- Got values from the user - []
+31-07-2022, 23:36:33	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:33] "POST /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:33	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:33	WARNING- Got values from the user - []
+31-07-2022, 23:36:33	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:33] "POST /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:33	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:46	WARNING- Order page!
+31-07-2022, 23:36:46	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:46] "GET /order HTTP/1.1" 200 -
+31-07-2022, 23:36:46	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:48	WARNING- Open invoice page!
+31-07-2022, 23:36:48	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:48] "GET /invoice HTTP/1.1" 200 -
+31-07-2022, 23:36:48	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:36:50	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:50] "GET /download HTTP/1.1" 200 -
+31-07-2022, 23:36:50	INFO- 127.0.0.1 - - [31/Jul/2022 23:36:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:42:49	WARNING- Order page!
+31-07-2022, 23:42:49	INFO- 127.0.0.1 - - [31/Jul/2022 23:42:49] "GET /order HTTP/1.1" 200 -
+31-07-2022, 23:42:49	INFO- 127.0.0.1 - - [31/Jul/2022 23:42:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+31-07-2022, 23:43:05	WARNING- submit: True & edit: False
+31-07-2022, 23:43:05	WARNING- Got order from the user.
+31-07-2022, 23:43:05	WARNING- data is inserted!
+31-07-2022, 23:43:05	WARNING- database is saved!
+31-07-2022, 23:43:05	WARNING- database is closed!
+31-07-2022, 23:43:05	INFO- 127.0.0.1 - - [31/Jul/2022 23:43:05] "POST /order HTTP/1.1" 200 -
+31-07-2022, 23:43:05	INFO- 127.0.0.1 - - [31/Jul/2022 23:43:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:29:43	WARNING- home page!
+20-08-2022, 15:29:44	INFO- 127.0.0.1 - - [20/Aug/2022 15:29:44] "GET / HTTP/1.1" 200 -
+20-08-2022, 15:29:45	INFO- 127.0.0.1 - - [20/Aug/2022 15:29:45] "GET /static/styles.css HTTP/1.1" 200 -
+20-08-2022, 15:29:51	INFO- 127.0.0.1 - - [20/Aug/2022 15:29:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+20-08-2022, 15:30:04	WARNING- Order page!
+20-08-2022, 15:30:04	INFO- 127.0.0.1 - - [20/Aug/2022 15:30:04] "GET /order HTTP/1.1" 200 -
+20-08-2022, 15:30:04	INFO- 127.0.0.1 - - [20/Aug/2022 15:30:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:30:32	WARNING- submit: True & edit: False
+20-08-2022, 15:30:32	WARNING- Got order from the user.
+20-08-2022, 15:30:32	WARNING- data is inserted!
+20-08-2022, 15:30:32	WARNING- database is saved!
+20-08-2022, 15:30:32	WARNING- database is closed!
+20-08-2022, 15:30:32	INFO- 127.0.0.1 - - [20/Aug/2022 15:30:32] "POST /order HTTP/1.1" 200 -
+20-08-2022, 15:30:32	INFO- 127.0.0.1 - - [20/Aug/2022 15:30:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:30:48	WARNING- Edit section of order!
+20-08-2022, 15:30:48	WARNING- values got successfully ['2276', ' EQUIPMENT AND MACHINE', ' Handles', ' 123', ' 25000', ' O']!!
+20-08-2022, 15:30:48	INFO- 127.0.0.1 - - [20/Aug/2022 15:30:48] "POST /order/edit/['2276',%20'EQUIPMENT%20AND%20MACHINE',%20'Handles',%20'123',%20'25000',%20'O'] HTTP/1.1" 200 -
+20-08-2022, 15:30:48	INFO- 127.0.0.1 - - [20/Aug/2022 15:30:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:31:04	WARNING- submit: True & edit: True
+20-08-2022, 15:31:04	WARNING- Got order from the user.
+20-08-2022, 15:31:04	WARNING- database is updated!
+20-08-2022, 15:31:04	WARNING- database is saved!
+20-08-2022, 15:31:04	WARNING- database is closed!
+20-08-2022, 15:31:04	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:04] "POST /order HTTP/1.1" 200 -
+20-08-2022, 15:31:04	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:31:12	WARNING- Delete section of order!
+20-08-2022, 15:31:12	WARNING- 2276 data is deleted!
+20-08-2022, 15:31:12	WARNING- database is saved!
+20-08-2022, 15:31:12	WARNING- database is closed!
+20-08-2022, 15:31:12	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:12] "[32mPOST /order/delete/2276 HTTP/1.1[0m" 302 -
+20-08-2022, 15:31:12	WARNING- home page!
+20-08-2022, 15:31:12	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:12] "GET / HTTP/1.1" 200 -
+20-08-2022, 15:31:12	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:31:14	WARNING- Order page!
+20-08-2022, 15:31:14	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:14] "GET /order HTTP/1.1" 200 -
+20-08-2022, 15:31:14	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:31:21	WARNING- Open invoice page!
+20-08-2022, 15:31:21	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:21] "GET /invoice HTTP/1.1" 200 -
+20-08-2022, 15:31:21	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:31:54	WARNING- Got values from the user - [('2256', '5')]
+20-08-2022, 15:31:54	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:54] "POST /invoice HTTP/1.1" 200 -
+20-08-2022, 15:31:54	INFO- 127.0.0.1 - - [20/Aug/2022 15:31:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:33:04	WARNING- Got values from the user - [('2256', '5'), ('2215', '2')]
+20-08-2022, 15:33:04	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:04] "POST /invoice HTTP/1.1" 200 -
+20-08-2022, 15:33:04	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:33:06	WARNING- Submit section of invoice!
+20-08-2022, 15:33:06	WARNING- form_val - ['2022-08-20', 'C10701', 'M/S Diya Goyal', '2022-08-20', 'C10701', 'M/S Diya Goyal']
+20-08-2022, 15:33:06	WARNING- ord_list - [('2256', '5'), ('2215', '2')]
+20-08-2022, 15:33:07	WARNING- ........!
+20-08-2022, 15:33:07	WARNING- database is saved!
+20-08-2022, 15:33:07	WARNING- database is closed!
+20-08-2022, 15:33:07	WARNING- Amounts - [Decimal('8.10'), Decimal('17.82')] [Decimal('53.10'), Decimal('116.82')]
+20-08-2022, 15:33:07	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:07] "POST /invoice/submit HTTP/1.1" 200 -
+20-08-2022, 15:33:07	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:33:42	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:42] "GET /download HTTP/1.1" 200 -
+20-08-2022, 15:33:42	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+20-08-2022, 15:33:47	WARNING- Download invoice 22000020 section!!!
+20-08-2022, 15:33:47	WARNING- Query executed successfully! - M/S Diya Goyal
+20-08-2022, 15:33:47	WARNING- header printed!
+20-08-2022, 15:33:47	WARNING- body printed!
+20-08-2022, 15:33:47	WARNING- database is closed!
+20-08-2022, 15:33:47	INFO- 127.0.0.1 - - [20/Aug/2022 15:33:47] "POST /download_invoice HTTP/1.1" 200 -
