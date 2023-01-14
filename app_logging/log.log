@@ -1620,3 +1620,25 @@
 13-01-2023, 23:22:01	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
 13-01-2023, 23:22:06	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:06] "GET /download HTTP/1.1" 200 -
 13-01-2023, 23:22:06	INFO- 127.0.0.1 - - [13/Jan/2023 23:22:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-01-2023, 12:37:57	WARNING- home page!
+14-01-2023, 12:37:57	INFO- 127.0.0.1 - - [14/Jan/2023 12:37:57] "GET / HTTP/1.1" 200 -
+14-01-2023, 12:37:58	INFO- 127.0.0.1 - - [14/Jan/2023 12:37:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-01-2023, 12:37:58	INFO- 127.0.0.1 - - [14/Jan/2023 12:37:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+14-01-2023, 12:38:17	WARNING- Order page!
+14-01-2023, 12:38:17	INFO- 127.0.0.1 - - [14/Jan/2023 12:38:17] "GET /order HTTP/1.1" 200 -
+14-01-2023, 12:38:17	INFO- 127.0.0.1 - - [14/Jan/2023 12:38:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-01-2023, 12:38:40	WARNING- submit: True & edit: False
+14-01-2023, 12:38:40	WARNING- Got order from the user.
+14-01-2023, 12:38:40	WARNING- data is inserted!
+14-01-2023, 12:38:40	WARNING- database is saved!
+14-01-2023, 12:38:40	WARNING- database is closed!
+14-01-2023, 12:38:40	INFO- 127.0.0.1 - - [14/Jan/2023 12:38:40] "POST /order HTTP/1.1" 200 -
+14-01-2023, 12:38:40	INFO- 127.0.0.1 - - [14/Jan/2023 12:38:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-01-2023, 12:39:08	WARNING- Open invoice page!
+14-01-2023, 12:39:09	INFO- 127.0.0.1 - - [14/Jan/2023 12:39:09] "GET /invoice HTTP/1.1" 200 -
+14-01-2023, 12:39:09	INFO- 127.0.0.1 - - [14/Jan/2023 12:39:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-01-2023, 12:39:34	INFO- 127.0.0.1 - - [14/Jan/2023 12:39:34] "GET /download HTTP/1.1" 200 -
+14-01-2023, 12:39:34	INFO- 127.0.0.1 - - [14/Jan/2023 12:39:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+14-01-2023, 12:39:50	WARNING- Open invoice page!
+14-01-2023, 12:39:50	INFO- 127.0.0.1 - - [14/Jan/2023 12:39:50] "GET /invoice HTTP/1.1" 200 -
+14-01-2023, 12:39:50	INFO- 127.0.0.1 - - [14/Jan/2023 12:39:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
